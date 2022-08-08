@@ -15,7 +15,7 @@ module.exports = {
     contributors: false,
     notFound: ['Sorry, etwas ist schief gelaufen.'],
     backToHome: 'Zurück zur Startseite',
-    lastUpdatedText: 'Aktualisiert am:',
+    lastUpdatedText: 'Aktualisiert am',
     navbar: [
       // NavbarItem
       {
