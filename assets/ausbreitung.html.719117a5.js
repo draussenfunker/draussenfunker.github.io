@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4743c93e","path":"/wissenswertes/ausbreitung.html","title":"Ausbreitung von Funkwellen","lang":"de-DE","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1659972645000,"contributors":[{"name":"julius zeidler","email":"julius.zeidler@sumcumo.com","commits":1}]},"filePathRelative":"wissenswertes/ausbreitung.md"}');export{e as data};
