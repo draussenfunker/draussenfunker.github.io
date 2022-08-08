@@ -1,6 +1,4 @@
 const { defaultTheme } = require('@vuepress/theme-default')
-const { activeHeaderLinksPlugin } = require('@vuepress/plugin-active-header-links')
-const { backToTopPlugin } = require('@vuepress/plugin-back-to-top')
 const { socialSharePlugin } = require(`vuepress-plugin-social-share`)
 
 
@@ -10,13 +8,14 @@ module.exports = {
   title: 'Draussenfunker.de | QRV im Grünen',
   description: 'Wir sind eine Gruppe von Funkamateuren die sich mit dem Thema Funken im Freien beschäftigen.',
   plugins: [
-    activeHeaderLinksPlugin({
-      // options
-    }),
-    backToTopPlugin(),
     socialSharePlugin(),
   ],
   theme: defaultTheme({
+    sidebarDepth: 0,
+    contributors: false,
+    notFound: ['Sorry, etwas ist schief gelaufen.'],
+    backToHome: 'Zurück zur Startseite',
+    lastUpdatedText: 'Aktualisiert am:',
     navbar: [
       // NavbarItem
       {
