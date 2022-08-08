@@ -5,7 +5,7 @@ tagline: "Wir sind eine Gruppe von Funkamateuren, die sich dem Funkbetrieb in de
 
 ---
 
-![Funkbetrieb am Strand](/images/beach.jpg)
+# ![Funkbetrieb am Strand](/images/beach.jpg)
 
 Ohne Steckdose, aufwändige Installationen z.T. mit dem was wir im Rucksack transportieren können, machen wir Funkbetrieb an Orten an denen sonst nicht gefunkt wird. Ob in einem Park, am Strand oder irgendwo in der freien Natur - der Reiz fernab des heimischen "Shacks" Funkbetrieb zu machen, zieht uns regelmäßig nach Draußen.
 
