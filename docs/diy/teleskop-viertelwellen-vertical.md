@@ -4,7 +4,7 @@ description: Eine Portable Viertelwellen Vertikalantenne für 10 - 20m und klein
 head:
   - - meta
     - name: og:image
-      content: /images/diy/teleskop-viertelwellen-vertical/action-shot-stadpark.jpeg
+      content: https://draussenfunker.github.io/images/diy/teleskop-viertelwellen-vertical/action-shot-stadpark.jpeg
 ---
 
 # Teleskop 1/4 Lamda Vertikal
