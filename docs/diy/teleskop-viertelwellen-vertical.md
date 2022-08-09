@@ -87,7 +87,4 @@ Auf anderen Bändern sind die Ergebnisse ähnlich.
 
 ## Feedback?
 
-## Feedback? 
-Du kannst mit uns auf [Discord](https://discord.gg/89Bjuu6nY5) in Kontakt treten und uns mit Fragen bombardieren oder Feedback geben. Wie freuen uns.
-
- 
+Du kannst mit uns auf [Discord](https://discord.gg/B6BkdcTQ87) in Kontakt treten und uns mit Fragen bombardieren oder Feedback geben. Wie freuen uns.
