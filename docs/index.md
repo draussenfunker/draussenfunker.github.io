@@ -6,6 +6,12 @@ heroText: "Mit Funkwellen um die Welt"
 
 # ![Funkbetrieb am Strand](/images/beach.jpg)
 
+<CallToAction caption="Discord" link="https://draussenfunker.github.io/" image="astr" />
+<CallToAction caption="Lernen" link="https://draussenfunker.github.io/" image="astr" />
+<CallToAction caption="Blog" link="https://draussenfunker.github.io/" image="astr" />
+
+<Funkwetter caption="Blafasel" />
+
 ## Was passiert hier?
 
 Ohne Steckdose, aufwändige Installationen z.T. mit dem was wir im Rucksack transportieren können, machen wir Funkbetrieb an Orten an denen sonst nicht gefunkt wird. Ob in einem Park, am Strand oder irgendwo in der freien Natur - der Reiz fernab des heimischen "Shacks" Funkbetrieb zu machen, zieht uns regelmäßig nach Draußen.

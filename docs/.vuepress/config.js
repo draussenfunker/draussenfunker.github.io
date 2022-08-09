@@ -1,7 +1,7 @@
+const { registerComponentsPlugin } = require('@vuepress/plugin-register-components')
 const { defaultTheme } = require('@vuepress/theme-default')
 const { socialSharePlugin } = require(`vuepress-plugin-social-share`)
-
-
+const { path } = require('@vuepress/utils')
 
 module.exports = {
   lang: 'de-DE',
@@ -9,6 +9,9 @@ module.exports = {
   description: 'Wir sind eine Gruppe von Funkamateuren die sich mit dem Thema Funken im Freien beschäftigen.',
   plugins: [
     socialSharePlugin(),
+    registerComponentsPlugin({
+      componentsDir: path.resolve(__dirname, './components'),
+    }),
   ],
   theme: defaultTheme({
     sidebarDepth: 0,
