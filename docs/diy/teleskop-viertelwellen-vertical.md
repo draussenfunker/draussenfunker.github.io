@@ -1,6 +1,11 @@
+---
+sidebarDepth: 2
+description: Eine Portable Viertelwellen Vertikalantenne für 10 - 20m und kleines Geld - selbstgebaut
+---
+
 # Teleskop 1/4 Lamda Vertikal
 ![In Aktion im Stadtpark](/images/diy/teleskop-viertelwellen-vertical/action-shot-stadpark.jpeg)
-
+Eine Portable Viertelwellen Vertikalantenne für 10 - 20m und kleines Geld - selbstgebaut.
 
 
 ## Bauteile / Bezugsquellen
