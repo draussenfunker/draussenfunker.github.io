@@ -8,16 +8,17 @@ head:
 ---
 
 # Teleskop 1/4 Lamda Vertikal
+
 ![In Aktion im Stadtpark](/images/diy/teleskop-viertelwellen-vertical/action-shot-stadpark.jpeg)
 Eine Portable Viertelwellen Vertikalantenne für 10 - 20 Meter und kleines Geld - selbstgebaut.
 
-
 ## Bauteile / Bezugsquellen
+
 Die Antenne besteht im Wesentlichen aus einer 5,6 m langen Teleskop Antenne, welche mit einer Halterung und einem Dorn im Erdboden befestigt wird.
 
 Problematisch an günstigen Teleskopantennen aus Fernost ist, dass diese, im Gegensatz zu z.B. den Produkten von MFJ, ein M10 Gewinde haben und nicht das gängigere 3/8".
 
-Daher hier eine kleine Liste mit Bezugsquellen und Bauteilen.  
+Daher hier eine kleine Liste mit Bezugsquellen und Bauteilen.
 
 - [5,6m Teleskopantenne mit M10 Gewinde - BD7IBI](https://de.aliexpress.com/item/1005004139955542.html)
 - [Halterung](https://smile.amazon.de/Albrecht-Antennenhalterung-3-8-6197-Silber/dp/B002VASO5U/)
@@ -27,9 +28,11 @@ Daher hier eine kleine Liste mit Bezugsquellen und Bauteilen.
 - Schrauben, ggf. Kabelschuhe und Werkzeug (Baumarkt, Amazon, ebay, Bastelkiste)
 
 ## Zusammenbau
-Halterung und Einbaubuchse bedürfen im Aufbau keiner weiteren Erklärung. 
+
+Halterung und Einbaubuchse bedürfen im Aufbau keiner weiteren Erklärung.
 
 ### Erddorn
+
 Von dem Aluminium Rundstab längt man ca. 30 cm ab.
 
 Das Anspitzen erfolgt durch etwas manuelle Vorarbeit mit einer groben Pfeile und anschließender Feinarbeit eingespannt in einer Bohrmaschine oder einen Akkuschrauber.
@@ -37,8 +40,8 @@ Das Anspitzen erfolgt durch etwas manuelle Vorarbeit mit einer groben Pfeile und
 **Vorsicht**:
 Schutzbrille aufsetzen!
 
-
 ### Radials
+
 Da es sich bei den Radials nicht um "Elevated Radials", sondern "Ground Radials" handelt, müssen diese nicht abgestimmt sein.
 16 bis 32 Radials in 2 - 3 m Länge sind ein guter Kompromiss in Hinblick auf Portabilität und Antennen Fußabdruck.
 
@@ -56,16 +59,16 @@ Natürlich kann man die Radials auch direkt an den Schrauben der Halterung befes
 
 ![Alles Fertig](/images/diy/teleskop-viertelwellen-vertical/collapsed.jpg)
 
-
 ## Abstimmung / Aufbau
-Der Aufbau und die Abstimmung sind denkbar einfach:   
+
+Der Aufbau und die Abstimmung sind denkbar einfach:
 
 - Alu Dorn in den Boden stecken
 - Radials Auslegen
 - Teleskopantenne aufschrauben
 - Mit VNA (z.B. Nano VNA) auf das gewünschte Band abstimmen.
 
-Noch schneller geht es, wenn man sich mit einem wasserfesten Stift kleine Markierungen an dem Teleskop macht, damit man die Bänder schneller grob wiederfindet. 
+Noch schneller geht es, wenn man sich mit einem wasserfesten Stift kleine Markierungen an dem Teleskop macht, damit man die Bänder schneller grob wiederfindet.
 Feinabgestimmt werden muss natürlich trotzdem.
 
 Die Antenne lässt sich durch Ausziehen des Teleskops problemlos für 10 - 20 Meter abstimmen.
@@ -75,13 +78,14 @@ Hier ein paar Screenshots von den Abstimmwerten für das 15 Meter Band , beim Au
 Auf anderen Bändern sind die Ergebnisse ähnlich.
 
 **VSWR**:
- 
+
 ![VSWR auf 15m](/images/diy/teleskop-viertelwellen-vertical/swr-15m-band-cropped.jpg)
 
-**Smith Diagram**
+**Smith Diagram**:
 
 ![Smith auf 15m](/images/diy/teleskop-viertelwellen-vertical/smith-15m-band-cropped.jpg)
 
+## Feedback?
 
 ## Feedback? 
 Du kannst mit uns auf [Discord](https://discord.gg/89Bjuu6nY5) in Kontakt treten und uns mit Fragen bombardieren oder Feedback geben. Wie freuen uns.
