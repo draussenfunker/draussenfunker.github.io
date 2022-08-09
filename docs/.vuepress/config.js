@@ -22,6 +22,12 @@ module.exports = {
         text: 'Start',
         link: '/',
       },
+      {
+        text: 'DIY',
+        children: [
+            '/diy/teleskop-viertelwellen-vertical'
+        ],
+      },
       // NavbarGroup
       {
         text: 'Wissenswertes',
