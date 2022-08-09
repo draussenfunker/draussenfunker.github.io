@@ -27,7 +27,7 @@ Daher hier  eine kleine Liste mit Bezugsquellen und Bauteilen.
 - Schrauben, ggf. Kabelshuhe und Werkzeug (Baumarkt, Amazon, ebay, Bastelkiste)
 
 ## Zusammenbau
-Halterung und Einbaubuchse bedürfen im sicher Aufbau keiner weiteren Erklärung. 
+Halterung und Einbaubuchse bedürfen im Aufbau keiner weiteren Erklärung. 
 
 ### Erddorn
 Von dem Aluminium Rundstab längt man ca. 30cm ab.
@@ -46,7 +46,7 @@ In diesem Beispiel sind es 32 Stück a 2,5m Länge
 
 ![Radilas](/images/diy/teleskop-viertelwellen-vertical/radials.jpg)
 
-Um die Radials an der Halterung zu befestigen, wurde  ein weiteres Loch in die Halterung gebohrt und ein Gewinde geschnitten.
+Um die Radials an der Halterung zu befestigen, wurde ein weiteres Loch in die Halterung gebohrt und ein Gewinde geschnitten.
 
 Natürlich kann man die Radials auch direkt an den Schrauben der Halterung befestigen.
 
