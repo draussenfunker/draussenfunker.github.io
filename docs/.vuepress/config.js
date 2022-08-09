@@ -11,7 +11,7 @@ module.exports = {
     socialSharePlugin(),
   ],
   theme: defaultTheme({
-    sidebarDepth: 1,
+    sidebarDepth: 2,
     contributors: false,
     notFound: ['Sorry, etwas ist schief gelaufen.'],
     backToHome: 'Zurück zur Startseite',
