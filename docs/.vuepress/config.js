@@ -11,7 +11,7 @@ module.exports = {
     socialSharePlugin(),
   ],
   theme: defaultTheme({
-    sidebarDepth: 0,
+    sidebarDepth: 2,
     contributors: false,
     notFound: ['Sorry, etwas ist schief gelaufen.'],
     backToHome: 'Zurück zur Startseite',
@@ -21,6 +21,12 @@ module.exports = {
       {
         text: 'Start',
         link: '/',
+      },
+      {
+        text: 'DIY',
+        children: [
+            '/diy/teleskop-viertelwellen-vertical'
+        ],
       },
       // NavbarGroup
       {
