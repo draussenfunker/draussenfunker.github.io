@@ -20,25 +20,28 @@ Problematisch an günstigen Teleskopantennen aus Fernost ist, dass diese, im Geg
 
 Daher hier eine kleine Liste mit Bezugsquellen und Bauteilen.
 
-- [5,6m Teleskopantenne mit M10 Gewinde - BD7IBI](https://de.aliexpress.com/item/1005004139955542.html)
-- [Halterung](https://smile.amazon.de/Albrecht-Antennenhalterung-3-8-6197-Silber/dp/B002VASO5U/)
-- [Einbauchfuß M10 auf PL](https://difona.de/amateurfunk/geraetezubehoer/ersatzteile/1880/einschraub-pl-auf-m-10-fuer-hfp-1)
-- [Litze für Radiale - Fahrzeugleitung FLRY 0,75mm² o.ä](https://www.ebay.de/itm/403789483361)
-- 10mm durchmessender Aluminium Rundstab (Baumarkt, Amazon, ebay, Bastelkiste)
-- Schrauben, ggf. Kabelschuhe und Werkzeug (Baumarkt, Amazon, ebay, Bastelkiste)
+| Bauteil       | ca. Preis Stand 08/2022     |
+| ------------- | -----:|
+| [5,6m Teleskopantenne mit M10 Gewinde - BD7IBI](https://de.aliexpress.com/item/1005004139955542.html)   | 25,00 Euro |
+| [Halterung](https://smile.amazon.de/Albrecht-Antennenhalterung-3-8-6197-Silber/dp/B002VASO5U/)     |    10,00 Euro |
+| [Einbauchfuß M10 auf PL](https://difona.de/amateurfunk/geraetezubehoer/ersatzteile/1880/einschraub-pl-auf-m-10-fuer-hfp-1) | 8,50 Euro |
+| [Litze für Radiale - Fahrzeugleitung FLRY 0,75mm² o.ä](https://www.ebay.de/itm/403789483361)| 20,00 Euro |
+| 10mm durchmessender Aluminium Rundstab (Baumarkt, Amazon, ebay, Bastelkiste)| 5,00 Euro |
+| Schrauben, Stecker ggf. Kabelschuhe  (Baumarkt, Amazon, ebay, Bastelkiste)| 10,00 Euro|
+|**Summe**| **78,50 Euro**
 
 ## Zusammenbau
 
 Halterung und Einbaubuchse bedürfen im Aufbau keiner weiteren Erklärung.
 
-### Erddorn
+### Erddorn     
 
-Von dem Aluminium Rundstab längt man ca. 30 cm ab.
+Von dem Aluminium Rundstab längt man ca. 30 cm ab. 
 
 Das Anspitzen erfolgt durch etwas manuelle Vorarbeit mit einer groben Pfeile und anschließender Feinarbeit eingespannt in einer Bohrmaschine oder einen Akkuschrauber.
 
 ::: danger Vorsicht
-Schutzbrille aufsetzen! Und Handschuhe an! Metall spähne im Auge oder sonst wo im Körper sind nicht Cool :) 
+Schutzbrille aufsetzen und Handschuhe an! Metallspäne im Auge oder sonst wo im Körper sind nicht cool :) 
 :::
 
 ### Radials
