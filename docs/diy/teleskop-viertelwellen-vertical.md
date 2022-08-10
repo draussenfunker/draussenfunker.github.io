@@ -17,7 +17,9 @@ Eine Portable Viertelwellen Vertikalantenne für 10 - 20 Meter und kleines Geld 
 Die Antenne besteht im Wesentlichen aus einer 5,6 m langen Teleskop Antenne, welche mit einer Halterung und einem Dorn im Erdboden befestigt wird.
 
 Problematisch an günstigen Teleskopantennen aus Fernost ist, dass diese, im Gegensatz zu z.B. den Produkten von MFJ, ein M10 Gewinde haben und nicht das gängigere 3/8".
-
+::: tip
+Wer schon eine HF-P1 oder eine PAC-12 Antenne besitzt, kann diese prima mit dem unten angegeben langen Teleskop kombinieren. 
+:::
 Daher hier eine kleine Liste mit Bezugsquellen und Bauteilen.
 
 | Bauteil       | ca. Preis Stand 08/2022     |
