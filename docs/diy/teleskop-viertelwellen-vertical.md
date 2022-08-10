@@ -37,8 +37,9 @@ Von dem Aluminium Rundstab längt man ca. 30 cm ab.
 
 Das Anspitzen erfolgt durch etwas manuelle Vorarbeit mit einer groben Pfeile und anschließender Feinarbeit eingespannt in einer Bohrmaschine oder einen Akkuschrauber.
 
-**Vorsicht**:
-Schutzbrille aufsetzen!
+::: danger Vorsicht
+Schutzbrille aufsetzen! Und Handschuhe an! Metall spähne im Auge oder sonst wo im Körper sind nicht Cool :) 
+:::
 
 ### Radials
 
