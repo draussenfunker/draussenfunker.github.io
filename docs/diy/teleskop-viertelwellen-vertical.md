@@ -32,6 +32,13 @@ Daher hier eine kleine Liste mit Bezugsquellen und Bauteilen.
 | Schrauben, Stecker ggf. Kabelschuhe  (Baumarkt, Amazon, ebay, Bastelkiste)| 10,00 Euro|
 |**Summe**| **78,50 Euro**
 
+::: warning Hinweis 
+Die Teileauswahl ist nur ein Vorschlag und nicht notwendigerweise immer verfügbar. 
+Wichtig ist es, das Prinzip der Bauweise zu verstehen und für die Bauteile ggf. das zu benutzen, was man schon hat oder leicht bekommen/bauen kann.
+Wir freuen uns über Eure Abwandlungen. 
+:::
+
+
 ## Zusammenbau
 
 Halterung und Einbaubuchse bedürfen im Aufbau keiner weiteren Erklärung.

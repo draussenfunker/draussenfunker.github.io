@@ -30,9 +30,9 @@
             }
         },
         setup(props) {
-            const pages = props.type ?
+            const pages = (props.type ?
                 usePages().filter(page => page.frontmatter.type === props.type) :
-                usePages();
+                usePages()).sort((a, b) => (b.path > a.path) ? 1 : -1);
             console.log(pages);
             return {pages}
         }
