@@ -28,7 +28,7 @@ Daher hier eine kleine Liste mit Bezugsquellen und Bauteilen.
 | [Halterung](https://smile.amazon.de/Albrecht-Antennenhalterung-3-8-6197-Silber/dp/B002VASO5U/)     |    10,00 Euro |
 | [Einbauchfuß M10 auf PL](https://difona.de/amateurfunk/geraetezubehoer/ersatzteile/1880/einschraub-pl-auf-m-10-fuer-hfp-1) | 8,50 Euro |
 | [Litze für Radiale - Fahrzeugleitung FLRY 0,75mm² o.ä](https://www.ebay.de/itm/403789483361)| 20,00 Euro |
-| 10mm durchmessender Aluminium Rundstab (Baumarkt, Amazon, ebay, Bastelkiste)| 5,00 Euro |
+| 12mm durchmessender Aluminium Rundstab (Baumarkt, Amazon, ebay, Bastelkiste)| 5,00 Euro |
 | Schrauben, Stecker ggf. Kabelschuhe  (Baumarkt, Amazon, ebay, Bastelkiste)| 10,00 Euro|
 |**Summe**| **78,50 Euro**
 
