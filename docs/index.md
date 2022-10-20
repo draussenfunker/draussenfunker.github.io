@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: "Mit Funkwellen um die Welt"
+heroText: "Von draußen mit Funkwellen um die Welt"
 heroImage: /images/beach_280px_heigh.jpg
 actions:
   - text: Ich will auch!
@@ -15,8 +15,7 @@ features:
   - title: Gemeinsame Aktivitäten
     details: Wir verabreden uns regelmässig für gemeinsame Funkt- oder Bastelaktivitäten oder einfach nur so.
   - title: Hilfe
-    details: Du kommst nicht weiter bei Lernen für die Prüfung? Du möchtest irgendwas über Gerät XZY wissen? Komm vorbei:)
-
+    details: Du kommst nicht weiter bei Lernen für die Prüfung? Du möchtest irgendwas über Gerät XZY wissen? Komm vorbei:)      
 ---
 ## Was passiert hier genau?
 
