@@ -27,6 +27,4 @@ Durch unsere Präsenz im öffentlichen Raum machen wir das Hobby Amateurfunk wie
 
 * Du kannst hier mehr über das Thema [Amateurfunk](/wissenswertes/amateurfunk) erfahren.
 
-* Unsere [Videosammlung](/wissenswertes/videos) gibt dir einen weiteren Einblick in unser Hobby.
-
 * Der [Deutsche Amateur-Radio-Club (DARC) e.V.](https://www.darc.de/home) ist die Interessenvertretung deutscher Funkamateure und eine gute Anlaufstelle um eine lokale Gruppierung zu finden.
