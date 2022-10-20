@@ -42,6 +42,10 @@ module.exports = {
         text: 'Wissenswertes',
         children: ['/wissenswertes/amateurfunk', '/wissenswertes/ausbreitung'],
       },
+      {
+        text: 'Kontakt',
+        link: '/kontakt',
+      },
     ],
   }),
 }
