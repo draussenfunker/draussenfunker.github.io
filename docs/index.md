@@ -15,7 +15,7 @@ features:
   - title: Gemeinsame Aktivitäten
     details: Wir verabreden uns regelmässig für gemeinsame Funkt- oder Bastelaktivitäten oder einfach nur so.
   - title: Hilfe
-    details: Du kommst nicht weiter bei Lernen für die Prüfung? Du möchtest irgendwas über Gerät XZY wissen? Komme vorbei:)
+    details: Du kommst nicht weiter bei Lernen für die Prüfung? Du möchtest irgendwas über Gerät XZY wissen? Komm vorbei:)
 
 ---
 ## Was passiert hier genau?
