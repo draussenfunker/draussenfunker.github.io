@@ -1,5 +1,6 @@
 ---
 sidebar: false
+description: Auch Bock? Jetzt Draußenfunker werden!
 ---
 
 
