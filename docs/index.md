@@ -11,11 +11,11 @@ actions:
     type: secondary
 features:
   - title: Austausch
-    details: Wir schnacken im Discord über alles rund ums Thema Funk. Besuch uns!                          
+    details: Wir schnacken im Discord über alles rund ums Thema Funk. Besuch uns!                 
   - title: Gemeinsame Aktivitäten
-    details: Wir verabreden uns regelmässig für gemeinsame Funkt- oder Bastelaktivitäten oder einfach nur so.
+    details: Regelmässige gemeinsame Funk- und Bastelaktivitäten.
   - title: Hilfe
-    details: Du kommst nicht weiter bei Lernen für die Prüfung? Du möchtest irgendwas über Gerät XZY wissen? Komm vorbei:)      
+    details: Beim Lernen für die Prüfung, Aktivierungen, Equipment, DIY etc.
 ---
 ## Was passiert hier genau?
 
