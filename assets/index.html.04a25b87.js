@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2b926d9f","path":"/aktivitaeten/","title":"Aktvitit\xE4ten","lang":"de-DE","frontmatter":{"sidebar":false,"description":"Aktvitit\xE4ten der Drau\xDFenfunker POTA, SOTA, COTA, BOTA und mehr"},"excerpt":"","headers":[],"git":{"updatedTime":1666291519000},"filePathRelative":"aktivitaeten/index.md"}');export{e as data};
