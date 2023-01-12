@@ -8,6 +8,7 @@ features:
  - POTA
 ---
 # Glühwein-POTA und Jahresrückblick 2022
+![](/aktivitaeten/GLUEHWEINPOTA-2022/gluehweinpota.png)
 Das Jahr 2022 war für uns ein ganz besonderes. Eine Gruppe von Funkamateuren hat sich auf Twitter zusammengefunden. Vereint hat uns das Interesse an Outdoor-Funken, insbesondere SOTA und POTA.
 Die ersten gemeinsamen Aktivierungen im Hamburger Raum haben wirklich Spaß gemacht. Wir haben viel gelernt und den ein oder anderen Funkamateur fürs Draussenfunken begeistern können. Schnell war klar, dass Twitter nicht das richtige Medium für Gruppenkommunikation ist, also sind wir auf eine Chat-Plattform umgezogen.
 
@@ -25,4 +26,4 @@ Wir möchten uns bei jedem Einzelnen bedanken. Bedanken für die Kontakte über 
 
 Auf, dass 2023 noch toller wird, dass wir das Thema Draussenfunken, POTA, SOTA, WWFF, etc. noch weiter in die Breite tragen können, und unsere Gemeinschaft weiter wächst.
 
-DO7JZ, DG7PX, DK4HHA
+DK4HHA, DG7PX, DO1DSH, DO7JZ
