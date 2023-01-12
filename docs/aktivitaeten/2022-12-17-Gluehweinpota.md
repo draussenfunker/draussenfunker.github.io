@@ -3,7 +3,7 @@ title: Glühwein-POTA 2022
 description:
     Nach einem erfolgreichen Jahr mit vielen schönen Aktivierungen haben sich die Draussenfunker in Hamburg zum Jahresabschlussevent getroffen.
 type: activity
-image: /aktivitaeten/GLUEHWEINPOTA-2022/gluehweinpota.png
+image: /aktivitaeten/GLUEHWEINPOTA-2022/gluehweinpota.jpg
 features:
  - POTA
 ---
