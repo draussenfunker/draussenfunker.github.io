@@ -7,7 +7,7 @@ head:
       content: https://draussenfunker.github.io/images/diy/teleskop-viertelwellen-vertical/action-shot-stadpark.jpeg
 ---
 
-# Teleskop 1/4 Lamda Vertikal
+# Teleskop 1/4 Lambda Vertikal
 
 ![In Aktion im Stadtpark](/images/diy/teleskop-viertelwellen-vertical/action-shot-stadpark.jpeg)
 Eine Portable Viertelwellen Vertikalantenne für 10 - 20 Meter und kleines Geld - selbstgebaut.

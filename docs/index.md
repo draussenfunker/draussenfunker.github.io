@@ -3,15 +3,15 @@ home: true
 heroText: "Von draußen mit Funkwellen um die Welt"
 heroImage: /images/beach_280px_heigh.jpg
 actions:
-  - text: Ich will auch!
-    link: /kontakt/
+  - text: Jetzt mitmachen!
+    link: https://discord.gg/B6BkdcTQ87
     type: primary
   - text: Aktivitäten
     link: /aktivitaeten/
     type: secondary
 features:
   - title: Austausch
-    details: Wir schnacken im Discord über alles rund ums Thema Funk. Besuch uns!                 
+    details: Wir schnacken im Discord über alles rund ums Thema Funk. Besuch uns!
   - title: Gemeinsame Aktivitäten
     details: Regelmässige gemeinsame Funk- und Bastelaktivitäten.
   - title: Hilfe
