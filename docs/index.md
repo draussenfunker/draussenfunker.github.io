@@ -21,7 +21,7 @@ features:
 
 Ohne Steckdose, aufwändige Installationen – oft nur mit dem, was wir im Rucksack transportieren können – machen wir Funkbetrieb an Orten an denen sonst nicht gefunkt wird. Ob in einem Park, am Strand oder irgendwo in der freien Natur – der Reiz fernab des heimischen "Shacks" Funkbetrieb zu machen, zieht uns regelmäßig nach draußen.
 
-Auf diesen Seiten wollen wir dir einen Einblick in unsere Passion geben, egal ob du bereits lizenzierter Funkamateur bist oder es noch werden möchtest. Vielleicht hast du uns ja bei einem unserer Funktage kennen gelernt und möchtest jetzt mehr wissen? [Dann mach mit!](/mitmachen).
+Auf diesen Seiten wollen wir dir einen Einblick in unsere Passion geben, egal ob du bereits lizenzierter Funkamateur bist oder es noch werden möchtest. Vielleicht hast du uns ja bei einem unserer Funktage kennen gelernt und möchtest jetzt mehr wissen? [Dann mach mit!](/mitmachen)
 
 ## Und warum?
 
