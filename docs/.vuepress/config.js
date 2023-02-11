@@ -32,18 +32,18 @@ module.exports = {
         link: '/aktivitaeten',
       },
       {
-        text: 'DIY',
-        children: [
-            '/diy/teleskop-viertelwellen-vertical'
-        ],
-      },
-      {
         text: 'Amateurfunk',
         link: '/amateurfunk',
       },
       {
         text: 'Mitmachen',
         link: '/mitmachen',
+      },
+      {
+        text: 'DIY',
+        children: [
+            '/diy/teleskop-viertelwellen-vertical'
+        ],
       },
     ],
   }),
