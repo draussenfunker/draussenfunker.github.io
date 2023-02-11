@@ -3,8 +3,8 @@ home: true
 heroText: "Von draußen mit Funkwellen um die Welt"
 heroImage: /images/beach_280px_heigh.jpg
 actions:
-  - text: Jetzt mitmachen!
-    link: https://discord.gg/B6BkdcTQ87
+  - text: Ich will auch!
+    link: /mitmachen/
     type: primary
   - text: Aktivitäten
     link: /aktivitaeten/
@@ -19,15 +19,16 @@ features:
 ---
 ## Was passiert hier genau?
 
-Ohne Steckdose, aufwändige Installationen – oft nur mit dem, was wir im Rucksack transportieren können – machen wir Funkbetrieb an Orten an denen sonst nicht gefunkt wird. Ob in einem Park, am Strand oder irgendwo in der freien Natur – der Reiz fernab des heimischen "Shacks" Funkbetrieb zu machen, zieht uns regelmäßig nach Draußen.
+Ohne Steckdose, aufwändige Installationen – oft nur mit dem, was wir im Rucksack transportieren können – machen wir Funkbetrieb an Orten an denen sonst nicht gefunkt wird. Ob in einem Park, am Strand oder irgendwo in der freien Natur – der Reiz fernab des heimischen "Shacks" Funkbetrieb zu machen, zieht uns regelmäßig nach draußen.
 
-Auf diesen Seiten wollen wir dir einen Einblick in unsere Passion geben, egal ob du bereits lizenzierter Funkamateur bist oder es noch werden möchtest. Vielleicht hast du uns ja bei einem unserer Funktage kennen gelernt und möchtest jetzt mehr wissen?
+Auf diesen Seiten wollen wir dir einen Einblick in unsere Passion geben, egal ob du bereits lizenzierter Funkamateur bist oder es noch werden möchtest. Vielleicht hast du uns ja bei einem unserer Funktage kennen gelernt und möchtest jetzt mehr wissen? [Dann mach mit!](/mitmachen).
 
 ## Und warum?
 
 Da gibt es viele Gründe...
 
-Viele von uns leben z.B. in urbanen Gebieten und haben entweder keinen Platz für große Antennen oder Probleme mit Störungen aus der Nachbarschaft.
-Andere wiederum sind einfach nur gern ein bischen an der frischen Luft.
+Viele von uns leben z.B. in urbanen Gebieten und haben entweder keinen Platz für große Antennen oder Probleme mit Störungen aus der Nachbarschaft. Andere wiederum sind einfach nur gern ein bisschen an der frischen Luft und verbinden dies mit dem Hobby Amateurfunk.
 
-Durch unsere Präsenz im öffentlichen Raum machen wir das Hobby Amateurfunk wieder sichtbar und führen immer wieder nette Gespräche mit interessierten Passanten. Daher richten wir uns mit dieser Webseite auch explizit an die nicht lizenzierten, am Thema Amateurfunk interessierten Personen und bieten einen Einstieg in die Ausbildung an.
+Durch unsere Präsenz im öffentlichen Raum machen wir das Hobby Amateurfunk sichtbar und führen immer wieder nette Gespräche mit interessierten Passanten. Daher richten wir uns mit dieser Webseite auch explizit an die nicht lizenzierten, am Thema Amateurfunk interessierten Personen und bieten einen Einstieg in die Ausbildung an.
+
+Du möchtest mehr über Amateurfunk erfahren? [Hier findest du weitere Informationen.](/amateurfunk)

@@ -37,14 +37,13 @@ module.exports = {
             '/diy/teleskop-viertelwellen-vertical'
         ],
       },
-      // NavbarGroup
       {
-        text: 'Wissenswertes',
-        children: ['/wissenswertes/amateurfunk', '/wissenswertes/ausbreitung'],
+        text: 'Amateurfunk',
+        link: '/amateurfunk',
       },
       {
-        text: 'Kontakt',
-        link: '/kontakt',
+        text: 'Mitmachen',
+        link: '/mitmachen',
       },
     ],
   }),
