@@ -7,7 +7,7 @@ const { usePagesPlugin } = require('vuepress-plugin-use-pages')
 module.exports = {
   lang: 'de-DE',
   title: 'Draussenfunker.de | QRV im Grünen',
-  description: 'Wir sind eine Gruppe von Funkamateuren die sich mit dem Thema Funken im Freien beschäftigen.',
+  description: 'Wir sind eine Gruppe von Funkamateuren, die sich mit dem Thema Funken im Freien beschäftigt.',
   plugins: [
     usePagesPlugin({ startsWith: '/aktivitaeten/'}),
     socialSharePlugin(),

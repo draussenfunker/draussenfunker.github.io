@@ -23,6 +23,7 @@ Ohne Steckdose, aufwändige Installationen – oft nur mit dem, was wir im Rucks
 
 Auf diesen Seiten wollen wir dir einen Einblick in unsere Passion geben, egal ob du bereits lizenzierter Funkamateur bist oder es noch werden möchtest. Vielleicht hast du uns ja bei einem unserer Funktage kennen gelernt und möchtest jetzt mehr wissen? [Dann mach mit!](/mitmachen)
 
+
 ## Und warum?
 
 Da gibt es viele Gründe...
@@ -32,3 +33,22 @@ Viele von uns leben z.B. in urbanen Gebieten und haben entweder keinen Platz fü
 Durch unsere Präsenz im öffentlichen Raum machen wir das Hobby Amateurfunk sichtbar und führen immer wieder nette Gespräche mit interessierten Passanten. Daher richten wir uns mit dieser Webseite auch explizit an die nicht lizenzierten, am Thema Amateurfunk interessierten Personen und bieten einen Einstieg in die Ausbildung an.
 
 Du möchtest mehr über Amateurfunk erfahren? [Hier findest du weitere Informationen.](/amateurfunk)
+
+
+## Über uns – die Geschichte hinter draussenfunker.de
+
+Angefangen hat es mit einer Hand voll Funkamateuren auf Twitter, die im Sommer 2022 beschlossen: Draußen funken? Einfach mal machen!
+
+Ein paar Tage später folgte die erste gemeinsame Funkaktion im Öjendorfer Park in Hamburg und es stand schnell fest: es muss mehr coole Aktionen mit coolen Leuten im Amateurfunk geben. Außerdem brauchten wir eine Website für Funk-Interessierte, die uns auf das Thema ansprechen. Die Idee von draussenfunker.de mit dem dazugehörigem [Forum auf Discord](https://discord.gg/B6BkdcTQ87) war geboren. 
+
+Seit dem ist viel passiert. In knapp sechs Monaten wuchs die Community auf über 100 Funkamateure und Funk-Interessierte an, die sich rege zum Thema Draußenfunken austauschen. Bei gemeinsamen Bastelaktionen (on- sowie offline) bauen wir Antennen, Funkgeräte und anderes. Bei unseren Funkaktivitäten haben wir allein in der zweiten Jahreshälfte 2022 mehrere tausend Funkverbindungen im und aus dem Grünen zusammen bekommen. Und das ist erst der Anfang! Wir haben noch viele Ideen für die Zukunft und durch die wachsende Community kommen täglich neue dazu. [Sei dabei!](/mitmachen)
+
+An dieser Stelle ein großes Dankeschön an alle Mitreisenden!
+
+73 von den Gründern von draussenfunker.de
+
+[DO7JZ](https://www.qrz.com/db/DO7JZ), [DG7PX](https://www.qrz.com/db/DG7PX), [DO1DSH](https://www.qrz.com/db/DO1DSH), [DO7OO](https://www.qrz.com/db/DO7OO) und [DK4HAA](https://www.qrz.com/db/DK4HAA)
+
+
+## Kontakt
+Primär sind wir über den [Discord-Server](/mitmachen) erreichbar. Du erreichst uns aber auch per E-Mail: [cq@draussenfunker.de](mailto:cq@draussenfunker.de)
