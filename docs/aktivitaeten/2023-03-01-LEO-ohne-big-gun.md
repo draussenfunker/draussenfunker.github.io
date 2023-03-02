@@ -14,7 +14,7 @@ Aufmerksam geworden, durch Experimente von DO7OO im [Disord der draussenfunker.d
 
 
 ## Zutaten
-- Billiges FM-Handfunkgerät (Radioditty, Baofeng, …)
+- Billiges FM-Handfunkgerät (Radioddity, Baofeng, …)
 - Mobiltelefon
 - App zum SAT-Tracken. Bspw. den „ISS-Detektor“
 - Eine Portion Glück
