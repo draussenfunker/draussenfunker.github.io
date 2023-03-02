@@ -70,7 +70,7 @@ Elevation gross heisst: >70Grad - dann ist der Vogel fast über uns.
 
 7. Jetzt heisst es schnell sein, wenn der SAT über uns ist. Wir halten das Funkgerät möglichst Waagerecht und im rechten Winkel zur Flugbahn. Dann ist die Chance, dass wir den SAT hören, und der uns, am größten.
 
-8. Steht also der SAT kurz vorm Zenit (Höchster Punkt über uns), können wir versuchen über Kanak 1 den SAT aufzutasten. Anschliessend flink auf Kanal 2 gehen und CQ rufen oder halt auf einen CQ-Ruf Antworten.
+8. Steht also der SAT kurz vorm Zenit (Höchster Punkt über uns), können wir versuchen über Kanal 1 den SAT aufzutasten. Anschliessend flink auf Kanal 2 gehen und CQ rufen oder halt auf einen CQ-Ruf Antworten.
 
 9. Je weiter sich der SAT von uns wieder wegbewegt, desto höher gehen wir im Kanal (Wegbewegende Objekte / Dopplereffekt: Frequenz wird niedriger)
 
