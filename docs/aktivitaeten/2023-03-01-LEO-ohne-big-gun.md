@@ -25,7 +25,7 @@ Aufmerksam geworden, durch Experimente von DO7OO im [Disord der draussenfunker.d
 - [Geschmacksrichtung Apple](https://apps.apple.com/de/app/iss-detector/id1198597805)
 - [Geschmacksrichtung Android](https://play.google.com/store/apps/details?id=com.runar.issdetector&hl=de&gl=US)
 
-2. App einrichten und auf einen SAT Filtern, der V/U im FM-Mode unterstützt und der noch aktiv ist. Ich habe mich für OSCAR-50 (SO-50 oder auch Saudisat 50) entschieden
+2. App einrichten und auf einen SAT Filtern, der V/U im FM-Mode unterstützt und der noch aktiv ist. Ich habe mich für OSCAR-50 (SO-50 oder auch Saudisat-1C) entschieden
 
 3. In der App die Frequenzen für Up/Downlink sowie mögliche CTCSS-Töne heraussuchen. Am Beispiel SO-50:
     Uplink: 145.850 kHz
