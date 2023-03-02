@@ -28,10 +28,14 @@ Aufmerksam geworden, durch Experimente von DO7OO im [Disord der draussenfunker.d
 2. App einrichten und auf einen SAT Filtern, der V/U im FM-Mode unterstützt und der noch aktiv ist. Ich habe mich für OSCAR-50 (SO-50 oder auch Saudisat-1C) entschieden
 
 3. In der App die Frequenzen für Up/Downlink sowie mögliche CTCSS-Töne heraussuchen. Am Beispiel SO-50:
+
     Uplink: 145.850 kHz
+    
     Downlink: 436.805 kHz
-    CTCSS Ton #1 zum „Aktivieren des Transponders“: 67Hz
-    CTCSS Ton #2 für einen Durchgang: 74.4Hz
+    
+    CTCSS Ton #1 zum „Aktivieren des Transponders“: 74.4Hz
+    
+    CTCSS Ton #2 für einen Durchgang: 67Hz
 
 ### Etwas Theorie
 
@@ -45,10 +49,15 @@ Für uns heisst das, dass hier bereits der Doppler-Effekt zum Tragen kommt. Der 
 
 Am besten man speichert sich Up/Downlink in einen Speicherplatz auf dem Gerät ein (auch die günstigen Radios haben einen Speicher).
 Und zwar nicht nur ein Pärchen, sondern gleich 4-5 Paare. Für den SO-50 habe ich im Speicher folgende Kanäle abgelegt:
+
     Kanal 1: Down: 436.805 / Up: 145.850 / CTCSS 67Hz
+    
     Kanal 2: Down: 436.805 / Up: 145.850 / CTCSS 74.4Hz
+    
     Kanal 3: Down: 436.800 / Up: 145.850 / CTCSS 74.4Hz
+    
     Kanal 4: Down: 436.795 / Up: 145.850 / CTCSS 74.4Hz
+   
     Kanal 5: Down: 436.790 / Up: 145.850 / CTCSS 74.4Hz
 
 
