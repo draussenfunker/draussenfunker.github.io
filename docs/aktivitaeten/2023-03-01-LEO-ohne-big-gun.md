@@ -49,7 +49,7 @@ Für uns heisst das, dass hier bereits der Doppler-Effekt zum Tragen kommt. Der 
 
 Am besten man speichert sich Up/Downlink in einen Speicherplatz auf dem Gerät ein (auch die günstigen Radios haben einen Speicher).
 Und zwar nicht nur ein Pärchen, sondern gleich 4-5 Paare. Für den SO-50 habe ich im Speicher folgende Kanäle abgelegt:
-
+```
     Kanal 1: Down: 436.805 / Up: 145.850 / CTCSS 74.4Hz
     
     Kanal 2: Down: 436.805 / Up: 145.850 / CTCSS 67Hz
@@ -59,7 +59,7 @@ Und zwar nicht nur ein Pärchen, sondern gleich 4-5 Paare. Für den SO-50 habe i
     Kanal 4: Down: 436.795 / Up: 145.850 / CTCSS 67Hz
    
     Kanal 5: Down: 436.790 / Up: 145.850 / CTCSS 67Hz
-
+```
 
 Es fällt auf, dass Platz 1 und 2 gleich belegt sind. Liegt daran, dass man mit 74.4Hz den SAT „Auftastet“, mit 67Hz einen Durchgang startet.
 Ferner ist der Uplink überall gleich, da der Dopplereffekt auf 2m nicht so sehr ins Gewicht fällt wie auf 70cm.
