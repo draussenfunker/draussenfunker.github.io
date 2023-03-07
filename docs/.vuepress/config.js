@@ -42,7 +42,8 @@ module.exports = {
       {
         text: 'DIY',
         children: [
-            '/diy/teleskop-viertelwellen-vertical'
+            '/diy/teleskop-viertelwellen-vertical',
+            '/diy/portabelrucksack'
         ],
       },
     ],
