@@ -19,10 +19,6 @@ Natürlich nicht, denn das ist vermutlich unmöglich. "Es kommt darauf an" passt
 
 Gedacht ist dieser Artikel für Einsteiger gedacht und für Ortsverbände, die mit dem Gedanken spielen, einen Portabelrucksack zum Verleihen an die Mitglieder zusammenzustellen. Unsere Empfehlungen erheben keinen Anspruch auf Vollständigkeit sondern spiegeln unsere Erfahrung im Bereich Portabelbetrieb und Ausbildungsbetrieb wieder. Unser Ziel ist es, euch eine solide Ausstattungsempfehlung zu geben, die zuverlässig und frustfrei funktioniert und euch dadurch jahrelange Freude beim Kurzwellenbetrieb bereitet. Der Fokus liegt hierbei auf dem SSB-Kurzwellenbetrieb auf den Bändern 40/20/15/10m. Es werden nur Geräte empfohlen, die zum Zeitpunkt des Erscheinen dieses Artikels noch in Produktion und gut verfügbar waren. Der Artikel wird regelmäßig aktualisiert und spiegelt somit immer unseren aktuellen Kenntnisstand wider.
 
-::: warning Hinweis 
-Dieser Artikel wird forlaufend aktualisiert. Aktuell fehlen noch einige Bilder und Detailbeschreibungen. Die grundsätzlichen Aussagen entsprechen aber unserer Empfehlung für 
-:::
-
 ## Transceiver
 
 ![Yaesu FT-891 Detailansicht](/images/diy/portabelrucksack/ft891_detail.jpg)
