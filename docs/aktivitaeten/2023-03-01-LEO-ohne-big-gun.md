@@ -14,7 +14,7 @@ Aufmerksam geworden, durch Experimente von DO7OO im [Disord der draussenfunker.d
 
 
 ## Zutaten
-- Billiges FM-Handfunkgerät (Radioditty, Baofeng, …)
+- Billiges FM-Handfunkgerät (Radioddity, Baofeng, …)
 - Mobiltelefon
 - App zum SAT-Tracken. Bspw. den „ISS-Detektor“
 - Eine Portion Glück
@@ -25,13 +25,17 @@ Aufmerksam geworden, durch Experimente von DO7OO im [Disord der draussenfunker.d
 - [Geschmacksrichtung Apple](https://apps.apple.com/de/app/iss-detector/id1198597805)
 - [Geschmacksrichtung Android](https://play.google.com/store/apps/details?id=com.runar.issdetector&hl=de&gl=US)
 
-2. App einrichten und auf einen SAT Filtern, der V/U im FM-Mode unterstützt und der noch aktiv ist. Ich habe mich für OSCAR-50 (SO-50 oder auch Saudisat 50) entschieden
+2. App einrichten und auf einen SAT Filtern, der V/U im FM-Mode unterstützt und der noch aktiv ist. Ich habe mich für OSCAR-50 (SO-50 oder auch Saudisat-1C) entschieden
 
 3. In der App die Frequenzen für Up/Downlink sowie mögliche CTCSS-Töne heraussuchen. Am Beispiel SO-50:
+
     Uplink: 145.850 kHz
+    
     Downlink: 436.805 kHz
-    CTCSS Ton #1 zum „Aktivieren des Transponders“: 67Hz
-    CTCSS Ton #2 für einen Durchgang: 74.4Hz
+    
+    CTCSS Ton #1 zum „Aktivieren des Transponders“: 74.4Hz
+    
+    CTCSS Ton #2 für einen Durchgang: 67Hz
 
 ### Etwas Theorie
 
@@ -45,14 +49,19 @@ Für uns heisst das, dass hier bereits der Doppler-Effekt zum Tragen kommt. Der 
 
 Am besten man speichert sich Up/Downlink in einen Speicherplatz auf dem Gerät ein (auch die günstigen Radios haben einen Speicher).
 Und zwar nicht nur ein Pärchen, sondern gleich 4-5 Paare. Für den SO-50 habe ich im Speicher folgende Kanäle abgelegt:
-    Kanal 1: Down: 436.805 / Up: 145.850 / CTCSS 67Hz
-    Kanal 2: Down: 436.805 / Up: 145.850 / CTCSS 74.4Hz
-    Kanal 3: Down: 436.800 / Up: 145.850 / CTCSS 74.4Hz
-    Kanal 4: Down: 436.795 / Up: 145.850 / CTCSS 74.4Hz
-    Kanal 5: Down: 436.790 / Up: 145.850 / CTCSS 74.4Hz
+```
+    Kanal 1: Down: 436.805 / Up: 145.850 / CTCSS 74.4Hz
+    
+    Kanal 2: Down: 436.805 / Up: 145.850 / CTCSS 67Hz
+    
+    Kanal 3: Down: 436.800 / Up: 145.850 / CTCSS 67Hz
+    
+    Kanal 4: Down: 436.795 / Up: 145.850 / CTCSS 67Hz
+   
+    Kanal 5: Down: 436.790 / Up: 145.850 / CTCSS 67Hz
+```
 
-
-Es fällt auf, dass Platz 1 und 2 gleich belegt sind. Liegt daran, dass man mit 67Hz den SAT „Auftastet“, mit 74.4Hz einen Durchgang startet.
+Es fällt auf, dass Platz 1 und 2 gleich belegt sind. Liegt daran, dass man mit 74.4Hz den SAT „Auftastet“, mit 67Hz einen Durchgang startet.
 Ferner ist der Uplink überall gleich, da der Dopplereffekt auf 2m nicht so sehr ins Gewicht fällt wie auf 70cm.
 Soviel zur Vorbereitung des Funkgeräts.
 
@@ -70,7 +79,7 @@ Elevation gross heisst: >70Grad - dann ist der Vogel fast über uns.
 
 7. Jetzt heisst es schnell sein, wenn der SAT über uns ist. Wir halten das Funkgerät möglichst Waagerecht und im rechten Winkel zur Flugbahn. Dann ist die Chance, dass wir den SAT hören, und der uns, am größten.
 
-8. Steht also der SAT kurz vorm Zenit (Höchster Punkt über uns), können wir versuchen über Kanak 1 den SAT aufzutasten. Anschliessend flink auf Kanal 2 gehen und CQ rufen oder halt auf einen CQ-Ruf Antworten.
+8. Steht also der SAT kurz vorm Zenit (Höchster Punkt über uns), können wir versuchen über Kanal 1 den SAT aufzutasten. Anschliessend flink auf Kanal 2 gehen und CQ rufen oder halt auf einen CQ-Ruf Antworten.
 
 9. Je weiter sich der SAT von uns wieder wegbewegt, desto höher gehen wir im Kanal (Wegbewegende Objekte / Dopplereffekt: Frequenz wird niedriger)
 
