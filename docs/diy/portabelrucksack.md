@@ -137,51 +137,57 @@ Kurz: was zu eurem Setup passt, verfügbar und bezahlbar ist. Ein paar Beispiele
 
 ## Zubehör
 
-### Must have
 Die folgenden Teile haben sich als sinnvolles Zubehör erwiesen und sollten in keinem Portabelrucksack fehlen:
 
-#### 10-15 Markierungshütchen
+### 10-15 Markierungshütchen
 
 ![Markierungshütchen](/images/diy/portabelrucksack/huetchen.jpg)
 
 Aus dem Sportzubehör, zur Markierung und "Absperrung" der Antenne. Gibt es in verschiedenen Farben. Orange sieht man zu allen Jahreszeiten auf den meisten Untergründen am besten. Lassen sich gut mit einem Band an Molle-Schlaufen eines Rucksacks befestigen und bringen so keinen Dreck in den Rucksack.
 
 
-#### Regenschutz
+### Regenschutz
 
 ![Regenschutz](/images/diy/portabelrucksack/regenschutz_02.jpg)
 
 Ein Regenschauer kann uns nicht vom Funken abhalten. Mir einer kleinen, leichten **Plane oder Folie** schützen wir das Funkgerät. Ein kompakter **Regenschirm** kann auch eine sehr gute Option sein.
 
 
-#### Sitzunterlage
+### Sitzunterlage
 
 ![Sitzkissen](/images/diy/portabelrucksack/sitzkissen.jpg)
 
 Vor allem in den kalten und nassen Monaten bleibt der Hintern warm und trocken mit einer **Sitzunterlage**. Verschiedene Modelle in allen Formen und Farben findet man im Internet oder dem örtlichen Outdoor-Ausrüster.
 
 
-#### Draußenfunker-Flyer
+### Draußenfunker-Flyer
 
 [![Draussenfunker Flyer Mitmachen](/images/mitmachen/Draussenfunker_Flyer_Mitmachen.jpg)](/images/mitmachen/Draussenfunker_Flyer_Mitmachen.pdf)
 
 Oder etwas ähnliches vom eigenen OV. Man wird regelmäßig von Passanten auf das Hobby angesprochen und hat so etwas zum Erklären und Mitmachen griffbereit.
 
 
-#### Materialliste und Anleitungen
+### Materialliste und Anleitungen
 
 Eine **laminierte Materialliste** hilft euch dabei, die Vollständigkeit des Rucksacks zu prüfen. Anleitungen der Hersteller zu den Geräten oder eigene Anleitungen zum Aufbau und dem Betrieb der Station können in Papierform hilfreich sein, sind gleichzeitig aber ein Gewichtsfaktor und überleben vermutlich nicht lange, sobald es einmal regnet. Eine Alternative ist daher, die Unterlagen auf einer Seite auf der eigenen Website zum Download bereit zu stellen und einen QR-Code zur Adresse im Rucksack zu platzieren.
 
 
-### Nice to have
+### Weitere
 
 - **Zweiter Akku** als Option für längere Aktivitäten.
 - **GFK Angel/Mast** zum Aufhängen von Antennen, falls kein Baum in der Nähe ist.
 - **Kleine Taschenlampe** falls es mal etwas später wird mit dem Abbau.
 - **Papier und Stift** sollte jeder OP selbst haben, ein bisschen Reserve kann nicht schaden.
+- **UTC-Uhr** z. B. eine günstige Casio W-800H-1AVDF, die man auf UTC laufen lässt.
 
 
 ## Tipps & Tricks
+
+**Abgesetztes Bedienteil**
+
+![Manpack Frame](/images/diy/portabelrucksack/ft891_bedienteil.jpg)
+
+Das Bedienteil des FT-891 lässt sich abgesetzt betreiben und erhöht so den Bedienkomfort. Es besitzt außerdem eine Anschlussmöglichkeit für Kopfhörer.
 
 
 **Manpack-Frame**

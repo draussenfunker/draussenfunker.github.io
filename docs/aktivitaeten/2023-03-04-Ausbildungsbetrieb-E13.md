@@ -24,7 +24,7 @@ Hands on. Das war unser Motto. Also bekamen die angehenden Funkamateure Ben und 
 
 ![Volles Band](/aktivitaeten/DA-0136-2023-03-04/230304_ausbildung_e13_03.jpg)
 
-Zunächst arbeiten die angehenden OPs ein paar Conteststationen aus den USA. Danach geht's ans CQ-Rufen. CQ CQ CQ DN4HAA. Kroatien, Spanien, England, Polen. Das Band spiel mit, unsere Newcomer bekommen ein QSO nach dem anderen ins Log und machen dabei vorbildlichen Betrieb. Wir legen eine kurze Erklärbär-Pause zu [POTA Parks on the Air](https://parksontheair.com/) ein, ergänzen die Logs um die Park-Referenz DA-0136, gehen wieder auf's Band und spotten uns auf [POTA-App](https://pota.app/#).
+Zunächst arbeiten die angehenden OPs ein paar Conteststationen aus den USA. Danach geht's ans CQ-Rufen. CQ CQ CQ DN4HAA. Kroatien, Spanien, England, Polen. Das Band spielt mit, unsere Newcomer bekommen ein QSO nach dem anderen ins Log und machen dabei vorbildlichen Betrieb. Wir legen eine kurze Erklärbär-Pause zu [POTA Parks on the Air](https://parksontheair.com/) ein, ergänzen die Logs um die Park-Referenz DA-0136, gehen wieder auf's Band und spotten uns auf [POTA-App](https://pota.app/#).
 
 ![André im QSO](/aktivitaeten/DA-0136-2023-03-04/230304_ausbildung_e13_01.jpg)
 
