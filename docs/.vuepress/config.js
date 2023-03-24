@@ -46,6 +46,10 @@ module.exports = {
             '/diy/portabelrucksack'
         ],
       },
+      {
+        text: 'FAQ',
+        link: '/faq',
+      },	  
     ],
   }),
 }
