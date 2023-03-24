@@ -4,7 +4,7 @@ description: Antworten auf Fragen die immer mal wieder aufkommen.
 ---
 
 # FAQ
-Ein paar Antworten auf Fragen wiederholt aufgekommen sind.
+Ein paar Antworten auf Fragen, die wiederholt aufgekommen sind.
 
 ### Wann ist euere nächste Aktion?
 Am besten organisierst du selbst eine Aktion in deiner Nähe.
