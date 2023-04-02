@@ -1,8 +1,8 @@
 ---
 sidebar: false
-description: Aktvititäten der Draußenfunker POTA, SOTA, COTA, BOTA und mehr
+description: Aktivitäten der Draußenfunker POTA, SOTA, COTA, BOTA und mehr
 ---
-# Aktvititäten
+# Aktivitäten
 
 <posts type="activity" />
 
