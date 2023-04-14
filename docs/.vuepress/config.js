@@ -43,6 +43,7 @@ module.exports = {
         text: 'DIY',
         children: [
             '/diy/teleskop-viertelwellen-vertical',
+            '/diy/efhw',
             '/diy/portabelrucksack'
         ],
       },
