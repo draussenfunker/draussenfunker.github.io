@@ -9,10 +9,14 @@ head:
 
 # EFHW: Endgespeiste Multiband-Drahtantenne
 
-Zugegeben: Bauanleitungen für endgespeiste Halbwellen-Antennen (EFHW) mit 49:1 oder 64:1 UnUn gibt es wie Sand am Meer. Gerade beim Portabelbetrieb ist diese Multiband-Antenne sehr bequem im Handling und funktioniert in fast allen Situationen ausreichend gut. Daher gibt es hier eine weitere Variante der EFHW mit vielen Bildern vom Bau. Die gezeigten Teile sind Bestandteil des Draußenfunker-EFHW-Kits 2023. Bei fast allen Komponenten kann auf andere Bauteile ausgewichen werden. Diese Anleitung soll zum Nachmachen, Experimentieren und Entwickeln eigener Spielarten dieser Antenne anregen.
+Zugegeben: Bauanleitungen für endgespeiste Halbwellen-Antennen (EFHW) mit 49:1 oder 64:1 UnUn gibt es wie Sand am Meer. Gerade beim Portabelbetrieb ist diese Multiband-Antenne sehr bequem im Handling und funktioniert in fast allen Situationen ausreichend gut. Daher gibt es hier eine weitere Variante der EFHW mit vielen Bildern vom Bau. Die gezeigten Teile sind Bestandteil des Draußenfunker-EFHW-Kits 2023. 
+
+Die hier beschriebene Variante mit knapp 20m Antennendraht kann, sorgfältige Abstimmung vorausgesetzt, ohne Antennentuner auf den Bändern 40/20/15/10m eingesetzt werden. Mit einer Verlängerungsspule und einigen Metern Antennendraht lässt sich die Antenne auch auf 80m betreiben (hier nicht beschrieben).
+
+Bei fast allen Komponenten kann auf andere Bauteile ausgewichen werden. Diese Anleitung soll zum Nachmachen, Experimentieren und Entwickeln eigener Spielarten dieser Antenne anregen.
 
 
-## UnUn 49:1, 64:1 (oder ganz anders)
+## UnUn
 
 ### Teile
 ![UnUn Parts](/images/diy/efhw/efhw-kit-2023_parts.jpg)
@@ -56,6 +60,11 @@ Zugegeben: Bauanleitungen für endgespeiste Halbwellen-Antennen (EFHW) mit 49:1 
 
 
 ### Aufbau
+
+::: tip Unterschiedliche Windungsverhältnisse möglich!
+Die Anleitung beschreibt einen klassichen 49:1 UnUn mit einem Windungsverhältnis von 3:21 (Primär-Windungen zu Sekundär-Windungen). Am Seitenende sind Angaben zu anderen Wicklungsmöglichkeiten mit den jeweiligen Vor- und Nachteilen aufgelistet. Mit den 1,5 m Kupferlackdraht lassen sich alle gängigen Übersetzungs-Verhältnisse (z. B. 49:1, 64:1 oder auch 9:1) herstellen.
+:::
+
 Zunächst das Gehäuse vorbereiten. Hierzu an einer kurzen Seite Löcher für die PL-Buchse und in die gegenüberliegenden Seite das Loch für den Anschluss des Antennendrahts bohren.
 
 
@@ -85,9 +94,7 @@ Den Draht verdrillen (ca. 2-3 Drehungen pro Zentimeter), dabei die letzten 3 cm 
 ![UnUn buildprocess](/images/diy/efhw/efhw-kit_unun_06.jpg)
 
 
-Die Anleitung beschreibt einen klassichen 49:1 UnUn. Typischerweise wird dieser mit einem Windungsverhältnis von 2:14 gewickelt (Primär-Windungen zu Sekundär-Windungen). In dieser Anleitung ist allerdings die Alternative mit dem Wicklungsverhältnis 3:21 abgebildet. Auf die Vor- und Nachteile soll an dieser Stelle nicht eingegangen werden. Mit 1,5 m Kupferlackdraht lassen sich verschiedene Übersetzungs-Verhältnisse (z. B. 49:1, 64:1 oder auch 9:1) herstellen.
-
-Das verdrillte Ende wie gezeigt zweimal (Wicklungsverhältnis 2:14) oder dreimal (Wicklungsverhältnis 3:21) um den Kern wickeln:
+Das verdrillte Ende wie gezeigt dreimal um den Kern wickeln. Jeder Durchgang durch das Loch zählt als eine Windung.
 
 ![UnUn buildprocess](/images/diy/efhw/efhw-kit_unun_07.jpg)
 ![UnUn buildprocess](/images/diy/efhw/efhw-kit_unun_08.jpg)
@@ -162,14 +169,6 @@ Zum Schluss den Deckel auf das Gehäuse setzen und verschrauben.
 
 ![UnUn buildprocess](/images/diy/efhw/efhw-kit_unun_22.jpg)
 
-
-::: tip Aufbau beim Windungsverhältnis 2:14
-Beim Windungsverhältnis 2:14 wird wie folgt gewickelt:
-- 2 verdrillt
-- 4 einfach
-- 1 Seitenwechsel
-- danach 7 weitere Windungen
-:::
 
 ## Antennendraht
 
@@ -339,13 +338,15 @@ Alle Windungungen gleichmäßig verteilen und das Ende mit zwei Kabelbindern fix
 
 Den Schrumpfschlauch über Kabel und Kern ziehen. Den Kern mittig im Schrumpfschlauch platzieren und über einer hitzefesten Unterlage mit dem Heißluftfön schrumpfen.
 
+::: tip Auch dem Koax wird warm
+Beim Einsatz des Heißluftföns darauf achten, dass der Mantel des Kabels nicht zu heiß wird und schmilzt. Das Kabel kann recht gut mit einem Stück Blech, einem Spachtel oder gefalteter Alufolie vor der Hitze abgeschirmt werden. Vorsicht: das eingesetzte Metall wird heiß!
+:::
+
 ![Choke buildprocess](/images/diy/efhw/efhw-kit_choke_07.jpg)
 ![Choke buildprocess](/images/diy/efhw/efhw-kit_choke_08.jpg)
 
 
-::: tip Auch dem Koax wird warm
-Beim Einsatz des Heißluftföns darauf achten, dass der Mantel des Kabels nicht zu heiß wird und schmilzt. Das Kabel kann recht gut mit einem Stück Blech, einem Spachtel oder gefalteter Alufolie vor der Hitze abgeschirmt werden. Vorsicht: das eingesetzte Metall wird heiß!
-:::
+Fertige Mantelwellensperre mit Schrumpfschlauch zum zusätzlichen Schutz des Ringkerns:
 
 ![Choke buildprocess](/images/diy/efhw/efhw-kit_choke_09.jpg)
 
@@ -395,6 +396,10 @@ Wenn vorhanden: Neon-Klebeband aufbringen. Danach das Seil durch die Muttern fä
 ![Mounting Kit  buildprocess](/images/diy/efhw/efhw-kit_throwweight_06.jpg)
 
 
+
+## Technische Details zu verschiedenen Wicklungsverhältnissen
+
+Folgt.
 
 
 
