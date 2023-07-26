@@ -3,7 +3,7 @@ title: Bilder des Monats Juni 2023
 description: 
     Bilder des Monats Juni aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2023-06/bilderdesmonats_2023-06_6.jpg
+image: /aktivitaeten/BDM-2023-06/bilderdesmonats_2023-06_06.jpg
 features:
  - FOTOS
 ---
