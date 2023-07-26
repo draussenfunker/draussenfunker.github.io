@@ -3,7 +3,7 @@ title: Bilder des Monats Mai 2023
 description: 
     Bilder des Monats Mai aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2023-05/bilderdesmonats_2023-05_2.jpg
+image: /aktivitaeten/BDM-2023-05/bilderdesmonats_2023-05_02.jpg
 features:
  - FOTOS
 ---
