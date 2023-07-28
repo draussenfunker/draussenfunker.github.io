@@ -23,7 +23,7 @@ Images and other assets can be placed into the public dir. `docs/.vuepress/publi
 Piece of cake:
 - File an issue
 - File a corresponding pull request
-- "I don't know what a pull request is!" : Just file an issue, we ll take good care of you. :)
+- "I don't know what a pull request is!": Just file an issue, we will take good care of you. :)
 
 ### Setting up a Development Environment to contribute
 
