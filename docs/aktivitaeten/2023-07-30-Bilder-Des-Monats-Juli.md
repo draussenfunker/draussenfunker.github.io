@@ -3,7 +3,7 @@ title: Bilder des Monats Juli 2023
 description:
     Bilder des Monats Juli aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2023-07/10:07.2023.jpg
+image: /aktivitaeten/BDM-2023-07/6:07.2023.jpg
 features:
     - FOTOS
 ---
