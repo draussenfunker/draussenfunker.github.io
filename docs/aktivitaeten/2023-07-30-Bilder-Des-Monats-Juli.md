@@ -3,7 +3,7 @@ title: Bilder des Monats Juli 2023
 description:
     Bilder des Monats Juli aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2023-07/6:07.2023.jpg
+image: /aktivitaeten/BDM-2023-07/13:07.2023.jpg
 features:
     - FOTOS
 ---
@@ -32,3 +32,8 @@ Bilder von DF9HC
 ![Bilder des Monats](/aktivitaeten/BDM-2023-07/12:07.2023.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2023-07/13:07.2023.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2023-07/14:07.2023.jpg)
+
+DC1TC hatte zwei erfolglose Aktivierungen, aber schöne Locations in K-4447 und K-3566 und ein vollen Erfolg in K-3482.
+![Bilder des Monats](/aktivitaeten/BDM-2023-07/15:07.2023.jpg)
+![Bilder des Monats](/aktivitaeten/BDM-2023-07/16:07.2023.jpg)
+![Bilder des Monats](/aktivitaeten/BDM-2023-07/17:07.2023.jpg)
