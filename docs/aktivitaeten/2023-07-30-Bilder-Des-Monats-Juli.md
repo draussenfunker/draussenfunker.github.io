@@ -11,7 +11,7 @@ features:
 # Bilder des Monats: Juli 2023
 
 Ohne viele Worte einige Bilder der Draußenfunker.
-DO1MBM von dem Campingplatz QRV.
+DO1MBN von dem Campingplatz QRV.
 ![Bilder des Monats](/aktivitaeten/BDM-2023-07/1:07.2023.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2023-07/2:07.2023.jpg)
 
