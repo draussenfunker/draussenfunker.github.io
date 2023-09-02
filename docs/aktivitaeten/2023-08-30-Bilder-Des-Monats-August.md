@@ -3,7 +3,7 @@ title: Bilder des Monats August 2023
 description:
     Bilder des Monats August aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2023-08/15:08.2023.jpg
+image: /aktivitaeten/BDM-2023-08/12:08.2023.jpg
 features:
     - FOTOS
 ---
