@@ -11,7 +11,7 @@ features:
 # Bilder des Monats: August 2023
 
 Ohne viele Worte einige Bilder der Draußenfunker.
-DF9HC  als LZ/DF9HC am Strand in Sozopol.
+DF9HC als LZ/DF9HC am Strand in Sozopol.
 ![Bilder des Monats](/aktivitaeten/BDM-2023-08/1:08.2023.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2023-08/2:08.2023.jpg)
 
@@ -35,5 +35,5 @@ Als Equipment hatte er ein X6100 mit 10W und als Antenne eine JPC PAC-12.
 ![Bilder des Monats](/aktivitaeten/BDM-2023-08/12:08.2023.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2023-08/13:08.2023.jpg)
 
-DC1TC aktiviere nach seinem Feierabend DA-0392 Horner Rennbahn.
+DC1TC aktivierte nach seinem Feierabend DA-0392 Horner Rennbahn.
 ![Bilder des Monats](/aktivitaeten/BDM-2023-08/14:08.2023.jpg)
