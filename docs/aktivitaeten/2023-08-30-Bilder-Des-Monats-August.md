@@ -11,6 +11,7 @@ features:
 # Bilder des Monats: August 2023
 
 Ohne viele Worte einige Bilder der Draußenfunker.
+
 DF9HC als LZ/DF9HC am Strand in Sozopol.
 ![Bilder des Monats](/aktivitaeten/BDM-2023-08/1:08.2023.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2023-08/2:08.2023.jpg)
