@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: "Von draußen mit Funkwellen um die Welt"
-heroImage: /images/beach_280px_heigh.jpg
+heroImage: /images/header_autumn2023_11.jpg
 actions:
   - text: Ich will auch!
     link: /mitmachen/
