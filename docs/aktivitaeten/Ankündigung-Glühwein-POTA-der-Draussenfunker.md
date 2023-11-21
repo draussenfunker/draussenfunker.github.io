@@ -17,6 +17,4 @@ Während wir im Park sind könnt ihr uns auf 145.500 MHz und DBOHHH 2m erreichen
 
 Noch mal zum Mitschreiben: 11.12.2023 ab 11 Uhr im Hammer Park in Hamburg.
 
-Mehr Infos im Discord unter www.draussenfunker.de oder per Mail an cq@draussenfunker.de.
-
-73 Ove - DK1BOU für die Draussenfunker
+Mehr Infos im [Discord](https://discord.gg/fMsMjZnjxc) oder per Mail an cq@draussenfunker.de.
