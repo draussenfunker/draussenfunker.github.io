@@ -1,7 +1,7 @@
 ---
-title: Sommerfest der Draußenfunker 2023
+title: Glühwein-POTA der Draussenfunker
 description:
-    Für einen persönlichen Austausch und eine gemeinsame POTA-Aktivierung haben sich die Draussenfunker in Hamburg zum Sommerfest getroffen.
+    Am 9.12. treffen sich die Funk-Interessierten von den Draussenfunkern ab 11 Uhr im Hammer Park in Hamburg zu einer gemeinsamen Parks-On-The-Air Aktivierung bei heißem Glühwein und knusprigen Weihnachtsgebäck.
 type: activity
 image:
 features:
