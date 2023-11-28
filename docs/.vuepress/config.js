@@ -50,6 +50,10 @@ module.exports = {
       {
         text: 'FAQ',
         link: '/faq',
+      },
+      {
+        text: 'Impressum',
+        link: '/impressum',
       },	  
     ],
   }),
