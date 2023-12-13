@@ -1,5 +1,5 @@
 ---
-title: Glühwein-POTA der Draussenfunker
+title: "Ankündigung: Glühwein-POTA der Draussenfunker"
 description:
     Am 9.12. treffen sich die Funk-Interessierten von den Draussenfunkern ab 11 Uhr im Hammer Park in Hamburg zu einer gemeinsamen Parks-On-The-Air Aktivierung bei heißem Glühwein und knusprigen Weihnachtsgebäck.
 type: activity
