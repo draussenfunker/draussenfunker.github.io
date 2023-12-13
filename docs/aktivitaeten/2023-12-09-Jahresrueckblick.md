@@ -35,7 +35,7 @@ Dieses Jahr haben wir ein Sommerfest in einem Hamburger Park veranstaltet. Analo
 In Kassel haben sich knapp 5-7 Draussenfunker getroffen, geklönt und nach dem Flohmarktbesuch noch den eigens dafür eingereichten Park aktiviert.
 
 #### Ausbildung und Jugendförderung
-Die Draussenfunker haben dieses Jahr eine geringe zweistellige Anzahl an Handfunkgeräten für U23 gesponsort. Wer in Hamburg jünger als 23 ist, und seine Lizenz besteht, bekommt von uns ein nagelneues Handfunkgerät geschenkt. Leider bekommen wir das nicht immer mit.
+Die Draussenfunker haben dieses Jahr eine geringe zweistellige Anzahl an Handfunkgeräten für U23 gesponsort. Wer in Hamburg jünger als 23 ist, und seine Lizenz besteht, bekommt von uns ein nagelneues Handfunkgerät geschenkt, sofern wir das mitbekommen.
 Zusätzlich haben wir angefangen, Prüfungsgebühren für U23 zu bezuschussen. Dies machen wir aus eigener Tasche und wollen den Bereich im nächsten Jahr noch ausbauen.
 
 Ebenfalls haben einige unserer Mitglieder angefangen, Schulkindern das Funken näher zu bringen. Bereits 2 Workshops haben mit Jugendlichen zwischen 10 und 15 Jahren stattgefunden. Es wurden Antennen gebaut, Funktechnik erklärt, und natürlich getestet. Die Antennen durften die Kids mit nach Hause nehmen und an ihren Freenet-Geräten nutzen. Ein voller Erfolg, der nach weiteren Terminen und Workshops schreit. Auch diesen Aspekt der Jugendförderung möchten wir im nächsten Jahr weiter ausbauen.
