@@ -13,7 +13,7 @@ features:
 # Glühwein-POTA & Jahresrückblick
 
 Das Jahr 2023 neigt sich dem Ende zu, und die Draussenfunker haben sich im Hammer Park in Hamburg zum jährlichen Glühwein-POTA getroffen. Knapp 25 Funkamateuere haben sich auf den Weg gemacht, um bei Glühwein, Stollen und Chilli sin Carne einen entspannten Tag zu verbringen.
-![Winter](/aktivitaeten/SOMMERFEST-2023/Winter1.jpg)
+![Winter](/aktivitaeten/GLUEHWEINPOTA-2023/Winter1.jpg)
 
 Es wurde wieder gefachsimpelt, der Park mehrfach aktiviert und interessierte Spaziergänger über unser Hobby aufgeklärt. Zu den in unserer Community aktiven Rufzeichen und Namen ein Gesicht zu sehen und sich besser kennen zu lernen, war auch wieder ein tolles Erlebnis.
 ![Winter](/aktivitaeten/GLUEHWEINPOTA-2023/Winter3.jpg)
@@ -34,8 +34,9 @@ Vielen Dank an alle, die sich auf den Weg gemacht haben. Die weiteste Anreise ha
 Unsere Kleine Gemeinschaft ist mittlerweile auf mehr als 200 Funkamateure und Interessierte angewachsen. Wir haben auch dieses Jahr wieder tolle Dinge gemacht.
 
 #### Sommerfest
-Dieses Jahr haben wir ein Sommerfest in einem Hamburger Park veranstaltet. Analog zum Glühwein-POTA, trafen wir uns im Park, haben diesen gemeinsam aktiviert, gegessen, getrunken und eine kleine Fuchsjagd veranstaltet. Auch hier wurden wir wieder von interessierten Passanten angesprochen und konnten einige davon (u.a. ein junges Mädchen) von unserem Hobby begeistern. Hierbei haben sich PMR-Geräte für den schnellen Einstieg und das Ausprobieren durch Kinder mehr als bewährt. Mehr Mehr Infos und Bilder [hier](https://draussenfunker.de/aktivitaeten/2023-08-26-Sommerfest.html).
+Dieses Jahr haben wir ein Sommerfest in einem Hamburger Park veranstaltet. Analog zum Glühwein-POTA, trafen wir uns im Park, haben diesen gemeinsam aktiviert, gegessen, getrunken und eine kleine Fuchsjagd veranstaltet. Auch hier wurden wir wieder von interessierten Passanten angesprochen und konnten einige davon (u.a. ein junges Mädchen) von unserem Hobby begeistern. Hierbei haben sich PMR-Geräte für den schnellen Einstieg und das Ausprobieren durch Kinder mehr als bewährt.
 ![Sommerfest](/aktivitaeten/GLUEHWEINPOTA-2023/sommerfest_02.jpg)
+Mehr Infos und Bilder [hier](https://draussenfunker.de/aktivitaeten/2023-08-26-Sommerfest.html).
 
 #### Funktag in Kassel
 In Kassel haben sich knapp 5-7 Draussenfunker getroffen, geklönt und nach dem Flohmarktbesuch noch den eigens dafür eingereichten Park aktiviert.
@@ -69,5 +70,6 @@ Vielen Dank, dass ihr da seid (oder noch dazu kommt?) und unsere Gemeinschaft be
 
 73
 DO1DSH, DG7PX, DK4HAA, DC1TC, DO7JZ
+Danke für die Bilder an DC1TC, DL9PKW, DK4HAA und DK1BOU.
 
 ---
