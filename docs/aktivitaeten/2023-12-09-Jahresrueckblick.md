@@ -3,7 +3,7 @@ title: Glühwein-POTA & Jahresrückblick
 description:
     Das Jahr 2023 geht zuende.
 type: activity
-image: /aktivitaeten/GLUEHWEINPOTA-2022/gluehweinpota.jpg
+image: /aktivitaeten/GLUEHWEINPOTA-2023/Title.jpg
 features:
     - POTA
     - Draussenfunker
@@ -39,6 +39,8 @@ Die Draussenfunker haben dieses Jahr eine geringe zweistellige Anzahl an Handfun
 Zusätzlich haben wir angefangen, Prüfungsgebühren für U23 zu bezuschussen. Dies machen wir aus eigener Tasche und wollen den Bereich im nächsten Jahr noch ausbauen.
 
 Ebenfalls haben einige unserer Mitglieder angefangen, Schulkindern das Funken näher zu bringen. Bereits 2 Workshops haben mit Jugendlichen zwischen 10 und 15 Jahren stattgefunden. Es wurden Antennen gebaut, Funktechnik erklärt, und natürlich getestet. Die Antennen durften die Kids mit nach Hause nehmen und an ihren Freenet-Geräten nutzen. Ein voller Erfolg, der nach weiteren Terminen und Workshops schreit. Auch diesen Aspekt der Jugendförderung möchten wir im nächsten Jahr weiter ausbauen.
+![Jugend](/aktivitaeten/GLUEHWEINPOTA-2023/Jugend1.jpg)
+![Jugend](/aktivitaeten/GLUEHWEINPOTA-2023/Jugend2.jpg)
 
 #### POTA Administration
 Mit Heinrich (DO1HFS), Harm (DK4HAA) und Julius (DO7JZ) hat das deutsche Team von Parks on the Air drei weitere Administratoren anwerben können. Alle deutschen POTA Admins sind nun aktiver Teil unserer Draussenfunker-Gemeinschaft.
@@ -48,6 +50,8 @@ Es gab dieses Jahr wieder gemeinsame Sammelbestellungen, u.a. für SignalStuff S
 
 #### Contest-Teilnahme
 Mehrere OMs der Draussenfunker haben erste Contest-Erfahrungen sammeln können und gemeinsam an einem Contest teilgenommen.
+![Contest](/aktivitaeten/GLUEHWEINPOTA-2023/Contest1.jpg)
+![Contest](/aktivitaeten/GLUEHWEINPOTA-2023/Contest2.jpg)
 
 Es wurde jedoch noch so viel mehr erlebt. Es wurde gemeinsam gelacht, geflucht, vielleicht auch geweint. Es wurde gemeinsam geforscht, gelernt, Satelliten-QSOs gefahren, Platinen gelötet und all die vielen anderen Dinge gemacht, die diese Aufzählung sprengen würden.
 
