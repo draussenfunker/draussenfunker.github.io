@@ -29,7 +29,8 @@ Alles in allem wurden knapp 200 QSOs geloggt, viele tolle Gespräche geführt, A
 Unsere Kleine Gemeinschaft ist mittlerweile auf mehr als 200 Funkamateure und Interessierte angewachsen. Wir haben auch dieses Jahr wieder tolle Dinge gemacht.
 
 #### Sommerfest
-Dieses Jahr haben wir ein Sommerfest in einem Hamburger Park veranstaltet. Analog zum Glühwein-POTA, trafen wir uns im Park, haben diesen gemeinsam aktiviert, gegessen, getrunken und eine kleine Fuchsjagd veranstaltet. Auch hier wurden wir wieder von interessierten Passanten angesprochen und konnten einige davon (u.a. ein junges Mädchen) von unserem Hobby begeistern. Hierbei haben sich PMR-Geräte für den schnellen Einstieg und das Ausprobieren durch Kinder mehr als bewährt.
+Dieses Jahr haben wir ein Sommerfest in einem Hamburger Park veranstaltet. Analog zum Glühwein-POTA, trafen wir uns im Park, haben diesen gemeinsam aktiviert, gegessen, getrunken und eine kleine Fuchsjagd veranstaltet. Auch hier wurden wir wieder von interessierten Passanten angesprochen und konnten einige davon (u.a. ein junges Mädchen) von unserem Hobby begeistern. Hierbei haben sich PMR-Geräte für den schnellen Einstieg und das Ausprobieren durch Kinder mehr als bewährt. Mehr Mehr Infos und Bilder [hier](https://draussenfunker.de/aktivitaeten/2023-08-26-Sommerfest.html).
+![Sommerfest](/aktivitaeten/SOMMERFEST-2023/sommerfest_02.jpg)
 
 #### Funktag in Kassel
 In Kassel haben sich knapp 5-7 Draussenfunker getroffen, geklönt und nach dem Flohmarktbesuch noch den eigens dafür eingereichten Park aktiviert.
