@@ -47,7 +47,7 @@ Zusätzlich haben wir angefangen, Prüfungsgebühren für U23 zu bezuschussen. D
 
 Ebenfalls haben einige unserer Mitglieder angefangen, Schulkindern das Funken näher zu bringen. Bereits 2 Workshops haben mit Jugendlichen zwischen 10 und 15 Jahren stattgefunden. Es wurden Antennen gebaut, Funktechnik erklärt, und natürlich getestet. Die Antennen durften die Kids mit nach Hause nehmen und an ihren Freenet-Geräten nutzen. Ein voller Erfolg, der nach weiteren Terminen und Workshops schreit. Auch diesen Aspekt der Jugendförderung möchten wir im nächsten Jahr weiter ausbauen.
 ![Jugend](/aktivitaeten/GLUEHWEINPOTA-2023/Jugend1.jpg)
-![Jugend](/aktivitaeten/GLUEHWEINPOTA-2023/Jugend2.jpg)
+![Jugend](/aktivitaeten/GLUEHWEINPOTA-2023/Jugend2.jpgeg)
 
 #### POTA Administration
 Mit Heinrich (DO1HFS), Harm (DK4HAA) und Julius (DO7JZ) hat das deutsche Team von Parks on the Air drei weitere Administratoren anwerben können. Alle deutschen POTA Admins sind nun aktiver Teil unserer Draussenfunker-Gemeinschaft.
