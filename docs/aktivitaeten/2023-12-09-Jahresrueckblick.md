@@ -13,16 +13,21 @@ features:
 # Glühwein-POTA & Jahresrückblick
 
 Das Jahr 2023 neigt sich dem Ende zu, und die Draussenfunker haben sich im Hammer Park in Hamburg zum jährlichen Glühwein-POTA getroffen. Knapp 25 Funkamateuere haben sich auf den Weg gemacht, um bei Glühwein, Stollen und Chilli sin Carne einen entspannten Tag zu verbringen.
+![Winter](/aktivitaeten/SOMMERFEST-2023/Winter1.jpg)
 
 Es wurde wieder gefachsimpelt, der Park mehrfach aktiviert und interessierte Spaziergänger über unser Hobby aufgeklärt. Zu den in unserer Community aktiven Rufzeichen und Namen ein Gesicht zu sehen und sich besser kennen zu lernen, war auch wieder ein tolles Erlebnis.
-
-Vielen Dank an alle, die sich auf den Weg gemacht haben. Die weiteste Anreise hatte ein OM aus Nordbayern.
+![Winter](/aktivitaeten/GLUEHWEINPOTA-2023/Winter3.jpg)
+![Winter](/aktivitaeten/GLUEHWEINPOTA-2023/Winter4.jpg)
+![Winter](/aktivitaeten/GLUEHWEINPOTA-2023/Winter5.jpg)
+![Winter](/aktivitaeten/GLUEHWEINPOTA-2023/Winter6.jpg)
 
 Mein persönliches Highlight waren zwei Spaziergängerinnen, die sehr interessiert an dem waren, was wir da machten. Nach einer längeren Einführung in den Amateurfunk, unsere Motivation beim Hobby, die vielfältigen Möglichkeiten, und die Technik dahinter, wurden mit Ausbildungsrufzeichen die ersten QSOs auf 2m probiert. Alles war neu, das internationale Buchstabieralphabet, das Sprechen ins Mikrofon, all das war aufregend.
+![Winter](/aktivitaeten/GLUEHWEINPOTA-2023/Winter2.jpg)
 
 Schlussendlich wurde auf Kurzwelle der Park in Rekordzeit aktiviert, von Schüchternheit am Mikrofon war nichts mehr geblieben, und nach knapp 2 Stunden sind die beiden überglücklich weiter gezogen. Natürlich nicht, ohne noch ein paar Hinweise über Ausbildungsmöglichkeiten und die Lizenzen mit auf den Weg zu bekommen. 
 
 Alles in allem wurden knapp 200 QSOs geloggt, viele tolle Gespräche geführt, Antennen ausprobiert, Kekse, Glühwein und Chilli gegessen, und einige Freundschaften geschlossen. - So muss es sein!
+Vielen Dank an alle, die sich auf den Weg gemacht haben. Die weiteste Anreise hatte ein OM aus Nordbayern.
 
 ### Jahresrückblick
 
@@ -30,7 +35,7 @@ Unsere Kleine Gemeinschaft ist mittlerweile auf mehr als 200 Funkamateure und In
 
 #### Sommerfest
 Dieses Jahr haben wir ein Sommerfest in einem Hamburger Park veranstaltet. Analog zum Glühwein-POTA, trafen wir uns im Park, haben diesen gemeinsam aktiviert, gegessen, getrunken und eine kleine Fuchsjagd veranstaltet. Auch hier wurden wir wieder von interessierten Passanten angesprochen und konnten einige davon (u.a. ein junges Mädchen) von unserem Hobby begeistern. Hierbei haben sich PMR-Geräte für den schnellen Einstieg und das Ausprobieren durch Kinder mehr als bewährt. Mehr Mehr Infos und Bilder [hier](https://draussenfunker.de/aktivitaeten/2023-08-26-Sommerfest.html).
-![Sommerfest](/aktivitaeten/SOMMERFEST-2023/sommerfest_02.jpg)
+![Sommerfest](/aktivitaeten/GLUEHWEINPOTA-2023/sommerfest_02.jpg)
 
 #### Funktag in Kassel
 In Kassel haben sich knapp 5-7 Draussenfunker getroffen, geklönt und nach dem Flohmarktbesuch noch den eigens dafür eingereichten Park aktiviert.
