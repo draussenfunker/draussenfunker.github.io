@@ -27,6 +27,7 @@ Mein persönliches Highlight waren zwei Spaziergängerinnen, die sehr interessie
 Schlussendlich wurde auf Kurzwelle der Park in Rekordzeit aktiviert, von Schüchternheit am Mikrofon war nichts mehr geblieben, und nach knapp 2 Stunden sind die beiden überglücklich weiter gezogen. Natürlich nicht, ohne noch ein paar Hinweise über Ausbildungsmöglichkeiten und die Lizenzen mit auf den Weg zu bekommen. 
 
 Alles in allem wurden knapp 200 QSOs geloggt, viele tolle Gespräche geführt, Antennen ausprobiert, Kekse, Glühwein und Chilli gegessen, und einige Freundschaften geschlossen. - So muss es sein!
+
 Vielen Dank an alle, die sich auf den Weg gemacht haben. Die weiteste Anreise hatte ein OM aus Nordbayern.
 
 ### Jahresrückblick
@@ -70,6 +71,7 @@ Vielen Dank, dass ihr da seid (oder noch dazu kommt?) und unsere Gemeinschaft be
 
 73
 DO1DSH, DG7PX, DK4HAA, DC1TC, DO7JZ
+
 Danke für die Bilder an DC1TC, DL9PKW, DK4HAA und DK1BOU.
 
 ---
