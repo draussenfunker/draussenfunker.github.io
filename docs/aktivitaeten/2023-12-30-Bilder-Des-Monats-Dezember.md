@@ -23,7 +23,7 @@ Winterlicher Feldtest des UKW ManPack mit Winlink möglichkeit. Jederzeit mit Ku
 ----------
 ![Bilder des Monats](/aktivitaeten/BDM-2023-12/6:12.2023.jpg)
 
-Heute mit DB4LL zusammen DM/NW-026/185/207 auf 15, 20 und 40m in SSB und FT8 aktiviert. Ein toller Jahresabschluss… <#1001800690932400230>
+Heute mit DB4LL zusammen DM/NW-026/185/207 auf 15, 20 und 40m in SSB und FT8 aktiviert. Ein toller Jahresabschluss…
 ![Bilder des Monats](/aktivitaeten/BDM-2023-12/7:12.2023.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2023-12/8:12.2023.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2023-12/9:12.2023.jpg)
