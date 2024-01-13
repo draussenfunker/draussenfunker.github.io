@@ -123,11 +123,11 @@ Der Aufbau und die Abstimmung sind denkbar einfach:
 - Teleskopantenne aufschrauben und grob auf die passende Länge des Bandes ausziehen
 - Mit VNA (z.B. Nano VNA) auf das gewünschte Band abstimmen
 
-![Detailansicht Isolator](/images/diy/teleskop-viertelwellen-vertical/qwvertical_topview.jpg)
+![Detailansicht von oben](/images/diy/teleskop-viertelwellen-vertical/qwvertical_topview.jpg)
 
 Noch schneller geht es, wenn man sich mit einem wasserfesten Stift kleine Markierungen an der Teleskopantenne macht, damit man die Bänder schneller grob wiederfindet. Bei ähnlicher Bodenbeschaffenheit ist diese Methode erstaunlich genau und die Antenne ist breitbandig genug, dass man ohne größere Abstimmarbeiten QRV sein kann. Das SWR auf dem Funkgerät ist zur Sicherheit aber zu beachten bzw. Feinabstimmung mit dem VNA macht trotzdem Sinn. 
 
-![Detailansicht Isolator](/images/diy/teleskop-viertelwellen-vertical/qwvertical_winter.jpg)
+![Antenne im Winter](/images/diy/teleskop-viertelwellen-vertical/qwvertical_winter.jpg)
 
 ### VSWR & Smith Diagram
 
@@ -136,6 +136,17 @@ Die Antenne lässt sich durch Ausziehen problemlos für 10 - 20 Meter abstimmen.
 ![VSWR auf 15m](/images/diy/teleskop-viertelwellen-vertical/swr-15m-band-cropped.jpg)
 
 ![Smith auf 15m](/images/diy/teleskop-viertelwellen-vertical/smith-15m-band-cropped.jpg)
+
+
+## Bilder 
+
+Evolution des Designs. Links die erste Version (siehe Seitenende), Mitte: Prototyp der Version 2. Rechts: Version 2.
+
+![Evolution](/images/diy/teleskop-viertelwellen-vertical/qwvertical_evolution.jpg)
+
+Prototyp und finale Version:
+
+![Evolution](/images/diy/teleskop-viertelwellen-vertical/qwvertical_prototype_final.jpg)
 
 
 ## Vorherige Version
@@ -158,7 +169,7 @@ Die Herausforderung bei den günstigen Teleskopantennen ist, dass diese, im Gege
 - [80 m 0,75mm² Litze für Radiale](https://www.conrad.de/de/p/lapp-4510092-litze-h05v-k-1-x-0-75-mm-orange-100-m-603028.html) oder Fahrzeugleitung FLRY, z. B. [Ebay](https://www.ebay.de/sch/i.html?_nkw=100m+FLRY+0%2C75&_sacat=0&_odkw=100m+Fahrzeugleitung+0%2C75&_osacat=0&_sop=15)
 - Schrauben, Stecker ggf. Kabelschuhe  (Baumarkt, Amazon, ebay, Bastelkiste)
 
-### Zusammenbau
+### Montage
 
 **Erddorn und Halterung**
 
