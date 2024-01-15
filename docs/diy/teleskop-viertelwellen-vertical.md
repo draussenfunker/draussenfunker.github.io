@@ -149,7 +149,7 @@ Prototyp und finale Version:
 ![Evolution](/images/diy/teleskop-viertelwellen-vertical/qwvertical_prototype_final.jpg)
 
 
-Tiny-Version: Winkel hinter dem Isolator gekürzt, Radial-Anschluss unter die PL-Buchse verlegt. Abstand beachten, damit sich die Flügelmutter noch drehen lässt!
+Tiny-Version: Winkel hinter dem Isolator gekürzt, Radial-Anschluss unter die PL-Buchse verlegt. Abstand beachten, damit sich die Flügelmutter noch drehen lässt! Die Idee stammt von DG1JAN. Vielen Dank!
 
 ![Tiny Version der Halterung](/images/diy/teleskop-viertelwellen-vertical/qwvertical_tiny.jpg)
 
