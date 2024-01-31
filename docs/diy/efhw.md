@@ -78,10 +78,14 @@ Das Loch mit dem Stufenbohrer auf 16 mm aufbohren. PL-Buchse wie gezeigt einsetz
 ![UnUn buildprocess](/images/diy/efhw/efhw-kit_unun_02.jpg)
 
 
+Auf der gegenüberliegenden Seite für den Anschluss des Antennendrahts ein 4-mm-Loch bohren. 
+
+![UnUn buildprocess](/images/diy/efhw/efhw-kit_unun_04.jpg)
+
 Fertig gebohrtes Gehäuse:
 
 ![UnUn buildprocess](/images/diy/efhw/efhw-kit_unun_03.jpg)
-![UnUn buildprocess](/images/diy/efhw/efhw-kit_unun_04.jpg)
+
 
 
 Vom Kupferlackdraht ca. 20 cm umschlagen:
@@ -397,12 +401,10 @@ Wenn vorhanden: Neon-Klebeband aufbringen. Danach das Seil durch die Muttern fä
 
 
 
-## Technische Details zu verschiedenen Wicklungsverhältnissen
+## Hinweise, Ideen und Mods
 
-Folgt.
+- 2:15 oder 2:14 Wicklungsverhältnis, wenn primär die oberen Bänder (15m, 10m) genutzt werden sollen (Reduzierung der Kapazität zwischen den Windungen und Wirkung der Leckinduktivität).
+- 3:21 (oben abgebildet) wenn der Fokus auf den tieferen Bändern (40m, 20m) liegt. 
+- Beides funktioniert aber problemlos auf den anderen Bändern! Es geht dabei um die Optimierung/Effizienzsteigerung auf hohem Niveau.
+- Ebenfalls als Wurfgewicht geeignet: Tennisball und Angelsehne. Wer wirklich hoch hinaus will, findet im Bereich Baumpflege spezielle Wurfsäcke und glatte Leinen, mit denen problemlos Höhen von 20m und mehr erreicht werden können. ACHTUNG: immer auf die Umgebung achten und Gefahren von solchen Wurfgeschossen nicht unterschätzen!
 
-
-
-## Bildergalerie
-
-Hier folgen ein paar Bilder der Varianten unserer OPs aus dem Discord-Server.
