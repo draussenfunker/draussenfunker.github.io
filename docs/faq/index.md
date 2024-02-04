@@ -43,6 +43,9 @@ Viele von uns nehmen an Aktivitätsprogrammen wie [POTA](https://pota.app), [WWF
 ### Seid ihr ein Verein?
 Draußenfunker.de ist kein Verein und auch keine fest organisierte Gruppe. Wir sind eine Anlaufstelle für Funkamateure, die Interesse am Portabelbetrieb haben und sich hier über dieses Thema austauschen wollen.
 
+### Habt ihr eine Linkliste zum Thema Amateurfunk?
+Ja, ihr findet sie [hier](/faq/link-list)
+
 ---
 
 Basierend auf einer Nachricht von DK4HAA, zusammengestellt von DC1TC.
