@@ -9,11 +9,15 @@ head:
 
 # EFHW: Endgespeiste Multiband-Drahtantenne
 
-Zugegeben: Bauanleitungen für endgespeiste Halbwellen-Antennen (EFHW) mit 49:1 oder 64:1 UnUn gibt es wie Sand am Meer. Gerade beim Portabelbetrieb ist diese Multiband-Antenne sehr bequem im Handling und funktioniert in fast allen Situationen ausreichend gut. Daher gibt es hier eine weitere Variante der EFHW mit vielen Bildern vom Bau. Die gezeigten Teile sind Bestandteil des Draußenfunker-EFHW-Kits 2023. 
+Zugegeben: Bauanleitungen für endgespeiste Halbwellen-Antennen (EFHW) mit 49:1 oder 64:1 UnUn gibt es wie Sand am Meer. Gerade beim Portabelbetrieb ist diese Multiband-Antenne sehr bequem im Handling und funktioniert in fast allen Situationen ausreichend gut. Daher gibt es hier eine weitere Variante der EFHW mit vielen Bildern vom Bau. Die gezeigten Teile sind Bestandteil des Draußenfunker-EFHW-Kits 2023. Die fertige Antenne:
+
+![Fertige Antenne](/images/diy/efhw/efhw_1.jpg)
 
 Die hier beschriebene Variante mit knapp 20m Antennendraht kann, sorgfältige Abstimmung vorausgesetzt, ohne Antennentuner auf den Bändern 40/20/15/10m eingesetzt werden. Mit einer Verlängerungsspule und einigen Metern Antennendraht lässt sich die Antenne auch auf 80m betreiben (hier nicht beschrieben).
 
-Bei fast allen Komponenten kann auf andere Bauteile ausgewichen werden. Diese Anleitung soll zum Nachmachen, Experimentieren und Entwickeln eigener Spielarten dieser Antenne anregen.
+Bei fast allen Komponenten kann auf andere Bauteile ausgewichen werden. Diese Anleitung soll zum Nachmachen, Experimentieren und Entwickeln eigener Spielarten dieser Antenne anregen. Das komplette Set inkl. Zubehör kann dann zum Beispiel so aussehen:
+
+![Komplettes Set](/images/diy/efhw/efhw_0.jpg)
 
 
 ## UnUn

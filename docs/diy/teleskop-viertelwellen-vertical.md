@@ -34,7 +34,7 @@ Die Herausforderung bei den günstigen Teleskopantennen ist, dass diese, im Gege
 - 2x Schraube M3 x 10 mm
 - 2x Scheibe M3
 - 2x Mutter M3
-- Ringöse mit 10 mm Loch
+- Ringkabelschuh mit 10 mm Loch
 - Draht/Litze
 - Schraube M6 x 25 mm
 - Mutter M6
@@ -84,7 +84,7 @@ Auf den Erdspieß wird die M10-Mutter aufgeschraubt. Diese dient als Auflage fü
 
 Der kurze M10-Gewindestab wird von oben in den Isolator geschraubt.
 
-An die Ringöse wird ein Stück Litze oder dicker Draht gelötet oder gecrimpt. Die Ringöse wird über den Gewindestab gesteckt und in Richtung PL-Buchse ausgerichtet. Nun die Litze kürzen und die Spitze abisolieren, so dass sie am Löt-Anschluss der PL-Buchse endet:
+An den Ringkabelschuh wird ein Stück Litze oder dicker Draht gelötet oder gecrimpt. Der Ringkabelschuh wird über den Gewindestab gesteckt und in Richtung PL-Buchse ausgerichtet. Nun die Litze kürzen und die Spitze abisolieren, so dass sie am Löt-Anschluss der PL-Buchse endet:
 
 ![vor dem Löten](/images/diy/teleskop-viertelwellen-vertical/qwvertical_01.jpg)
 
@@ -149,9 +149,14 @@ Prototyp und finale Version:
 ![Evolution](/images/diy/teleskop-viertelwellen-vertical/qwvertical_prototype_final.jpg)
 
 
-Tiny-Version: Winkel hinter dem Isolator gekürzt, Radial-Anschluss unter die PL-Buchse verlegt. Abstand beachten, damit sich die Flügelmutter noch drehen lässt! Die Idee stammt von DG1JAN. Vielen Dank!
+Tiny-Version: Winkel hinter dem Isolator gekürzt, Radial-Anschluss unter die PL-Buchse verlegt. Abstand beachten, damit sich die Flügelmutter noch drehen lässt! Die Idee stammt von [DG1JAN](https://www.qrz.com/db/dg1jan). Vielen Dank!
 
 ![Tiny Version der Halterung](/images/diy/teleskop-viertelwellen-vertical/qwvertical_tiny.jpg)
+
+
+Eine Variante der Halterung aus vielen Teilen, die in jedem Baumarkt verfügbar sind, hat [DL9DX](https://www.qrz.com/db/dl9dx) gebaut. Der Erdspieß besteht aus einer M10-Schraube, 200mm lang. Der 6-Kant-Kopf wurde abgesägt und der Spieß angespitzt.
+
+![Version aus Baumarktteilen](/images/diy/teleskop-viertelwellen-vertical/mount_by_dl9dx.jpg)
 
 
 ## Vorherige Version
