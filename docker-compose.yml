@@ -1,6 +1,6 @@
 services:
   dev:
-    image: "node:16"
+    image: "node:20"
     user: "node"
     working_dir: /home/node/app
     volumes:
