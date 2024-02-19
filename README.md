@@ -3,7 +3,8 @@
 This repository holds the website for the ham radio group "Draussenfunker".
 
 ## Setup
-Install Nodejs Version 14.
+
+Install Nodejs Version 20.
 
 Run `yarn install` to install the required packages.
 Run `yarn dev` to start the local development environment.
@@ -18,3 +19,4 @@ Inside the `docs` folder, you'll find several files and folders.
 The file `docs/blog/helloworld.md` will be rendered to `/blog/helloworld`, the `docs/blog/readme.md` will be rendered to `/blog/`
 
 Images and other assets can be placed into the public dir. `docs/.vuepress/public/images/example.png` and be accessed in the browser via `/images/example.png`.
+
