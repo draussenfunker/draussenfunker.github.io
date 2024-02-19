@@ -20,3 +20,20 @@ The file `docs/blog/helloworld.md` will be rendered to `/blog/helloworld`, the `
 
 Images and other assets can be placed into the public dir. `docs/.vuepress/public/images/example.png` and be accessed in the browser via `/images/example.png`.
 
+## Contribution
+Piece of cake:
+- File an issue
+- File a corresponding pull request
+- "I don't know what a pull request is!": Just file an issue, we will take good care of you. :)
+
+### Setting up a Development Environment to contribute
+
+#### Methode #1
+tl;dr:
+- clone the repository
+- run "yarn install"
+- run "yarn dev"
+
+#### Methode #2 
+You got a docker environment running anyway? Lovely:
+- run docker compose up
