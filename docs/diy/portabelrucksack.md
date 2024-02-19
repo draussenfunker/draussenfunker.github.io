@@ -50,7 +50,7 @@ Beides schöne Geräte, die viele von den Draußenfunkern auch erfolgreich einse
 Um es direkt auf den Punkt zu bringen: Selbstbau!
 
 - [DIY Draussenfunker 1/4 Wellen Teleskop Vertikalantenne](/diy/teleskop-viertelwellen-vertical.html)
-- **EFHW** (Endgespeiste Halbwellenantenne) mit 1:49 UnUn und 20 m Antennendraht für die Bänder 40/20/15/10m
+- [DIY EFHW](/diy/efhw.html) (Endgespeiste Halbwellenantenne) mit 1:49 UnUn und 20 m Antennendraht für die Bänder 40/20/15/10m
 
 Dies ist keine Entweder-Oder-Empfehlung. Beide Antenne gehören für uns einfach dazu. Der jeweilige OP muss selbst entscheiden, ob er jedes Mal beide mitnimmt. Die Auswahl sollte aber vorhanden sein.
 

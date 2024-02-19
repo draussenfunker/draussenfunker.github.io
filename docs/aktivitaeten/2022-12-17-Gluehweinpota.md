@@ -14,7 +14,7 @@ Die ersten gemeinsamen Aktivierungen im Hamburger Raum haben wirklich Spaß gema
 
 Auf unseren Aktivierungen in der Öffentlichkeit sind wir immer wieder von interessierten Passanten angesprochen worden und haben mit Freude erklärt was wir da machen, was Amateurfunk ist, und wie man in das Thema einsteigen kann. So ist auch diese Webseite entstanden. Wir wollten vieles von dem was wir erklärt haben, noch mal schriftlich festhalten und ebenso eine Anlaufstelle für interessierte Funkamateure haben.
 
-Mit der Zeit wurde diese Gruppe immer größer, einer der beiden deutschen POTA-Admins ist dazu gestoßen, und auch einer der amerikanischen POTA-Admins besucht uns immer wieder virtuell. Inzwischen sind wir auf knapp 80 Lizensierte und Interessierte, hauptsächlich aus Deutschland, angewachsen. Eine hohe zweistellige Anzahl an Aktivierungen wurde erfolgreich abgeschlossen und viele Freundschaften geschlossen.
+Mit der Zeit wurde diese Gruppe immer größer, einer der beiden deutschen POTA-Admins ist dazu gestoßen, und auch einer der amerikanischen POTA-Admins besucht uns immer wieder virtuell. Inzwischen sind wir auf knapp 80 Lizenzierte und Interessierte, hauptsächlich aus Deutschland, angewachsen. Eine hohe zweistellige Anzahl an Aktivierungen wurde erfolgreich abgeschlossen und viele Freundschaften geschlossen.
 
 Auf unserer Chat-Plattform gibt es täglich interessanten Austausch. Ob es um Selbstbauprojekte, Messtechnik, Geräte, Aktivierungen oder einfach alltäglichen Klönschnack geht, alle sind offen, freundlich, respektvoll und hilfreich. Wir haben uns also ein schönes, virtuelles Wohnzimmer abseits von toxischen Facebook-Gruppen, Mailinglisten und Ähnlichem geschaffen.
 
@@ -26,4 +26,4 @@ Wir möchten uns bei jedem Einzelnen bedanken. Bedanken für die Kontakte über 
 
 Auf, dass 2023 noch toller wird, dass wir das Thema Draussenfunken, POTA, SOTA, WWFF, etc. noch weiter in die Breite tragen können, und unsere Gemeinschaft weiter wächst.
 
-DK4HHA, DG7PX, DO1DSH, DO7JZ
+DK4HAA, DG7PX, DO1DSH, DO7JZ

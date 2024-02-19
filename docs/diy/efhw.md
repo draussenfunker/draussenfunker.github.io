@@ -9,11 +9,15 @@ head:
 
 # EFHW: Endgespeiste Multiband-Drahtantenne
 
-Zugegeben: Bauanleitungen für endgespeiste Halbwellen-Antennen (EFHW) mit 49:1 oder 64:1 UnUn gibt es wie Sand am Meer. Gerade beim Portabelbetrieb ist diese Multiband-Antenne sehr bequem im Handling und funktioniert in fast allen Situationen ausreichend gut. Daher gibt es hier eine weitere Variante der EFHW mit vielen Bildern vom Bau. Die gezeigten Teile sind Bestandteil des Draußenfunker-EFHW-Kits 2023. 
+Zugegeben: Bauanleitungen für endgespeiste Halbwellen-Antennen (EFHW) mit 49:1 oder 64:1 UnUn gibt es wie Sand am Meer. Gerade beim Portabelbetrieb ist diese Multiband-Antenne sehr bequem im Handling und funktioniert in fast allen Situationen ausreichend gut. Daher gibt es hier eine weitere Variante der EFHW mit vielen Bildern vom Bau. Die gezeigten Teile sind Bestandteil des Draußenfunker-EFHW-Kits 2023. Die fertige Antenne:
+
+![Fertige Antenne](/images/diy/efhw/efhw_1.jpg)
 
 Die hier beschriebene Variante mit knapp 20m Antennendraht kann, sorgfältige Abstimmung vorausgesetzt, ohne Antennentuner auf den Bändern 40/20/15/10m eingesetzt werden. Mit einer Verlängerungsspule und einigen Metern Antennendraht lässt sich die Antenne auch auf 80m betreiben (hier nicht beschrieben).
 
-Bei fast allen Komponenten kann auf andere Bauteile ausgewichen werden. Diese Anleitung soll zum Nachmachen, Experimentieren und Entwickeln eigener Spielarten dieser Antenne anregen.
+Bei fast allen Komponenten kann auf andere Bauteile ausgewichen werden. Diese Anleitung soll zum Nachmachen, Experimentieren und Entwickeln eigener Spielarten dieser Antenne anregen. Das komplette Set inkl. Zubehör kann dann zum Beispiel so aussehen:
+
+![Komplettes Set](/images/diy/efhw/efhw_0.jpg)
 
 
 ## UnUn
@@ -78,10 +82,14 @@ Das Loch mit dem Stufenbohrer auf 16 mm aufbohren. PL-Buchse wie gezeigt einsetz
 ![UnUn buildprocess](/images/diy/efhw/efhw-kit_unun_02.jpg)
 
 
+Auf der gegenüberliegenden Seite für den Anschluss des Antennendrahts ein 4-mm-Loch bohren. 
+
+![UnUn buildprocess](/images/diy/efhw/efhw-kit_unun_04.jpg)
+
 Fertig gebohrtes Gehäuse:
 
 ![UnUn buildprocess](/images/diy/efhw/efhw-kit_unun_03.jpg)
-![UnUn buildprocess](/images/diy/efhw/efhw-kit_unun_04.jpg)
+
 
 
 Vom Kupferlackdraht ca. 20 cm umschlagen:
@@ -397,12 +405,10 @@ Wenn vorhanden: Neon-Klebeband aufbringen. Danach das Seil durch die Muttern fä
 
 
 
-## Technische Details zu verschiedenen Wicklungsverhältnissen
+## Hinweise, Ideen und Mods
 
-Folgt.
+- 2:15 oder 2:14 Wicklungsverhältnis, wenn primär die oberen Bänder (15m, 10m) genutzt werden sollen (Reduzierung der Kapazität zwischen den Windungen und Wirkung der Leckinduktivität).
+- 3:21 (oben abgebildet) wenn der Fokus auf den tieferen Bändern (40m, 20m) liegt. 
+- Beides funktioniert aber problemlos auf den anderen Bändern! Es geht dabei um die Optimierung/Effizienzsteigerung auf hohem Niveau.
+- Ebenfalls als Wurfgewicht geeignet: Tennisball und Angelsehne. Wer wirklich hoch hinaus will, findet im Bereich Baumpflege spezielle Wurfsäcke und glatte Leinen, mit denen problemlos Höhen von 20m und mehr erreicht werden können. ACHTUNG: immer auf die Umgebung achten und Gefahren von solchen Wurfgeschossen nicht unterschätzen!
 
-
-
-## Bildergalerie
-
-Hier folgen ein paar Bilder der Varianten unserer OPs aus dem Discord-Server.

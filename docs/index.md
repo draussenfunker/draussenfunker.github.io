@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: "Von draußen mit Funkwellen um die Welt"
-heroImage: /images/beach_280px_heigh.jpg
+heroImage: /images/header_autumn2023_11.jpg
 actions:
   - text: Ich will auch!
     link: /mitmachen/
@@ -39,7 +39,7 @@ Du möchtest mehr über Amateurfunk erfahren? [Hier findest du weitere Informati
 
 Angefangen hat es mit einer Hand voll Funkamateuren auf Twitter, die im Sommer 2022 beschlossen: Draußen funken? Einfach mal machen!
 
-Ein paar Tage später folgte die erste gemeinsame Funkaktion im Öjendorfer Park in Hamburg und es stand schnell fest: es muss mehr coole Aktionen mit coolen Leuten im Amateurfunk geben. Außerdem brauchten wir eine Website für Funk-Interessierte, die uns auf das Thema ansprechen. Die Idee von draussenfunker.de mit dem dazugehörigem [Forum auf Discord](https://discord.gg/8SCbRakh) war geboren. 
+Ein paar Tage später folgte die erste gemeinsame Funkaktion im Öjendorfer Park in Hamburg und es stand schnell fest: es muss mehr coole Aktionen mit coolen Leuten im Amateurfunk geben. Außerdem brauchten wir eine Website für Funk-Interessierte, die uns auf das Thema ansprechen. Die Idee von draussenfunker.de mit dem dazugehörigem [Forum auf Discord](https://discord.gg/fMsMjZnjxc) war geboren. 
 
 Seit dem ist viel passiert. In knapp sechs Monaten wuchs die Community auf über 100 Funkamateure und Funk-Interessierte an, die sich rege zum Thema Draußenfunken austauschen. Bei gemeinsamen Bastelaktionen (on- sowie offline) bauen wir Antennen, Funkgeräte und anderes. Bei unseren Funkaktivitäten haben wir allein in der zweiten Jahreshälfte 2022 mehrere tausend Funkverbindungen im und aus dem Grünen zusammen bekommen. Der Rest ist Geschichte und erst der Anfang! Wir haben noch viele Ideen für die Zukunft und durch die wachsende Community kommen täglich neue dazu. [Sei dabei!](/mitmachen)
 

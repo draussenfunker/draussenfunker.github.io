@@ -3,7 +3,8 @@
 This repository holds the website for the ham radio group "Draussenfunker".
 
 ## Setup
-Install Nodejs Version 14.
+
+Install Nodejs Version 20.
 
 Run `yarn install` to install the required packages.
 Run `yarn dev` to start the local development environment.

@@ -11,8 +11,11 @@
     "build": "vuepress build docs"
   },
   "devDependencies": {
+    "@vuepress/client": "^2.0.0-beta.42",
     "@vuepress/plugin-active-header-links": "^2.0.0-beta.49",
     "@vuepress/plugin-back-to-top": "^2.0.0-beta.49",
+    "sharp-cli": "^4.2.0",
+    "vue": "^3.2.36",
     "vuepress": "^2.0.0-beta.49",
     "vuepress-plugin-social-share": "^2.0.0-beta.5",
     "vuepress-plugin-use-pages": "^1.0.5"
