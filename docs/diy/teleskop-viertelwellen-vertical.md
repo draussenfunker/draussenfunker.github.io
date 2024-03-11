@@ -40,7 +40,7 @@ Die Herausforderung bei den günstigen Teleskopantennen ist, dass diese, im Gege
 - Mutter M6
 - Flügelmutter M6
 - 4x Rohrkabelschuh 6 mm² mit 6 mm Loch
-- [80 m 0,75mm² Litze für Radiale](https://www.conrad.de/de/p/lapp-4510092-litze-h05v-k-1-x-0-75-mm-orange-100-m-603028.html) oder Fahrzeugleitung FLRY, z. B. [Ebay](https://www.ebay.de/sch/i.html?_nkw=100m+FLRY+0%2C75&_sacat=0&_odkw=100m+Fahrzeugleitung+0%2C75&_osacat=0&_sop=15)
+- [80 m 0,75mm² Litze für Radiale](https://www.elektro4000.de/Kabel-Leitungen/Leitungen/Aderleitungen/Lapp-Kabel-Leitung-H05V-K-1x0-75-OG-4510092-R100::231373.html) oder Fahrzeugleitung FLRY, z. B. [Ebay](https://www.ebay.de/sch/i.html?_nkw=100m+FLRY+0%2C75&_sacat=0&_odkw=100m+Fahrzeugleitung+0%2C75&_osacat=0&_sop=15)
 
 
 *) Für den Erdspieß besser als die Gewindestange geeignet: 10 mm Alustab schräg absägen und auf den ersten 2 cm am geraden Ende ein M10-Gewinde schneiden.
