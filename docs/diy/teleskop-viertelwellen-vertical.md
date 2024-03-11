@@ -176,7 +176,7 @@ Die Herausforderung bei den günstigen Teleskopantennen ist, dass diese, im Gege
 - [Adapter M10-3/8"](https://de.aliexpress.com/item/1005005037034161.html)
 - [Albrecht Antennenhalterung 3/8 6197](https://www.conrad.de/de/p/antennenhalterung-albrecht-3-8-6197-930455.html) weitere Angebote über [Ebay](https://www.ebay.de/sch/i.html?_nkw=Spiegelhalter+Albrecht+6197).
 - Aluminium Rundstab, ⌀ 10-12 mm, Länge: ca. 25 cm. Am günstigsten im Baumarkt als 1m-Stab zu bekommen.
-- [80 m 0,75mm² Litze für Radiale](https://www.conrad.de/de/p/lapp-4510092-litze-h05v-k-1-x-0-75-mm-orange-100-m-603028.html) oder Fahrzeugleitung FLRY, z. B. [Ebay](https://www.ebay.de/sch/i.html?_nkw=100m+FLRY+0%2C75&_sacat=0&_odkw=100m+Fahrzeugleitung+0%2C75&_osacat=0&_sop=15)
+- [80 m 0,75mm² Litze für Radiale](https://www.elektro4000.de/Kabel-Leitungen/Leitungen/Aderleitungen/Lapp-Kabel-Leitung-H05V-K-1x0-75-OG-4510092-R100::231373.html) oder Fahrzeugleitung FLRY, z. B. [Ebay](https://www.ebay.de/sch/i.html?_nkw=100m+FLRY+0%2C75&_sacat=0&_odkw=100m+Fahrzeugleitung+0%2C75&_osacat=0&_sop=15)
 - Schrauben, Stecker ggf. Kabelschuhe  (Baumarkt, Amazon, ebay, Bastelkiste)
 
 ### Montage
