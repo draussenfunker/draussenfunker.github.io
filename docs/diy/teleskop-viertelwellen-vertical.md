@@ -111,8 +111,16 @@ In diesem Beispiel sind es vier Bündel mit jeweils acht Radials a 2,5 m Länge 
 
 Crimpen mit der entsprechenden Zange reicht zur Befestigung vollkommen aus. Um auf Nummer Sicher zu gehen, können die Kabelschuhe nach dem Crimpen auch noch verlötet und mit Schrumpfschlauch verschönert werden.
 
-![Radilas](/images/diy/teleskop-viertelwellen-vertical/radials.jpg)
+![Radials](/images/diy/teleskop-viertelwellen-vertical/radials.jpg)
 
+
+::: tip Tipp: Radials verdrillen
+Litze ca. 15 mm abisolieren. Dann leicht und gleichmäßig verdrillen. 99% des Erfolgs macht es aus, dass die 8 Radials sauber und ordentlich in der Hand liegen als möglichst rundes Bündel und nicht "flach" nebeneinander. Beim Verdrillen darauf achten, dass man nicht einzelne Litzen "um die anderen herum" wickelt (siehe Bild rechts, hervorgehoben durch eingefärbte Litze) sondern alle gleichmäßig verdreht sind.
+
+Man braucht die Litzen nur leicht verdrillen. Ein, zwei Runden reichen aus. Auf diese Weise sollte es keine Probleme geben, die Litze in die Kabelschuhe zu bekommen. Um so stärker man die Litze verdrillt, um so "breiter" wird das Bündel und um so schwerer bekommt man es in den Kabelschuh.
+
+![Radials verdrillen](/images/diy/teleskop-viertelwellen-vertical/qwvertical_radials_verdrillen.jpg)
+:::
 
 
 ## Aufbau und Abstimmen
