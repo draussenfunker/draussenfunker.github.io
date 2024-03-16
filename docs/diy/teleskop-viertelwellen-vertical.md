@@ -9,7 +9,9 @@ head:
 
 # Teleskop 1/4 Lambda Vertikal
 
-Eine portable Viertelwellen Vertikalantenne für 10-20 Meter und kleines Geld - selbstgebaut.
+Eine portable Viertelwellen-Vertikalantenne für 10-20 Meter und kleines Geld - selbstgebaut.
+
+![Komplettes Antennen-Set](/images/diy/teleskop-viertelwellen-vertical/qwvertical_kit.jpg)
 
 ![In Aktion im Stadtpark](/images/diy/teleskop-viertelwellen-vertical/action-shot-stadpark.jpeg)
 
