@@ -7,23 +7,33 @@ description: Hier findet ihr eine Sammlung von wichtigen / interessanten Links. 
 
 ## Behörden, Vereinigungen und Bandpläne
 
-- [BNetzA](https://www.bundesnetzagentur.de/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/SpezielleAnwendungen/Amateurfunk/amateurfunk_node.html): u. a. die für Amateurfunk zuständige Behörde
+- [BNetzA](https://bnetza.de/amateurfunk): u. a. die für Amateurfunk zuständige Behörde
   - hier können Prüfungstermine sowie die Prüfungsfragen eingesehen werden
   - Informationen zu Gebühren und Beiträgen
   - sowie diverse weitere Informationen zum Thema Amateurfunk
+  - [BNetzA Amateurfunk Termine](https://bnetza.de/amateurfunk-termine)
+  - [BNetzA Fragenkatalog](https://bnetza.de/amateurfunk-fragenkatalog)
 - [DARC](https://www.darc.de/home): Verein der Funkamateure in Deutschland, der auch zur IARU gehört
 - [IARU](https://www.iaru-r1.org/): International Amateur Radio Union (internationale Zusammenschluss der Amateurfunk-Vereine)
 - [HF Bandplan](https://www.iaru-r1.org/wp-content/uploads/2019/08/hf_r1_bandplan.pdf)
 - [VHF Bandplan](https://www.iaru-r1.org/wp-content/uploads/2020/12/VHF-Bandplan.pdf)
 - [UHF Bandplan](https://www.iaru-r1.org/wp-content/uploads/2021/03/UHF-Bandplan.pdf)
 
-## Funkpraxis
+## Allgemeine Funkpraxis
 
+- [BNetzA Rufzeichenliste](https://ans.bundesnetzagentur.de/Amateurfunk/Rufzeichen.aspx): Hier könnt ihr Daten zu bestehenden Rufzeichen abfragen und auch ob das Rufzeichen welches ihr euch wünscht noch frei ist (* als Joker eintragen, wenn euch z. B. die Zahl egal ist)
 - [qrz.com](https://www.qrz.com/): Sowas wie ein soziales Netzwerk für HAM radio / Amateurfunk
 - [Repeatermap](https://repeatermap.de/): Karte mit aktuellen Informationen über Relais
 - [WebSDR](http://websdr.org/): Liste mit frei im Internet verfügbaren SDR-Empfangsstationen
-- [BrandMeister](https://brandmeister.network/): Plattform für DMR-Benutzer für den Zugriff und die Verwaltung ihrer Repeater, Hotspots, Sprachanrufe und mehr
+- [Bakenliste](https://rsgb.org/main/technical/propagation/propagation-beacons/): Liste mit Verweisen zu Bakenlisten z. B. für die Kurzwelle
+- [APRS](https://aprs.fi/): Eine Live APRS Karte im Browser
 - [Meshtastic](https://meshtastic.org/): Open-Source Projekt für ein dezentralisiertes Kommunikationsnetzwerk aus günstigen geringverbrauchenden Geräten (lizenzfrei nutzbar)
+- [Meshmap](https://meshmap.net/): Eine "fast" Live-Karte der Meshtastic-Knoten, die vom offiziellen Meshtastic MQTT-Server gesehen werden
+
+## DMR
+
+- [BrandMeister](https://brandmeister.network/): Plattform für DMR-Benutzer für den Zugriff und die Verwaltung ihrer Repeater, Hotspots, Sprachanrufe und mehr
+- [Brandmeister Hoseline](https://hose.brandmeister.network/): Hier könnt ihr auch ohne DMR Equipment oder Lizenz den DMR Funk vom Browser aus mithören so auch z. B. die Draussenfunker Talkgroup
 
 ## Aktivitätsprogramme
 
@@ -41,6 +51,10 @@ description: Hier findet ihr eine Sammlung von wichtigen / interessanten Links. 
 - 50 Ohm Lernapp
   - [Apple (iOS)](https://apps.apple.com/de/app/50ohm/id6474642114)
   - [Android](https://play.google.com/store/apps/details?id=de.darc.fuenfizigohm)
+
+## Notfunk
+
+- [Notfunkkarte DARC](https://www.darc.de/der-club/referate/notfunk/referat/notfunkkarte/): Die offiziele Notfunkkarte vom DARC
 
 ---
 
