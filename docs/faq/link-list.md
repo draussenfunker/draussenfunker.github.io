@@ -54,8 +54,6 @@ description: Hier findet ihr eine Sammlung von wichtigen / interessanten Links. 
 
 ## Notfunk
 
-- [Bürgernotfunk](https://gis.kreis-soest.de/portal/apps/opsdashboard/index.html#/ebada09046bd4e79aef6e26e9e20b53b): Bürgernotfunkkarte
-- [Notfunkkarte vesab](https://www.vesab.de/wpvesab/funk-3/funk/funkstationskarte-10740/): Notfunkkarte vom YT Kanal Vesab
 - [Notfunkkarte DARC](https://www.darc.de/der-club/referate/notfunk/referat/notfunkkarte/): Die offiziele Notfunkkarte vom DARC
 
 ---
