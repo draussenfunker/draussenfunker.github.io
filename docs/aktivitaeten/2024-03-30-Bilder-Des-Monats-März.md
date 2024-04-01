@@ -5,7 +5,7 @@ description:
 type: activity
 image: /aktivitaeten/BDM-2024-03/26:03.2024.jpg
 features:
- - FOTOS
+    - FOTOS
 ---
 
 # Bilder des Monats März 2024
