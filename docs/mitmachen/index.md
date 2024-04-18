@@ -15,7 +15,7 @@ Unsere Community ist in unserem Forum auf [Discord](https://discord.gg/4RkRRwXtt
 Wir bieten regelmäßig Aktionen zum Reinschnuppern, Mitmachen und Weitererzählen an. Neben den Informationen auf dieser Website und auf unserem Discord-Server haben wir auch einen [Flyer](/images/mitmachen/Draussenfunker_Flyer_Mitmachen.pdf) zum Weitergeben - zum Beispiel beim OV-Abend. Für alle Nicht-Funkamateure: das sind die Treffen der lokalen Gruppen des [Deutschen Amateur-Radio-Club (DARC) e.V.](https://www.darc.de/home). Ihr habt Interesse, gemeinsam mit uns Portabelbetrieb zu machen? Meldet euch! Wir freuen uns auf die gemeinsame Zeit on air.
 
 ::: tip QRV via Brandmeister und YSF
-Für den direkten Austausch haben wir auch einen YSF-Reflector, der mit dem Brandmeister-DMR-Netz gekoppelt ist. Der Draussenfunker-Reflector ist im YSF-Netz (C4FM) über die ID 38640 erreichbar und heißt aufgrund der Zeichenbegrenzung DE-Draussenfunk. Dieser ist mit unserer DMR-TG 26486 im Brandmeisternetz gekoppelt.
+Für den direkten Austausch haben wir auch einen YSF-Reflector, der mit dem Brandmeister-DMR-Netz gekoppelt ist. Der Draussenfunker-Reflector ist im YSF-Netz (C4FM) über die ID 26486 erreichbar und heißt aufgrund der Zeichenbegrenzung DE-Draussenfunk. Dieser ist mit unserer DMR-TG 26486 im Brandmeisternetz gekoppelt.
 Ruft mal rein!
 :::
 
