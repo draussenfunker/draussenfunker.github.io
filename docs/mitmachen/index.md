@@ -17,6 +17,7 @@ Wir bieten regelmäßig Aktionen zum Reinschnuppern, Mitmachen und Weitererzähl
 ::: tip QRV via Brandmeister und YSF
 Für den direkten Austausch haben wir auch einen YSF-Reflector, der mit dem Brandmeister-DMR-Netz gekoppelt ist. Der Draussenfunker-Reflector ist im YSF-Netz (C4FM) über die ID 26486 erreichbar und heißt aufgrund der Zeichenbegrenzung DE-Draussenfunk. Dieser ist mit unserer DMR-TG 26486 im Brandmeisternetz gekoppelt.
 Ruft mal rein!
+Für die analog Funker unter uns benutzen wir im FM Funknetz die 26486. Sie ist nicht mit dem DMR und YSF Netz gekoppelt.
 :::
 
 [![Draussenfunker Flyer Mitmachen](/images/mitmachen/Draussenfunker_Flyer_Mitmachen.jpg)](/images/mitmachen/Draussenfunker_Flyer_Mitmachen.pdf)
