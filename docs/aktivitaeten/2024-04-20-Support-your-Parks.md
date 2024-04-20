@@ -11,7 +11,7 @@ features:
 
 ## Was ist das Support your Parks weekend?
 
-Hier ein Auzug von der [Deutschen POTA Seite](https://parksontheair.de/index.php/offizielle-pota-events): Das sind „Aktivitätswochenenden“, bei denen der Hauptzweck darin besteht, in die Parks zu gehen und so viel Spaß wie möglich zu haben, und genau das haben wir gemacht! Hier ein paar brichte von Aktivitäten:
+Hier ein Auzug von der [Deutschen POTA Seite](https://parksontheair.de/index.php/offizielle-pota-events): Das sind „Aktivitätswochenenden“, bei denen der Hauptzweck darin besteht, in die Parks zu gehen und so viel Spaß wie möglich zu haben, und genau das haben wir gemacht! Hier ein paar Berichte von Aktivitäten:
 
 ## [DF9HC, Haiko](https://www.qrz.com/db/DF9HC)
 
