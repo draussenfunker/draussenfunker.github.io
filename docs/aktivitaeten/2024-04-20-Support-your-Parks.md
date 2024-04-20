@@ -36,9 +36,10 @@ Zum Support your Parks weekend Spring dachte ich mir, ich aktiviere [den Neuklos
 
 ![DK1BOU](/aktivitaeten/DE-0604-2024-04-04/DK1BOU_1.jpg)
 ![DK1BOU](/aktivitaeten/DE-0604-2024-04-04/DK1BOU_2.jpg)
-
-Beim P2P mit Tobias, DC1TC und Harm, DK4HAA hab ich 33 bekommen, obwohl ich sie bei gleichem Setup 55 gehört habe, was mich dazu bewegt hat endlich meine [DIY 1/4 Wellen Vertical-Antenne](/diy/teleskop-viertelwellen-vertical.html) mit ein paar mer Radial's aus der Restekiste zu auszustatten.
-
 ![DK1BOU](/aktivitaeten/DE-0604-2024-04-04/DK1BOU_3.jpg)
+
+Beim P2P mit Tobias, DC1TC und Harm, DK4HAA hab ich 33 bekommen, obwohl ich sie bei gleichem Setup 55 gehört habe, was mich dazu bewegt hat zuhause endlich meine [DIY 1/4 Wellen Vertical-Antenne](/diy/teleskop-viertelwellen-vertical.html) mit ein paar Radial's mehr aus der Restekiste auszustatten.
+
+![DK1BOU](/aktivitaeten/DE-0604-2024-04-04/DK1BOU_4.jpg)
 
 Am Ende kamen, trotz schlechten Bedingungen und wenig Radials, 18 QSO's auf 20m zustande. Eine erfolgreiche und lehrreiche Aktivierung.
