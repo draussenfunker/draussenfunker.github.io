@@ -43,3 +43,14 @@ Beim P2P mit Tobias, DC1TC und Harm, DK4HAA hab ich 33 bekommen, obwohl ich sie 
 ![DK1BOU](/aktivitaeten/SYP-Spring-2024/DK1BOU_4.jpg)
 
 Am Ende kamen, trotz schlechten Bedingungen und wenig Radials, 18 QSO's auf 20m zustande. Eine erfolgreiche und lehrreiche Aktivierung.
+
+## [DO3OI, Steffen](https://www.qrz.com/db/DO3OI)
+
+Support your Parks Wochenende. Ich war am Wochenende in DE-0675, DE-0641 und DE-0534 aktiv. Manchmal auch innerhalb des POTA Gebietes noch den Standort gewechselt um einfach auch verschiedene Antennen an unterschiedlichen Standorten zu testen. Eine tolle Möglichkeit um Aufmerksamkeit auf unser Hobby zu lenken. An manchen Standorten habe ich mehr Gespräche über das was „ich da mache“ geführt als QSOs. Und das ist manchmal auch gut und wichtig.
+
+![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_1.jpg)
+![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_2.jpg)
+![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_3.jpg)
+![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_4.jpg)
+![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_5.jpg)
+![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_6.jpg)
