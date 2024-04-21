@@ -3,7 +3,7 @@ title: Aktivitäten zum Support Your Parks Weekend Spring
 description: 
     Am 20.04.2024 - 21.04.2024 war das Support Your Parks Weekend Spring. Das haben die Draussenfunker gemacht:
 type: activity
-image: /aktivitaeten/SYP-spring-2024/DK1BOU_1.jpg
+image: /aktivitaeten/SYP-spring-2024/DO3OI_4.jpg
 features:
  - POTA
 ---
@@ -32,13 +32,13 @@ Spontane Aktivierung von [DE-0558 Fernwanderweg E1 Deutschland](https://pota.app
 
 ## [DK1BOU, Ove](https://www.qrz.com/db/DK1BOU)
 
-Zum Support your Parks weekend Spring dachte ich mir, ich aktiviere [den Neukloster Forst, DE-0645](https://pota.app/#/park/DE-0645). Im shack hatte ich schon DC1TC, DK4HAA und DO7JZ gehuntet. Jetzt war es Zeit für die Aktivierung. Im Park angekommen, waren DC1TC und DK4HAA immernoch QRV und es kam ein P2P zustande.
+Zum Support Your Parks Weekend dachte ich mir, ich aktiviere [den Neukloster Forst, DE-0645](https://pota.app/#/park/DE-0645). Im shack hatte ich schon DC1TC, DK4HAA und DO7JZ gehuntet. Jetzt war es Zeit für die Aktivierung. Im Park angekommen, waren DC1TC und DK4HAA immernoch QRV und es kam ein P2P zustande.
 
 ![DK1BOU](/aktivitaeten/SYP-Spring-2024/DK1BOU_1.jpg)
 ![DK1BOU](/aktivitaeten/SYP-Spring-2024/DK1BOU_2.jpg)
 ![DK1BOU](/aktivitaeten/SYP-Spring-2024/DK1BOU_3.jpg)
 
-Beim P2P mit Tobias, DC1TC und Harm, DK4HAA hab ich 33 bekommen, obwohl ich sie bei gleichem Setup 55 gehört habe, was mich dazu bewegt hat zuhause endlich meine [DIY 1/4 Wellen Vertical-Antenne](/diy/teleskop-viertelwellen-vertical.html) mit ein paar Radial's mehr aus der Restekiste auszustatten.
+Beim Park2Park mit Tobias, DC1TC und Harm, DK4HAA hab ich 33 bekommen, obwohl ich sie bei gleichem Setup 55 gehört habe, was mich dazu bewegt hat zuhause endlich meine [DIY 1/4 Wellen Vertical-Antenne](/diy/teleskop-viertelwellen-vertical.html) mit ein paar Radial's mehr aus der Restekiste auszustatten.
 
 ![DK1BOU](/aktivitaeten/SYP-Spring-2024/DK1BOU_4.jpg)
 
@@ -46,7 +46,7 @@ Am Ende kamen, trotz schlechten Bedingungen und wenig Radials, 18 QSO's auf 20m 
 
 ## [DO3OI, Steffen](https://www.qrz.com/db/DO3OI)
 
-Support your Parks Wochenende. Ich war am Wochenende in DE-0675, DE-0641 und DE-0534 aktiv. Manchmal auch innerhalb des POTA Gebietes noch den Standort gewechselt um einfach auch verschiedene Antennen an unterschiedlichen Standorten zu testen. Eine tolle Möglichkeit um Aufmerksamkeit auf unser Hobby zu lenken. An manchen Standorten habe ich mehr Gespräche über das was „ich da mache“ geführt als QSOs. Und das ist manchmal auch gut und wichtig.
+War am Wochenende in [DE-0675](https://pota.app/#/park/DE-0675), [DE-0641](https://pota.app/#/park/DE-0641) und [DE-0534](https://pota.app/#/park/DE-0534) aktiv. Manchmal auch innerhalb des POTA Gebietes an unterschiedlichen Standorten, um verschiedene Antennen an unterschiedlichen Standorten zu testen. Eine tolle Möglichkeit, um Aufmerksamkeit auf unser Hobby zu lenken. An manchen Orten hatte ich mehr Gespräche über das, was „ich da mache“, als QSO's. Und das ist manchmal auch gut und wichtig.
 
 ![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_1.jpg)
 ![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_2.jpg)
@@ -54,3 +54,9 @@ Support your Parks Wochenende. Ich war am Wochenende in DE-0675, DE-0641 und DE-
 ![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_4.jpg)
 ![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_5.jpg)
 ![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_6.jpg)
+
+## [DF1ASH, Lieven](https://www.qrz.com/db/DF1ASH)
+
+Manchmal muss es nichts großes sein. Eine einfache Aktivierung zum Support Your Parks Weekend tut es auch.
+
+![DF1ASH](/aktivitaeten/SYP-Spring-2024/DF1ASH.jpg)
