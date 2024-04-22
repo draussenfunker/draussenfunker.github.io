@@ -3,7 +3,7 @@ title: Aktivitäten zum Support Your Parks Weekend Spring
 description: 
     Am 20.04.2024 - 21.04.2024 war das Support Your Parks Weekend Spring. Das haben die Draussenfunker gemacht.
 type: activity
-image: /aktivitaeten/SYP-spring-2024/DO3OI_4.jpg
+image: /aktivitaeten/SYP-Spring-2024/DO3OI_4.jpg
 features:
  - POTA
 ---
