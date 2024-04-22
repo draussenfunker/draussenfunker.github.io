@@ -57,19 +57,26 @@ War am Wochenende in [DE-0675](https://pota.app/#/park/DE-0675), [DE-0641](https
 
 ## [DF1ASH, Lieven](https://www.qrz.com/db/DF1ASH)
 
-Manchmal muss es nichts großes sein. Eine einfache Aktivierung von [Königswald und Lehnitzsee See, DE-0479]((https://pota.app/#/park/DE-0479) zum Support Your Parks Weekend tut es auch.
+Manchmal muss es nichts großes sein. Eine einfache Aktivierung von [Königswald und Lehnitzsee See, DE-0479](https://pota.app/#/park/DE-0479) zum Support Your Parks Weekend tut es auch.
 
 ![DF1ASH](/aktivitaeten/SYP-Spring-2024/DF1ASH.jpg)
 
 ## [DB6NL, Nils](https://www.qrz.com/db/DB6NL)
 
-Am Samstag wurde den Hohenstein, DE-0314 bei 5 Grad und Schauern aktiviert. 16 QSOs mit 3 Park2Parks's kamen auf 40m und 20m ins Log. Nach 2 Stunden wurde es dann doch zu kalt und musste abgebrochen werden.
+Am Samstag wurde den [Hohenstein, DE-0314](https://pota.app/#/park/DE-0314) bei 5 Grad und Schauern aktiviert. 16 QSOs mit 3 Park2Parks's kamen auf 40m und 20m ins Log. Nach 2 Stunden wurde es dann doch zu kalt und musste abgebrochen werden.
 
 ![DB6NL](/aktivitaeten/SYP-Spring-2024/DB6NL_1.jpg)
 ![DB6NL](/aktivitaeten/SYP-Spring-2024/DB6NL_2.jpg)
 ![DB6NL](/aktivitaeten/SYP-Spring-2024/DB6NL_3.jpg)
 
-Am Sonntag, war [der Gethmannscher Garten, DE-0580](https://pota.app/#/park/DE-0580) dran. Der Wind war zwar kalt, aber im Gegensatz zum Samstag war es wenigstens trocken.
+Am Sonntag, war der [Gethmannscher Garten, DE-0580](https://pota.app/#/park/DE-0580) dran. Der Wind war zwar kalt, aber im Gegensatz zum Samstag war es wenigstens trocken.
 
 ![DB6NL](/aktivitaeten/SYP-Spring-2024/DB6NL_4.jpg)
 ![DB6NL](/aktivitaeten/SYP-Spring-2024/DB6NL_5.jpg)
+
+## [DL2XU, Ben](https://www.qrz.com/db/DL2XU)
+
+Hat bei ziemlich frischem Wetter [Planten un Bloomen, DE-0536](https://pota.app/#/park/DE-0536) im Herzen Hamburgs aktiviert. Nach nur 15 QSOs auf 20m wurde es dann aber zu kalt.
+
+![DL2XU](/aktivitaeten/SYP-Spring-2024/DL2XU_1.jpg)
+![DL2XU](/aktivitaeten/SYP-Spring-2024/DL2XU_2.jpg)
