@@ -15,7 +15,7 @@ Hier ein Auzug von der [Deutschen POTA Seite](https://parksontheair.de/index.php
 
 ## [DF9HC, Haiko](https://www.qrz.com/db/DF9HC)
 
-Die Sonne scheint, heute ist die Frühlingsausgabe des "Support Your Parks" Wochenende und vor ein paar Tagen kam die 40m-Verlängerungsspule der [DIY 1/4 Wellen Vertical-Antenne](/diy/teleskop-viertelwellen-vertical.html) an. Also hab ich mich aufs Fahrrad geschwungen und bin in den nahen Park geradelt. [Der Jakobsweg, DE-0604](https://pota.app/#/park/DE-0604) führt hier in der Nähe vorbei und diesmal hab ich auch einen schönen Spot gefunden, der nicht direkt an einer Straße liegt. 40m waren überraschend ruhig, aber die Bedingungen waren dann auch nicht so berauschend. Zuerst lief es schleppend nur 3 QSOs. Hab dann auf 20 und kurz auf 15 gewechselt wo ich dann die Park-Aktivierung vollenden konnte. Am Schluss bin ich dann noch mal auf 40m gewechselt und konnte dort noch etwas mehr Betrieb machen als zu Anfang. Nach gut einer Stunde hab ich wieder abgebaut und bin zufrieden nach Hause.
+Die Sonne scheint, heute ist die Frühlingsausgabe des "Support Your Parks" Wochenende und vor ein paar Tagen kam die 40m-Verlängerungsspule der [DIY 1/4 Wellen Vertical-Antenne](/diy/teleskop-viertelwellen-vertical.html) an. Also hab ich mich aufs Fahrrad geschwungen und bin in den nahen Park geradelt. Der [Jakobsweg, DE-0604](https://pota.app/#/park/DE-0604) führt hier in der Nähe vorbei und diesmal hab ich auch einen schönen Spot gefunden, der nicht direkt an einer Straße liegt. 40m waren überraschend ruhig, aber die Bedingungen waren dann auch nicht so berauschend. Zuerst lief es schleppend nur 3 QSOs. Hab dann auf 20 und kurz auf 15 gewechselt wo ich dann die Park-Aktivierung vollenden konnte. Am Schluss bin ich dann noch mal auf 40m gewechselt und konnte dort noch etwas mehr Betrieb machen als zu Anfang. Nach gut einer Stunde hab ich wieder abgebaut und bin zufrieden nach Hause.
 
 ![DF9HC](/aktivitaeten/SYP-Spring-2024/DF9HC_1.jpg)
 ![DF9HC](/aktivitaeten/SYP-Spring-2024/DF9HC_2.jpg)
@@ -32,7 +32,7 @@ Spontane Aktivierung von [DE-0558 Fernwanderweg E1 Deutschland](https://pota.app
 
 ## [DK1BOU, Ove](https://www.qrz.com/db/DK1BOU)
 
-Zum Support Your Parks Weekend dachte ich mir, ich aktiviere [den Neukloster Forst, DE-0645](https://pota.app/#/park/DE-0645). Im shack hatte ich schon DC1TC, DK4HAA und DO7JZ gehuntet. Jetzt war es Zeit für die Aktivierung. Im Park angekommen, waren DC1TC und DK4HAA immernoch QRV und es kam ein P2P zustande.
+Zum Support Your Parks Weekend dachte ich mir, ich aktiviere den [Neukloster Forst, DE-0645](https://pota.app/#/park/DE-0645). Im shack hatte ich schon DC1TC, DK4HAA und DO7JZ gehuntet. Jetzt war es Zeit für die Aktivierung. Im Park angekommen, waren DC1TC und DK4HAA immernoch QRV und es kam ein P2P zustande.
 
 ![DK1BOU](/aktivitaeten/SYP-Spring-2024/DK1BOU_1.jpg)
 ![DK1BOU](/aktivitaeten/SYP-Spring-2024/DK1BOU_2.jpg)
