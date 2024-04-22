@@ -48,12 +48,12 @@ Am Ende kamen, trotz schlechten Bedingungen und wenig Radials, 18 QSO's auf 20m 
 
 War am Wochenende in [DE-0675](https://pota.app/#/park/DE-0675), [DE-0641](https://pota.app/#/park/DE-0641) und [DE-0534](https://pota.app/#/park/DE-0534) aktiv. Manchmal auch innerhalb des POTA Gebietes an unterschiedlichen Standorten, um verschiedene Antennen an unterschiedlichen Standorten zu testen. Eine tolle Möglichkeit, um Aufmerksamkeit auf unser Hobby zu lenken. An manchen Orten hatte ich mehr Gespräche über das, was „ich da mache“, als QSO's. Und das ist manchmal auch gut und wichtig.
 
-![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_1.jpg)
-![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_2.jpg)
-![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_3.jpg)
-![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_4.jpg)
-![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_5.jpg)
-![DO3OI](/aktivitaeten/SYP-Spring-2024/DI3OI_6.jpg)
+![DO3OI](/aktivitaeten/SYP-Spring-2024/DO3OI_1.jpg)
+![DO3OI](/aktivitaeten/SYP-Spring-2024/DO3OI_2.jpg)
+![DO3OI](/aktivitaeten/SYP-Spring-2024/DO3OI_3.jpg)
+![DO3OI](/aktivitaeten/SYP-Spring-2024/DO3OI_4.jpg)
+![DO3OI](/aktivitaeten/SYP-Spring-2024/DO3OI_5.jpg)
+![DO3OI](/aktivitaeten/SYP-Spring-2024/DO3OI_6.jpg)
 
 ## [DF1ASH, Lieven](https://www.qrz.com/db/DF1ASH)
 
