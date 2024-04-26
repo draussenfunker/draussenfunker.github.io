@@ -43,6 +43,7 @@ Die Herausforderung bei den günstigen Teleskopantennen ist, dass diese, im Gege
 - Flügelmutter M6
 - 4x Rohrkabelschuh 6 mm² mit 6 mm Loch
 - [80 m 0,75mm² Litze für Radiale](https://www.elektro4000.de/Kabel-Leitungen/Leitungen/Aderleitungen/Lapp-Kabel-Leitung-H05V-K-1x0-75-OG-4510092-R100::231373.html) oder Fahrzeugleitung FLRY, z. B. [Ebay](https://www.ebay.de/sch/i.html?_nkw=100m+FLRY+0%2C75&_sacat=0&_odkw=100m+Fahrzeugleitung+0%2C75&_osacat=0&_sop=15)
+- Optional: [Spule für 40m-Betrieb](https://de.aliexpress.com/w/wholesale-m10-induktion-spule-f%C3%BCr-Pac%25252d12-.html)
 
 
 *) Für den Erdspieß besser als die Gewindestange geeignet: 10 mm Alustab schräg absägen und auf den ersten 2 cm am geraden Ende ein M10-Gewinde schneiden.
@@ -138,6 +139,11 @@ Der Aufbau und die Abstimmung sind denkbar einfach:
 Noch schneller geht es, wenn man sich mit einem wasserfesten Stift kleine Markierungen an der Teleskopantenne macht, damit man die Bänder schneller grob wiederfindet. Bei ähnlicher Bodenbeschaffenheit ist diese Methode erstaunlich genau und die Antenne ist breitbandig genug, dass man ohne größere Abstimmarbeiten QRV sein kann. Das SWR auf dem Funkgerät ist zur Sicherheit aber zu beachten bzw. Feinabstimmung mit dem VNA macht trotzdem Sinn. 
 
 ![Antenne im Winter](/images/diy/teleskop-viertelwellen-vertical/qwvertical_winter.jpg)
+
+
+::: tip Tipp: Betrieb auf 40 Meter
+Mit einer kostengünstigen Verlängerunsspule (siehe Bauteile) von Aliexpress mit M10-Gewinden, lässt sich die Antenne auch problemlos auf dem 40m-Band betreiben. Ggf. müssen die Radials stärker gebündelt werden, um ein gutes SWR zu erzielen.
+:::
 
 ### VSWR & Smith Diagram
 
