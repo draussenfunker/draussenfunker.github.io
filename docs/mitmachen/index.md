@@ -5,7 +5,7 @@ description: Auch Bock? Jetzt Draußenfunker werden!
 
 # Auch Bock? Jetzt Draußenfunker werden!
 
-Unsere Community ist in unserem Forum auf [Discord](https://discord.gg/4RkRRwXtty) aktiv und tausch sich dort über die gemeinsamen Funk-Treffen, die neusten Selbstbauprojekte und viele weitere Themen aus. Neueinsteiger finden bei uns Unterstützung bei der Prüfungsvorbereitung oder allgemein zum Thema Amateurfunk. Du hast Interesse am Thema Amateurfunk und insbesondere am Funken im Grünen? Dann klick den Link und sag Hallo!
+Unsere Community ist in unserem Forum auf [Discord](https://discord.gg/8hJ8KG654N) aktiv und tausch sich dort über die gemeinsamen Funk-Treffen, die neusten Selbstbauprojekte und viele weitere Themen aus. Neueinsteiger finden bei uns Unterstützung bei der Prüfungsvorbereitung oder allgemein zum Thema Amateurfunk. Du hast Interesse am Thema Amateurfunk und insbesondere am Funken im Grünen? Dann klick den Link und sag Hallo!
 
 [Jetzt mitmachen: zu unserem Discord-Server](https://discord.gg/4RkRRwXtty)
 
