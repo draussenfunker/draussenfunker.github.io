@@ -96,7 +96,7 @@ Am 14.04. mit DK9CA Kontakt aufgenommen bezüglich einer neuen POTA-Referenz und
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/45:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/46:04.2024.jpg)
 
-…und noch Danke für die tollen Fotos an Steffen - das heutige POTA-Mobil ist inzwischen 41 Jahre alt. Aktivierung bei mir heute mit dem Xiegu X-6100 mit 10 Watt - und mit jeder Menge Mücken 🙈
+…und noch Danke für die tollen Fotos an Steffen - das heutige POTA-Mobil ist inzwischen 41 Jahre alt. Aktivierung bei mir heute mit dem Xiegu X-6100 mit 10 Watt - und mit jeder Menge Mücken
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/47:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/48:04.2024.jpg)
@@ -146,7 +146,7 @@ Morgens um 6 in der Fuldaaue (DE-0475). Mit 0 QSOs im Log habe ich nach einer ha
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/66:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/67:04.2024.jpg)
 
-Auf dem Weg zum Pota Trail DE-0594 um 9:00 UTC mit dem Auto . Eingepackt die Draussenfunker Vertical Groundplane Antenne ein G90 und einen Klapp Stuhl. Nach 1 1/2 Stunden waren 27 Qsos geloggt. Das Wetter wurde immer wärmer und das trinken neigte sich dem Ende zu. QRT und schnell nach Hause um die erfolgreiche Aktivierung hochzuladen. 73 44
+Auf dem Weg zum Pota Trail DE-0594 um 9:00 UTC mit dem Auto. Eingepackt die Draussenfunker Vertical Groundplane Antenne ein G90 und einen Klapp Stuhl. Nach 1 1/2 Stunden waren 27 Qsos geloggt. Das Wetter wurde immer wärmer und das trinken neigte sich dem Ende zu. QRT und schnell nach Hause um die erfolgreiche Aktivierung hochzuladen. 73 44
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/68:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/69:04.2024.jpg)
