@@ -102,8 +102,8 @@ DL7DL POTA-Aktivierung von ES-0207 im Hafen von Formentera.
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/50:04.2024.jpg)
 
-DO7BEG: So… also der Antennenrucksack ist schon einmal fertig. Kabel und Verbindungen Durchgangsgeprüft, passt.
-Nun warten auf das Funkgerät und dann geht es bald los.. ✌🏻😎 73 DO7EBG
+So… also der Antennenrucksack ist schon einmal fertig. Kabel und Verbindungen Durchgangsgeprüft, passt.
+Nun warten auf das Funkgerät und dann geht es bald los.. 73 DO7EBG
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/51:04.2024.jpg)
 
