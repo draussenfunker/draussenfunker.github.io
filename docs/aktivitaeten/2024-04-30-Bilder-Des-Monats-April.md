@@ -71,7 +71,7 @@ Es war eigentlich viel zu heiß, mit 18 QSOs auf 20m aber eine gelungene Aktivie
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/29:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/30:04.2024.jpg)
 
-<@492392095961579527> Eben ging ZL sehr schön in der Grayline. USA kann ich mit meinem vertikalen "Knüppel" rund um die Uhr erreichen.
+Eben ging ZL sehr schön in der Grayline. USA kann ich mit meinem vertikalen "Knüppel" rund um die Uhr erreichen.
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/31:04.2024.jpg)
 
