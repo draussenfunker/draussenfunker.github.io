@@ -36,7 +36,7 @@ DC1TC in DA-0107 Holsteinische Schweiz. Da 40m voll war mit einem Contest habe i
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/11:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/12:04.2024.jpg)
 
-Heute als Hunter versucht von DE-0239 aus zu jagen .
+DO1RL Heute als Hunter versucht von DE-0239 aus zu jagen .
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/13:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/14:04.2024.jpg)
@@ -71,10 +71,6 @@ Es war eigentlich viel zu heiß, mit 18 QSOs auf 20m aber eine gelungene Aktivie
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/29:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/30:04.2024.jpg)
 
-Eben ging ZL sehr schön in der Grayline. USA kann ich mit meinem vertikalen "Knüppel" rund um die Uhr erreichen.
-
-![Bilder des Monats](/aktivitaeten/BDM-2024-04/31:04.2024.jpg)
-
 Heute am 08.04.2024 war DL2MBN auf dem Weg zu seiner ersten POTA Aktivierung in einem noch nie aktivierten Park ( DE-0566 ). Dabei waren das G90 und die DF vertikal Antenne. Mit 20 Watt und SSB ging es dann bis nach Alaska (7300 km). Insgesamt waren es zum Schluss 35 QSO innerhalb einer Stunde.
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/32:04.2024.jpg)
@@ -84,7 +80,7 @@ Heute am 08.04.2024 war DL2MBN auf dem Weg zu seiner ersten POTA Aktivierung in 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/36:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/37:04.2024.jpg)
 
-Am 14.04. mit DK9CA Kontakt aufgenommen bezüglich einer neuen POTA-Referenz und anschließend ein Treffen für den Nachmittag ausgemacht. An einer EFHW haben so erst Martin und anschließend ich, DO3OI den neuen Park DE-0675, das Lachte Naturschutzgebiet in Niedersachsen aktiviert.
+DO3OI: Am 14.04. hab ich mit DK9CA Kontakt aufgenommen bezüglich einer neuen POTA-Referenz und anschließend ein Treffen für den Nachmittag ausgemacht. An einer EFHW haben so erst Martin und anschließend ich, DO3OI den neuen Park DE-0675, das Lachte Naturschutzgebiet in Niedersachsen aktiviert.
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/38:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/39:04.2024.jpg)
@@ -96,7 +92,7 @@ Am 14.04. mit DK9CA Kontakt aufgenommen bezüglich einer neuen POTA-Referenz und
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/45:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/46:04.2024.jpg)
 
-…und noch Danke für die tollen Fotos an Steffen - das heutige POTA-Mobil ist inzwischen 41 Jahre alt. Aktivierung bei mir heute mit dem Xiegu X-6100 mit 10 Watt - und mit jeder Menge Mücken
+…und noch Danke für die tollen Fotos an Steffen - das heutige POTA-Mobil ist inzwischen 41 Jahre alt. Aktivierung bei mir heute mit dem Xiegu X-6100 mit 10 Watt - und mit jeder Menge Mücken - DK9CA
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/47:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/48:04.2024.jpg)
@@ -106,7 +102,7 @@ DL7DL POTA-Aktivierung von ES-0207 im Hafen von Formentera.
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/50:04.2024.jpg)
 
-So… also der Antennenrucksack ist schon einmal fertig. Kabel und Verbindungen Durchgangsgeprüft, passt.
+DO7BEG: So… also der Antennenrucksack ist schon einmal fertig. Kabel und Verbindungen Durchgangsgeprüft, passt.
 Nun warten auf das Funkgerät und dann geht es bald los.. ✌🏻😎 73 DO7EBG
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/51:04.2024.jpg)
@@ -116,7 +112,7 @@ Nun warten auf das Funkgerät und dann geht es bald los.. ✌🏻😎 73 DO7EBG
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/52:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/53:04.2024.jpg)
 
-Erstaktivierung vom Wildpark in Potsdam (DE-0679) von DF1ASH
+DF1ASH: Erstaktivierung vom Wildpark in Potsdam (DE-0679) von DF1ASH
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/54:04.2024.jpg)
 
@@ -140,13 +136,13 @@ Auf VHF und UHF kamen schon genug QSOs für eine erfolgreiche Aktivierung zusamm
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/64:04.2024.jpg)
 
-Morgens um 6 in der Fuldaaue (DE-0475). Mit 0 QSOs im Log habe ich nach einer halben Stunde wieder abgebaut um den Draussenfunker Stand auf dem Funktag zu besetzen. Keinen einzigen QSO zu ergattern ist natürlich frustrieren, aber die tolle Stimmung mit Nebel auf der Fuldaaue war Entschädigung genug. Auf dem Funktag selbst kamen dann viele tolle Face2Face QSOs zusammen. 😉 DO7JZ
+DO7JZ: Morgens um 6 in der Fuldaaue (DE-0475). Mit 0 QSOs im Log habe ich nach einer halben Stunde wieder abgebaut um den Draussenfunker Stand auf dem Funktag zu besetzen. Keinen einzigen QSO zu ergattern ist natürlich frustrieren, aber die tolle Stimmung mit Nebel auf der Fuldaaue war Entschädigung genug. Auf dem Funktag selbst kamen dann viele tolle Face2Face QSOs zusammen. 😉 DO7JZ
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/65:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/66:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/67:04.2024.jpg)
 
-Auf dem Weg zum Pota Trail DE-0594 um 9:00 UTC mit dem Auto. Eingepackt die Draussenfunker Vertical Groundplane Antenne ein G90 und einen Klapp Stuhl. Nach 1 1/2 Stunden waren 27 Qsos geloggt. Das Wetter wurde immer wärmer und das trinken neigte sich dem Ende zu. QRT und schnell nach Hause um die erfolgreiche Aktivierung hochzuladen. 73 44
+DL2MBN auf dem Weg zum Pota Trail DE-0594 um 9:00 UTC mit dem Auto. Eingepackt die Draussenfunker Vertical Groundplane Antenne ein G90 und einen Klapp Stuhl. Nach 1 1/2 Stunden waren 27 Qsos geloggt. Das Wetter wurde immer wärmer und das trinken neigte sich dem Ende zu. QRT und schnell nach Hause um die erfolgreiche Aktivierung hochzuladen. 73 44
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/68:04.2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/69:04.2024.jpg)
