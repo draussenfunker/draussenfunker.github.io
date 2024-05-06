@@ -17,7 +17,7 @@ Natürlich nicht, denn das ist vermutlich unmöglich. "Es kommt darauf an" passt
 
 ![Portabelrucksack im Einsatz](/images/diy/portabelrucksack/rucksack_im_einsatz_01.jpg)
 
-Gedacht ist dieser Artikel für Einsteiger gedacht und für Ortsverbände, die mit dem Gedanken spielen, einen Portabelrucksack zum Verleihen an die Mitglieder zusammenzustellen. Unsere Empfehlungen erheben keinen Anspruch auf Vollständigkeit sondern spiegeln unsere Erfahrung im Bereich Portabelbetrieb und Ausbildungsbetrieb wieder. Unser Ziel ist es, euch eine solide Ausstattungsempfehlung zu geben, die zuverlässig und frustfrei funktioniert und euch dadurch jahrelange Freude beim Kurzwellenbetrieb bereitet. Der Fokus liegt hierbei auf dem SSB-Kurzwellenbetrieb auf den Bändern 40/20/15/10m. Es werden nur Geräte empfohlen, die zum Zeitpunkt des Erscheinen dieses Artikels noch in Produktion und gut verfügbar waren. Der Artikel wird regelmäßig aktualisiert und spiegelt somit immer unseren aktuellen Kenntnisstand wider.
+Gedacht ist dieser Artikel für Einsteiger und für Ortsverbände, die mit dem Gedanken spielen, einen Portabelrucksack zum Verleihen an die Mitglieder zusammenzustellen. Unsere Empfehlungen erheben keinen Anspruch auf Vollständigkeit sondern spiegeln unsere Erfahrung im Bereich Portabelbetrieb und Ausbildungsbetrieb wieder. Unser Ziel ist es, euch eine solide Ausstattungsempfehlung zu geben, die zuverlässig und frustfrei funktioniert und euch dadurch jahrelange Freude beim Kurzwellenbetrieb bereitet. Der Fokus liegt hierbei auf dem SSB-Kurzwellenbetrieb auf den Bändern 40/20/15/10m. Es werden nur Geräte empfohlen, die zum Zeitpunkt des Erscheinen dieses Artikels noch in Produktion und gut verfügbar waren. Der Artikel wird regelmäßig aktualisiert und spiegelt somit immer unseren aktuellen Kenntnisstand wider.
 
 ## Transceiver
 
@@ -27,7 +27,7 @@ Fangen wir mit der kostspieligsten Komponente an, dem Funkgerät. Die Auswahl is
 
 ![Portabelbetrieb mit dem FT-891](/images/diy/portabelrucksack/draussenfunken_02.jpg)
 
-Warum das FT-891? Kurz: Leistung und Qualität. Das Funkgerät ist ein ausgereiftes Arbeitstier, das tagein, tagaus einfach gut funktioniert. Die Empfängerleistung ist hervorragend. Die Verarbeitung des Geräts ist ausgezeichnet. Aber vor allem: Mit 100 W Sendeleistung bringt es auch für schwierige Band- oder Antennen-Situationen genug Leistung mit, um zuverlässig Funkverbindungen herzustellen. Aktuell ist uns kein vergleichbares Gerät dieser Leistungsklasse bekannt. Der Formfaktor und die Möglichkeit, das Display abgesetzt zu betreiben, bieten interessante Einsatzszenarien beim Portabelbetrieb.
+Warum das FT-891? Kurz: Leistung und Qualität überzeugen. Das Funkgerät ist ein ausgereiftes Arbeitstier, das tagein, tagaus einfach gut funktioniert. Die Empfängerleistung ist hervorragend. Die Verarbeitung des Geräts ist ausgezeichnet. Aber vor allem: Mit 100 W Sendeleistung bringt es auch für schwierige Band- oder Antennen-Situationen genug Leistung mit, um zuverlässig Funkverbindungen herzustellen. Aktuell ist uns kein vergleichbares Gerät dieser Leistungsklasse bekannt. Der Formfaktor und die Möglichkeit, das Display abgesetzt zu betreiben, bieten interessante Einsatzszenarien beim Portabelbetrieb.
 
 ![Yaesu FT-891 im Portabelrucksack](/images/diy/portabelrucksack/rucksack_im_einsatz_04.jpg)
 
@@ -50,11 +50,11 @@ Beides schöne Geräte, die viele von den Draußenfunkern auch erfolgreich einse
 Um es direkt auf den Punkt zu bringen: Selbstbau!
 
 - [DIY Draussenfunker 1/4 Wellen Teleskop Vertikalantenne](/diy/teleskop-viertelwellen-vertical.html)
-- [DIY EFHW](/diy/efhw.html) (Endgespeiste Halbwellenantenne) mit 1:49 UnUn und 20 m Antennendraht für die Bänder 40/20/15/10m
+- [DIY EFHW](/diy/efhw.html) (Endgespeiste Halbwellenantenne) mit 1:49-Übertrager (ugs. UnUn) und 20 m Antennendraht für die Bänder 40/20/15/10m
 
 Dies ist keine Entweder-Oder-Empfehlung. Beide Antenne gehören für uns einfach dazu. Der jeweilige OP muss selbst entscheiden, ob er jedes Mal beide mitnimmt. Die Auswahl sollte aber vorhanden sein.
 
-Beide Antennenarten können einfach und kostengünstig selbstgebaut werden. Für Ortsverbände ist dies gleich eine tolle Möglichkeit für ein gemeinsames Bastelwochenende. Einsteiger melden sich einfach bei uns im Discord bei Interesse an einer gemeinsamen Bastelaktion. 
+Beide Antennenarten können einfach und kostengünstig selbstgebaut werden. Für Ortsverbände ist dies gleich eine tolle Möglichkeit für ein gemeinsames Bastelwochenende. Einsteiger, mit Interesse an einer gemeinsamen Bastelaktion, melden sich einfach bei uns im Discord . 
 
 ### 1/4 Wave Vertical
 
@@ -69,7 +69,7 @@ Die **Viertelwelle** zeichnet insbesondere ihr kleiner "Fußabdruck" aus. Es fin
 
 ![EFHW](/images/diy/portabelrucksack/efhw_02.jpg)
 
-Die **EFHW** ist eine zuverlässige Antenne, die relativ tolerant gegenüber verschiedenen Aufbauarten ist. Vertikal, schräg oder notfalls provisorisch ins Gebüsch gehängt – diese Form der Antenne funktioniert immer ausreichend gut, um Erfolge beim Portabelbetrieb zu haben. Auch kann beim Bau sehr gut auf verfügbare Materialien zurückgegriffen werden. Als sinnvolles Zubehör haben sich die folgenden Dinge erwiesen: kleines Wurfgewicht und 15m Schnur, leichte Alu-Zeltheringe, Schnur und lange Klett-Kabelbinder zur Montage am Baum.
+Die **EFHW** ist eine zuverlässige Antenne, die relativ tolerant gegenüber verschiedenen Aufbauarten ist. Vertikal, schräg oder notfalls provisorisch ins Gebüsch gehängt – diese Antenne funktioniert immer ausreichend gut, um Erfolge beim Portabelbetrieb zu haben. Auch kann beim Bau sehr gut auf bereits vorhandene Materialien zurückgegriffen werden. Als sinnvolles Zubehör haben sich die folgenden Dinge erwiesen: kleines Wurfgewicht und 15 m Schnur, leichte Alu-Zeltheringe, Abspannleinen und lange Klett-Kabelbinder zur Montage am Baum.
 
 ![EFHW mit Zubehör](/images/diy/portabelrucksack/efhw_01.jpg)
 
@@ -78,24 +78,24 @@ Beide Antennen sind, richtig aufgebaut und abgestimmt, resonant und sehr effizie
 
 ## Kabel
 
-Beim Kabel halten wir es klassisch: **15m RG-58 mit eingebauter Mantelwellensperre** (Choke), basierend auf einem 61mm WÜRTH Ferritkern (WUE 74270191). Die zehn Wicklungen auf dem Kern verbrauchen ca. einen Meter Kabel. Die effektive Länge des Kabels beträgt somit 14 Meter. Die Mantelwellensperre befindet sich ca. 2 Meter vom einen Ende des Kabels entfernt.
+Beim Kabel halten wir es klassisch: **15 m RG-58 mit eingebauter Mantelwellensperre** (Choke), basierend auf einem 61 mm WÜRTH Ferritkern (WUE 74270191). Die zehn Wicklungen auf dem Kern verbrauchen ca. einen Meter Kabel. Die effektive Länge des Kabels beträgt somit 14 m. Die Mantelwellensperre befindet sich ca. 2 m von einem Ende des Kabels entfernt.
 
 ![Regenschutz](/images/diy/portabelrucksack/koax.jpg)
 
-Das Kabel kann für die Vertikalantenne mit dem Choke in Richtung Antenne eingesetzt werden. Beim Einsatz mit der EFHW kann je nach Aufbauort mit der Position des Chokes auf Antennen- oder Funkgerätseite experimentiert werden. Das Koaxkabel dient dabei jeweils als Gegengewicht unterschiedlicher Länge.
+Das Kabel kann für die Vertikalantenne mit der Mantelwellensperre in Richtung Antenne eingesetzt werden. Beim Einsatz mit der EFHW kann - je nach Aufbauort - mit der Position des Chokes auf Antennen- oder Funkgerätseite experimentiert werden. Der Teil des Koaxkabel zwischen Antenne und Mantelwellensperre dient dabei jeweils als Gegengewicht unterschiedlicher Länge.
 
-Warum "nur" RG-58? Weil es reicht und günstig ist. Bei dieser Länge sind die Verluste im Kabel vernachlässigbar. RG-58 ist weit verfügbar und kann in 100 m Rollen sehr günstig beschafft werden, so dass genug für spätere Bastelaktionen über bleibt oder eine Gruppe von Funkamateuren gemeinsam ihre Kabel bauen kann. Insbesondere hat sich aber gezeigt: wo ein Kabel liegt, steht bald ein Mensch. Beim Draußenfunken scheinen Kabel andere Menschen magisch an zu ziehen. Nicht selten bleibt einer genau auf dem Kabel stehen. Sehr ärgerlich, wenn es das teure Messi & Paoloni Koax ist. Deutlich weniger ärgerlich, wenn's das RG-58 ist.
+Warum "nur" RG-58? Weil es reicht und günstig ist. Bei dieser Länge sind die Verluste im Kabel vernachlässigbar. RG-58 ist gut verfügbar und kann in 100 m Rollen sehr günstig beschafft werden, so dass genug für spätere Bastelaktionen über bleibt oder eine Gruppe von Funkamateuren gemeinsam ihre Kabel bauen kann. Insbesondere hat sich aber gezeigt: wo ein Kabel liegt, steht bald ein Mensch. Beim Draußenfunken scheinen Kabel andere Menschen magisch an zu ziehen. Nicht selten bleibt einer genau auf dem Kabel stehen. Sehr ärgerlich, wenn es das teure Messi & Paoloni-Koax ist. Deutlich weniger ärgerlich, wenn's das RG-58 ist.
 
 
 ## Akku
 
 ![12V 12Ah Eremit LiFePo4 Akku](/images/diy/portabelrucksack/eremit.jpg)
 
-Ein moderner, leistungsfähiger und vor allem sicherer Akku ist ein wichtiger Bestandteil beim Portabelbetrieb. Die Zeit von schweren Bleiakkus ist längs vorbei, auch wenn diese insbesondere aufgrund der billigen Preise immer noch oft empfohlen werden. LiIon- und LiPo-Akkus haben mit ihrer hohen Energiedichte und dem geringen Gewicht die Nase deutlich vorn. Ein entscheidener Nachteil bei diesen Akkus ist jedoch die hohe Brandgefahr bei falscher Verwendung oder Beschädigung.
+Ein moderner, leistungsfähiger und vor allem sicherer Akku ist ein wichtiger Bestandteil beim Portabelbetrieb. Die Zeit von schweren Bleiakkus ist längst vorbei, auch wenn diese, insbesondere aufgrund der günstigen Preises, immer noch häufig empfohlen werden. LiIon- und LiPo-Akkus haben mit ihrer hohen Energiedichte und dem geringen Gewicht jedoch die Nase deutlich vorn. Ein entscheidender Nachteil bei diesen Akkus ist allerdings die hohe Brandgefahr bei falscher Verwendung oder Beschädigung.
 
-Deutlich sicherer, bei gleichzeitig hoher Energiedichte, sind LiFePo4-Akkus. Ein Brand ist nahezu ausgeschlossen, was sich in vielen YouTube-Videos eindrucksvoll im Vergleich zu LiIon-Akkus zeigt. In den letzten Jahren hat das Angebot an LiFePo4-Akkus stark zugenommen. Nicht alle Akkus sind aber von hoher Qualität oder haben integrierte Schutzschaltungen, die vor Über- oder Tiefentladung schützen.
+Deutlich sicherer, bei gleichzeitig hoher Energiedichte und geringem Gewich, sind LiFePo4-Akkus. Ein Brand - ausgelöst durch Beschädigungen oder Falschnutzung - ist nahezu ausgeschlossen, was sich in vielen YouTube-Videos eindrucksvoll im Vergleich zu LiIon-Akkus zeigt. In den letzten Jahren hat das Angebot an LiFePo4-Akkus stark zugenommen. Nicht alle Akkus sind aber von hoher Qualität oder haben integrierte Schutzschaltungen, die vor Über- oder Tiefentladung schützen.
 
-Als _der_ Standard im Amateurfunk haben sich die hochwertigen Akkus von [Eremit](https://www.eremit.de/c/lifepo4-akkus/12v-lifepo4) etabliert. Insbesondere die 6 Ah Modelle, die oftmals zu zwei Blöcken parallel geschaltet (12 Ah) zum Einsatz kommen, sind bei vielen Draußenfunkern zu finden.
+Als _der_ Standard im Amateurfunk haben sich mittlerweile die hochwertigen Akkus von [Eremit](https://www.eremit.de/c/lifepo4-akkus/12v-lifepo4) etabliert. Insbesondere die 6 Ah-Modelle, die oftmals zu zwei Blöcken parallel geschaltet (12 Ah) zum Einsatz kommen, sind bei vielen Draußenfunkern zu finden.
 
 Unsere Empfehlungen: 
 
@@ -104,7 +104,7 @@ Unsere Empfehlungen:
 
 ![Eremit LiFePo4 Akku und Ladegerät](/images/diy/portabelrucksack/eremit_lader.jpg)
 
-Im ABS-Gehäuse hält der Akku auch mal einen etwas raueren Umgang aus und ist ausreichend spritzwasserschützt. Der Akku hat die notwendigen Schutzschaltungen und kann daher eigentlich kaum versehentlich zerstört werden. PowerPole-Anschlüsse haben sich im Amateurfunk für Verbindungen im Bereich der Stromversorgung etabliert und können direkt angecrimpt mitbestellt werden. Das passendes Steckerladegerät lädt den Akku mit 1 A in circa zwölf Stunden, ist günstig, sehr leicht und kompakt.
+Im ABS-Gehäuse hält der Akku auch mal einen etwas raueren Umgang aus und ist ausreichend spritzwasserschützt. Der Akku hat die notwendigen Schutzschaltungen und kann daher eigentlich kaum versehentlich zerstört werden. PowerPole-Anschlüsse haben sich im Amateurfunk für Verbindungen im Bereich der Stromversorgung etabliert und können direkt angecrimpt mitbestellt werden. Das passendes Steckerladegerät lädt den Akku mit 1 A in circa zwölf Stunden, ist günstig, sehr leicht und kompakt. Der Akku kann aber auch mit jedem anderen Ladegerät, das eine Spannung zwischen 14 V und 30 V liefert, geladen werden. Das integrierte BMS steuert den Ladevorgang und schaltet automatisch ab, sobald der Akku vollständig geladen ist.
 
 
 ## Antennenanalyzer
@@ -116,16 +116,16 @@ Beim Antennenanalyzer haben wir zwei Empfehlungen:
 
 ![Rigexpert Stick 230](/images/diy/portabelrucksack/rigexpert_01.jpg)
 
-Der Rigexpert spielt in Funktion und Qualität in der Oberliga mit. Klare Vorteile des Sticks: Das E-Paper-Display ist auch im Sonnenlicht perfekt lesbar. Die Bluetooth-Funktion ermöglicht eine tolle Erweiterung durch die App auf einem Smartphone, Tablet oder dem PC. Der eingebaute 18650 LiIon-Akku hält 60 Stunden. Aber wir müssen zugeben, dass 300 Euro für einen Antennenanalyzer für einen Portabelrucksack zu rechtfertigen nicht ganz leicht fällt. Als sinnvolles Zubehör zum Stick hat sich ein Reiseetui für elektrische Zahnbürsten erwiesen. Es schützt den Analyzer und nimmt Anleitung, USB-Kabel, Lanyard und Adapter auf.
+Der Rigexpert spielt in Funktion und Qualität in der Oberliga mit. Klare Vorteile des Sticks: Das E-Paper-Display ist auch im Sonnenlicht perfekt lesbar. Die Bluetooth-Funktion ermöglicht eine tolle Erweiterung durch die App auf einem Smartphone, Tablet oder dem PC. Der eingebaute 18650 LiIon-Akku hält 60 Stunden. Aber wir müssen zugeben, dass >300 Euro für einen Antennenanalyzer für einen Portabelrucksack zu rechtfertigen nicht ganz leicht fällt. Als sinnvolles Zubehör zum Stick hat sich ein Reiseetui für elektrische Zahnbürsten erwiesen. Es schützt den Analyzer und nimmt Anleitung, USB-Kabel, Lanyard und Adapter auf.
 
 ![Rigexpert Stick 230](/images/diy/portabelrucksack/rigexpert_02.jpg)
 
-Als Budget-Option für rund 60-80 Euro (je nach aktuellem Kurs und Shop) sei daher der NanoVNA genannt. Mit dem Gerät dürften sich viele OPs bereits auskennen und auch bei gemeinsamen Bastelaktionen ist der NanoVNA extrem hilfreich. Das Gerät ist nach kurzer Einweisung leicht zu bedienen. Zwei Nachteile, bei denen man einen Workaround braucht: draußen ist das Display schwer ablesbar, insbesondere bei Sonnenlicht. Und die SMA-Anschlüsse sind mechanisch nicht sehr belastbar. Hier empfiehlt es sich, ein Pigtail SMA-auf-PL-Buchse zu verwenden und damit etwas Stress von den Anschlüssen zu nehmen.
+Als Budget-Option für rund 60 bis 80 Euro (je nach aktuellem Wechselkurs und Anbieter) sei daher der NanoVNA als gute Alternative genannt. Mit dem Gerät dürften sich viele OPs bereits auskennen und auch bei gemeinsamen Bastelaktionen ist der NanoVNA extrem hilfreich. Das Gerät ist nach kurzer Einweisung leicht zu bedienen. Zwei Nachteile, bei denen man einen Workaround braucht: draußen ist das Display schwer ablesbar, insbesondere bei Sonnenlicht. Und die SMA-Anschlüsse sind mechanisch nicht sehr belastbar. Hier empfiehlt es sich, ein Pigtail SMA-auf-PL-Buchse zu verwenden und damit etwas Stress von den Anschlüssen zu nehmen.
 
 
 ## Rucksack
 
-Jeder ausreichend große Rucksack wird funktionieren. Einen klaren Favoriten haben wir nicht und eine Vielzahl an Rucksäcken ist bei den Draußenfunkern im Einsatz. Ein paar Dinge, die man unserer Erfahrung nach in bei der Auswahl abwägen sollte:
+Jeder ausreichend große Rucksack wird funktionieren. Einen klaren Favoriten haben wir nicht und eine Vielzahl an Rucksäcken ist bei den Draußenfunkern im Einsatz. Ein paar Dinge, die man unserer Erfahrung nach bei der Auswahl abwägen sollte:
 
 - "taktische" Rücksäcke bieten mit Molle-Schlaufen eine einfache Möglichkeit, weiteres Equipment zu befestigen.
 - Rucksäcke mit weiteren Innen- und Außenfächern helfen, das Material sortiert zu verstauen.
@@ -139,7 +139,7 @@ Kurz: was zu eurem Setup passt, verfügbar und bezahlbar ist. Ein paar Beispiele
 
 Die folgenden Teile haben sich als sinnvolles Zubehör erwiesen und sollten in keinem Portabelrucksack fehlen:
 
-### 10-15 Markierungshütchen
+### 10 bis 15 Markierungshütchen
 
 ![Markierungshütchen](/images/diy/portabelrucksack/huetchen.jpg)
 
@@ -150,33 +150,33 @@ Aus dem Sportzubehör, zur Markierung und "Absperrung" der Antenne. Gibt es in v
 
 ![Regenschutz](/images/diy/portabelrucksack/regenschutz_02.jpg)
 
-Ein Regenschauer kann uns nicht vom Funken abhalten. Mir einer kleinen, leichten **Plane oder Folie** schützen wir das Funkgerät. Ein kompakter **Regenschirm** kann auch eine sehr gute Option sein.
+Ein Regenschauer kann uns nicht vom Funken abhalten. Mit einer kleinen, leichten **Plane oder Folie** schützen wir das Funkgerät. Ein kompakter **Regenschirm** kann auch eine sehr gute Option sein.
 
 
 ### Sitzunterlage
 
 ![Sitzkissen](/images/diy/portabelrucksack/sitzkissen.jpg)
 
-Vor allem in den kalten und nassen Monaten bleibt der Hintern warm und trocken mit einer **Sitzunterlage**. Verschiedene Modelle in allen Formen und Farben findet man im Internet oder dem örtlichen Outdoor-Ausrüster.
+Vor allem in den kalten und nassen Monaten bleibt der Hintern mit einer **Sitzunterlage** warm und trocken. Verschiedene Modelle in allen Formen und Farben findet man im Internet oder beim örtlichen Outdoor-Ausrüster.
 
 
 ### Draußenfunker-Flyer
 
 [![Draussenfunker Flyer Mitmachen](/images/mitmachen/Draussenfunker_Flyer_Mitmachen.jpg)](/images/mitmachen/Draussenfunker_Flyer_Mitmachen.pdf)
 
-Oder etwas ähnliches vom eigenen OV. Man wird regelmäßig von Passanten auf das Hobby angesprochen und hat so etwas zum Erklären und Mitmachen griffbereit.
+Oder etwas Ähnliches vom eigenen OV. Man wird regelmäßig von Passanten auf das Hobby angesprochen und hat so etwas zum Erklären griffbereit.
 
 
 ### Materialliste und Anleitungen
 
-Eine **laminierte Materialliste** hilft euch dabei, die Vollständigkeit des Rucksacks zu prüfen. Anleitungen der Hersteller zu den Geräten oder eigene Anleitungen zum Aufbau und dem Betrieb der Station können in Papierform hilfreich sein, sind gleichzeitig aber ein Gewichtsfaktor und überleben vermutlich nicht lange, sobald es einmal regnet. Eine Alternative ist daher, die Unterlagen auf einer Seite auf der eigenen Website zum Download bereit zu stellen und einen QR-Code zur Adresse im Rucksack zu platzieren.
+Eine **laminierte Materialliste** hilft euch dabei, die Vollständigkeit des Rucksacks zu prüfen. Anleitungen der Hersteller zu den Geräten oder eigene Anleitungen zum Aufbau und dem Betrieb der Station können in Papierform hilfreich sein, sind gleichzeitig aber ein Gewichtsfaktor und überleben vermutlich nicht lange, sobald es einmal regnet. Eine Alternative ist daher, die Unterlagen auf einer Unterseite der eigenen Website zum Download bereit zu stellen und einen QR-Code zur Adresse im Rucksack zu platzieren.
 
 
 ### Weitere
 
 - **Zweiter Akku** als Option für längere Aktivitäten.
-- **GFK Angel/Mast** zum Aufhängen von Antennen, falls kein Baum in der Nähe ist.
-- **Kleine Taschenlampe** falls es mal etwas später wird mit dem Abbau.
+- **GFK-Angel/Mast** zum Aufhängen von Antennen, falls kein Baum in der Nähe ist.
+- **Kleine Taschenlampe** falls es mal etwas später wird beim Abbau.
 - **Papier und Stift** sollte jeder OP selbst haben, ein bisschen Reserve kann nicht schaden.
 - **UTC-Uhr** z. B. eine günstige Casio W-800H-1AVDF, die man auf UTC laufen lässt.
 
@@ -194,7 +194,7 @@ Das Bedienteil des FT-891 lässt sich abgesetzt betreiben und erhöht so den Bed
 
 ![Manpack Frame](/images/diy/portabelrucksack/ft891_manpack_frame.jpg)
 
-Aus einem Stück Alu-Blech und der KFZ-Halterung des FT-891 lässt sich eine Halterung bauen, die das Funkgerät und den Akku stabil im Rucksack hält. Das Funkgerät kann so direkt aus dem Rucksack verwendet werden.
+Aus einem Stück Alu-Blech und der KFZ-Halterung des FT-891 lässt sich eine Halterung bauen, die das Funkgerät und den Akku stabil im Rucksack hält. Das Funkgerät kann so direkt aus dem Rucksack heraus verwendet werden.
 
 
 **Rails**
@@ -203,7 +203,7 @@ Aus einem Stück Alu-Blech und der KFZ-Halterung des FT-891 lässt sich eine Hal
 
 ![FT-891 Rails](/images/diy/portabelrucksack/ft891_rails_01.jpg)
 
-Aus Alu-Blechen lassen sich leicht schützende Seitenteile für das Funkgerät bauen, die vorne und hinten überstehen und so die Bedienknöpfe und Anschlüsse vor Stößen schützen. Weiteres Zubehör lässt sich leicht mit Klettstreifen an den Rails befestigen.
+Aus Alu-Blechen lassen sich leicht schützende Seitenteile für das Funkgerät bauen, die vorne und hinten überstehen und so die Bedienknöpfe und Anschlüsse vor Stößen und Beschädigungen schützen. Weiteres Zubehör lässt sich leicht mit Klettstreifen an den Rails befestigen.
 
 
 **PowerPole-Mod**
@@ -213,7 +213,7 @@ Aus Alu-Blechen lassen sich leicht schützende Seitenteile für das Funkgerät b
 
 ## Inspirationen
 
-Ein Bild sagt mehr als 1000 Worte. Die folgenden Bilder zeigen verschiedene Portabelausrüstungen der Draußenfunker und dienen hoffentlich der Inspiration für das eigene Equipment.
+Ein Bild sagt mehr als tausend Worte. Die folgenden Bilder zeigen verschiedene Portabelausrüstungen der Draußenfunker und dienen hoffentlich der Inspiration für das eigene Equipment.
 
 ![Portabelrucksack im Einsatz](/images/diy/portabelrucksack/rucksack_im_einsatz_03.jpg)
 
