@@ -1,11 +1,13 @@
 ---
 title: Draussenfunker-Frühlingsfest 2024
 description: 
-    Am 20.04.2024 - 21.04.2024 fand das Draussenfunker-Frühlingsfest 2024 statt.
+    Am 04.05.2024 fand das Draussenfunker-Frühlingsfest 2024 statt.
 type: activity
 image: /aktivitaeten/Fruehlingsfest-2024/H_1.jpg
 features:
  - POTA
+ - Draussenfunker
+ - Frühlingsfest
 ---
 # Draussenfunker Frühlingsfest 2024
 
