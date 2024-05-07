@@ -61,7 +61,7 @@ Auch kamen einige OM's aus den Bochumer OV's. Interessierte Passanten, die wahrs
 
 ## Niedersachsen
 
-DG7PX, Nikolas und Tom, für den Tag DN4PX waren schon um 7:00h UTC auf [Krautsand, DE-0]() unterwegs. Aufgebaut wurde eine 2m Station mit einer Antenne, die der Antennen-Meister Nikolas, in der Nacht noch zusammengebaut hat. Auch war eine 15m Station am Start. Die Antenne ist auch von Nikolas gebaut. Tom, als DN4PX, hat auf 15m losgelegt. Das erste QSO war mit DK1BOU auch einem Draussenfunker, der aber zu Hause war. Als Nächstes meldete sich JH1CML, Japan. Was für ein zweites QSO überhaupt!
+DG7PX, Nikolas und Tom, für den Tag DN4PX waren schon um 7:00h UTC auf [Krautsand, DE-0515](https://pota.app/#/park/DE-0515) unterwegs. Aufgebaut wurde eine 2m Station mit einer Antenne, die der Antennen-Meister Nikolas, in der Nacht noch zusammengebaut hat. Auch war eine 15m Station am Start. Die Antenne ist auch von Nikolas gebaut. Tom, als DN4PX, hat auf 15m losgelegt. Das erste QSO war mit DK1BOU auch einem Draussenfunker, der aber zu Hause war. Als Nächstes meldete sich JH1CML, Japan. Was für ein zweites QSO überhaupt!
 
 ![Niedersachsen](/aktivitaeten/Fruehlingsfest-2024/NI_1.jpg)
 ![Niedersachsen](/aktivitaeten/Fruehlingsfest-2024/NI_2.jpg)
