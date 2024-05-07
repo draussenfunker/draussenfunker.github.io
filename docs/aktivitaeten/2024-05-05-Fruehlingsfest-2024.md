@@ -1,15 +1,17 @@
 ---
 title: Draussenfunker-Frühlingsfest 2024
 description: 
-    Am 20.04.2024 - 21.04.2024 fand das Draussenfunker-Frühlingsfest 2024 statt.
+    Am 04.05.2024 fand das Draussenfunker-Frühlingsfest 2024 statt.
 type: activity
 image: /aktivitaeten/Fruehlingsfest-2024/H_1.jpg
 features:
  - POTA
+ - Draussenfunker
+ - Frühlingsfest
 ---
 # Draussenfunker Frühlingsfest 2024
 
-Nach dem [Glühwein-POTA](https://draussenfunker.de/aktivitaeten/2023-12-09-Jahresrueckblick.html) haben wir entschieden, dass wir öfter ein großes Treffen in einem Park machen wollen. Daraus ist das Frühlingsfest entstanden. Diesmal nicht zentral, sondern überall in Deutschland verteilt. Dazu trafen sich am 04.05. an insgesamt x Standorten in ganz Deutschland mehr als y Leute, tauschten sich aus und brachten verschiedene Antennen und Geräte mit, die natürlich ausprobiert und befunkt wurden. Parallel tauschte sich die Community auf [Discord](https://discord.gg/4RkRRwXtty) aus und berichtete von vielen spannenden Verbindungen und Eigenbauten. Interessierten Passanten konnte live gezeigt werden, wie lebendig Amateurfunk sein kann. Auch diverse Newcomer wurden bei ihrer Ausbildung am Gerät unterstützt.
+Nach dem [Glühwein-POTA](https://draussenfunker.de/aktivitaeten/2023-12-09-Jahresrueckblick.html) haben wir entschieden, dass wir öfter ein großes Treffen in einem Park machen wollen. Daraus ist das Frühlingsfest entstanden. Diesmal nicht zentral, sondern überall in Deutschland verteilt. Dazu trafen sich am 04.05. an insgesamt 3 Standorten in ganz Deutschland mehr als 20 Leute, tauschten sich aus und brachten verschiedene Antennen und Geräte mit, die natürlich ausprobiert und befunkt wurden. Parallel tauschte sich die Community auf [Discord](https://discord.gg/4RkRRwXtty) aus und berichtete von vielen spannenden Verbindungen und Eigenbauten. Interessierten Passanten konnte live gezeigt werden, wie lebendig Amateurfunk sein kann. Auch diverse Newcomer wurden bei ihrer Ausbildung am Gerät unterstützt.
 
 
 ## Hamburg
