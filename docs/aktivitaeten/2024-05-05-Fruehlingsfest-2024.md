@@ -66,7 +66,7 @@ DG7PX, Nikolas und Tom, für den Tag DN4PX waren schon um 7:00h UTC auf [Krautsa
 ![Niedersachsen](/aktivitaeten/Fruehlingsfest-2024/NI_1.jpg)
 ![Niedersachsen](/aktivitaeten/Fruehlingsfest-2024/NI_2.jpg)
 ![Niedersachsen](/aktivitaeten/Fruehlingsfest-2024/NI_3.jpg)
-![Niedersachsen](/aktivitaeten/Fruehlingsfest-2024/NI_4.jpg)
+![Niedersachsen](/aktivitaeten/Fruehlingsfest-2024/NI_44.jpg)
 
 Nachmittags ging es dann mit Grill im Garten weiter. Nikolas meinte Scherzhaft, lass mal 15m probieren. Vielleicht bekommen wir ja Greyline Australien. Gesagt getan. Tom, als DN4PX, ging wieder QRV und es meldete sich YE9BJM, Indonesien. Den wollte DG7PX natürlich auch arbeiten, blöd nur das er grade in seine Wurst gebissen hatte...
 
