@@ -175,6 +175,14 @@ Eine Variante der Halterung aus vielen Teilen, die in jedem Baumarkt verfügbar 
 ![Version aus Baumarktteilen](/images/diy/teleskop-viertelwellen-vertical/mount_by_dl9dx.jpg)
 
 
+## Tipps & Tricks
+
+### Halterungen
+
+- [Halterung für 3D-Druck, Version 1](https://www.thingiverse.com/thing:6569767)
+- [Halterung für 3D-Druck, Version 2](https://www.thingiverse.com/thing:6569790)
+
+
 ## Vorherige Version
 
 ::: warning Hinweis
