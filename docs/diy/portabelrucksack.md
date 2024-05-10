@@ -123,7 +123,7 @@ Der Rigexpert spielt in Funktion und Qualität in der Oberliga mit. Klare Vortei
 Als Budget-Option für rund 60 bis 80 Euro (je nach aktuellem Wechselkurs und Anbieter) sei daher der NanoVNA als gute Alternative genannt. Mit dem Gerät dürften sich viele OPs bereits auskennen und auch bei gemeinsamen Bastelaktionen ist der NanoVNA extrem hilfreich. Das Gerät ist nach kurzer Einweisung leicht zu bedienen. Zwei Nachteile, bei denen man einen Workaround braucht: draußen ist das Display schwer ablesbar, insbesondere bei Sonnenlicht. Und die SMA-Anschlüsse sind mechanisch nicht sehr belastbar. Hier empfiehlt es sich, ein Pigtail SMA-auf-PL-Buchse zu verwenden und damit etwas Stress von den Anschlüssen zu nehmen.
 
 
-## Rucksack
+## Rucksäcke und Taschen
 
 Jeder ausreichend große Rucksack wird funktionieren. Einen klaren Favoriten haben wir nicht und eine Vielzahl an Rucksäcken ist bei den Draußenfunkern im Einsatz. Ein paar Dinge, die man unserer Erfahrung nach bei der Auswahl abwägen sollte:
 
@@ -133,7 +133,21 @@ Jeder ausreichend große Rucksack wird funktionieren. Einen klaren Favoriten hab
 
 ![Portabelrucksack im Einsatz](/images/diy/portabelrucksack/rucksack_im_einsatz_02.jpg)
 
-Kurz: was zu eurem Setup passt, verfügbar und bezahlbar ist. Ein paar Beispiele findet ihr im Abschnitt "Inspirationen" am Seitenende.
+Kurz: was zu eurem Setup passt, verfügbar und bezahlbar ist. Das gleiche gilt für Zubehör-Taschen.
+
+Da trotzdem oft konkrete Fragen nach den abgebildeten Rucksäcken und Taschen kommen, hier die Liste der gezeigten Modelle:
+
+- [Rucksack: Tasmanian Tiger Essential Pack L](https://www.tasmaniantiger.info/de/produkt/tt-essential-pack-l-mkii/)
+- [kleine Antennentasche: Tasmanian Tiger Tac Pouch 7](https://www.tasmaniantiger.info/de/produkt/tt-tac-pouch-7/)
+- [große Antennentasche: Tasmanian Tiger Tac Pouch 13](https://www.tasmaniantiger.info/de/produkt/tt-tac-pouch-13-sp/)
+- [Knie-Tasche zum Loggen: Tasmanian Tiger Pilotpad](https://www.tasmaniantiger.info/de/produkt/tt-pilotpad/)
+
+Alle Rucksäcke und Taschen können bei den gängigen Online-Shops sowie im stationären Fachhandel bezogen werden und kosten dort in der Regel deutlich unter der UVP.
+
+::: tip Hinweis zur Rucksackgröße
+Beim Rucksack "Essential Pack" gibt es zwei Größen. Die "kleine" Version **ohne L im Namen** mit 9 Litern Volumen eignet sich für ein kleines Funkgerät und einen Akku, hat jedoch nur wenig Platz für Zubehör/Antennen. Der **Essential Pack L** (große Version, 15 Liter Volumen) fasst problemlos einen 12-Ah-Eremit-Akku, ein FT-891, einen Antennen-Analyzer sowie die Tac Pouch 13 als Antennentasche mit EFHW, Erdspieß für die Vertikal-Antenne und diverses Antennenzubehör. Nur die Teleskopantenne und die Absperr-Hütchen müssen außem am Rucksack angebracht werden.
+:::
+
 
 ## Zubehör
 
@@ -183,30 +197,30 @@ Eine **laminierte Materialliste** hilft euch dabei, die Vollständigkeit des Ruc
 
 ## Tipps & Tricks
 
-**Abgesetztes Bedienteil**
+### Abgesetztes Bedienteil
 
 ![Manpack Frame](/images/diy/portabelrucksack/ft891_bedienteil.jpg)
 
 Das Bedienteil des FT-891 lässt sich abgesetzt betreiben und erhöht so den Bedienkomfort. Es besitzt außerdem eine Anschlussmöglichkeit für Kopfhörer.
 
 
-**Manpack-Frame**
+### Manpack-Frame
 
 ![Manpack Frame](/images/diy/portabelrucksack/ft891_manpack_frame.jpg)
 
 Aus einem Stück Alu-Blech und der KFZ-Halterung des FT-891 lässt sich eine Halterung bauen, die das Funkgerät und den Akku stabil im Rucksack hält. Das Funkgerät kann so direkt aus dem Rucksack heraus verwendet werden.
 
 
-**Rails**
+### Rails
 
 ![FT-891 Rails](/images/diy/portabelrucksack/ft891_rails_02.jpg)
 
 ![FT-891 Rails](/images/diy/portabelrucksack/ft891_rails_01.jpg)
 
-Aus Alu-Blechen lassen sich leicht schützende Seitenteile für das Funkgerät bauen, die vorne und hinten überstehen und so die Bedienknöpfe und Anschlüsse vor Stößen und Beschädigungen schützen. Weiteres Zubehör lässt sich leicht mit Klettstreifen an den Rails befestigen.
+Aus Alu-Blechen lassen sich leicht schützende Seitenteile für das Funkgerät bauen, die vorne und hinten überstehen und so die Bedienknöpfe und Anschlüsse vor Stößen und Beschädigungen schützen. Weiteres Zubehör lässt sich leicht mit Klettstreifen an den Rails befestigen. Bei ebay sind fertige Rails für rund 40 € inkl. Versand verfügbar.
 
 
-**PowerPole-Mod**
+### PowerPole-Mod
 
 [PowerPole-Mod für das FT-891](https://www.youtube.com/watch?app=desktop&v=rxDtu-lwrtk)
 
