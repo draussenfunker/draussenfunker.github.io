@@ -3,7 +3,7 @@ title: Bilder des Monats Oktober 2023
 description:
     Bilder des Monats Oktober aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2023-10/11:10.2023.jpg
+image: /aktivitaeten/BDM-2023-10/11_10-2023.jpg
 features:
     - FOTOS
 ---

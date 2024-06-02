@@ -3,7 +3,7 @@ title: Bilder des Monats Januar 2024
 description:
     Bilder des Monats Januar aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2024-01/24:01.2024.jpg
+image: /aktivitaeten/BDM-2024-01/24_01-2024.jpg
 features:
     - FOTOS
 ---

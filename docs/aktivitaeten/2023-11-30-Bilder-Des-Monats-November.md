@@ -3,7 +3,7 @@ title: Bilder des Monats November 2023
 description:
     Bilder des Monats November aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2023-11/1:11.2023.jpg
+image: /aktivitaeten/BDM-2023-11/01_11-2023.jpg
 features:
     - FOTOS
 ---

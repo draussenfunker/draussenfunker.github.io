@@ -3,7 +3,7 @@ title: Bilder des Monats September 2023
 description:
     Bilder des Monats September aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2023-09/2:09.2023.jpg
+image: /aktivitaeten/BDM-2023-09/02_09-2023.jpg
 features:
     - FOTOS
 ---
