@@ -3,7 +3,7 @@ title: Bilder des Monats Dezember 2023
 description:
     Bilder des Monats Dezember aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2023-12/3:12.2023.jpg
+image: /aktivitaeten/BDM-2023-12/03_12-2023.jpg
 features:
     - FOTOS
 ---

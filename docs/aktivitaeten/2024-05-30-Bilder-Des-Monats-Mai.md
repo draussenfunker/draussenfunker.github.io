@@ -3,7 +3,7 @@ title: Bilder des Monats Mai 2024
 description:
     Bilder des Monats Mai aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2024-05/14:05.2024.jpg
+image: /aktivitaeten/BDM-2024-05/14_05-2024.jpg
 features:
     - FOTOS
 ---

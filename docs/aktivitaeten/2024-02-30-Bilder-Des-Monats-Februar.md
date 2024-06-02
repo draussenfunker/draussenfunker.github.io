@@ -3,7 +3,7 @@ title: Bilder des Monats Februar 2024
 description:
     Bilder des Monats Februar aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2024-02/11:02.2024.jpg
+image: /aktivitaeten/BDM-2024-02/11_02-2024.jpg
 features:
     - FOTOS
 ---

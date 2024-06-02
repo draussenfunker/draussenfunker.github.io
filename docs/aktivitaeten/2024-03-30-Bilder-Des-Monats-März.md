@@ -3,7 +3,7 @@ title: Bilder des Monats März 2024
 description:
     Bilder des Monats März aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2024-03/26:03.2024.jpg
+image: /aktivitaeten/BDM-2024-03/26_03-2024.jpg
 features:
     - FOTOS
 ---
