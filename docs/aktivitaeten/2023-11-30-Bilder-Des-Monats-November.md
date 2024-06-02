@@ -14,9 +14,10 @@ Ohne viele Worte einige Bilder der Draußenfunker.
 
 ---
 
-![Bilder des Monats](/aktivitaeten/BDM-2023-11/0:11.2023.jpg)
-![Bilder des Monats](/aktivitaeten/BDM-2023-11/1:11.2023.jpg)
+![Bilder des Monats](/aktivitaeten/BDM-2023-11/00_11-2023.jpg)
+![Bilder des Monats](/aktivitaeten/BDM-2023-11/01_11-2023.jpg)
 
 ---
 
-![Bilder des Monats](/aktivitaeten/BDM-2023-11/2:11.2023.jpg)
+![Bilder des Monats](/aktivitaeten/BDM-2023-11/02_11-2023.jpg)
+
