@@ -59,10 +59,6 @@ Als W6/DC1TC habe ich meine fehlgeschlagene Aktivierung von US-3566 Seacliff Sta
 ![Bilder des Monats](/aktivitaeten/BDM-2024-06/17_06-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-06/18_06-2024.jpg)
 
-Eindrücke der Aktivierung von DE-0739 Kurpark Grömitz Recreation Park und DE-0605 Jakobsweg Via Scandinavica vom 23.06.24 mit mehreren TN aus E03, E23 und E35 darunter ein Trainee (10 J.) ....
-
-![Bilder des Monats](/aktivitaeten/BDM-2024-06/19_06-2024.jpg)
-
 Folgende weitere Aktivierungen habe ich als W6/DC1TC in Kalifornien durchgeführt:
 Am 24.06. US-1145 Donner Memorial State Park als 2-fer mit US-4469 Tahoe National Forest.
 Am 26.06. US-0049 Lassen Volcanic National Park.
