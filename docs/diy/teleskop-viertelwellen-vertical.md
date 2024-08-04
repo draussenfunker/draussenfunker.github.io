@@ -46,8 +46,7 @@ Die Herausforderung bei den günstigen Teleskopantennen ist, dass diese, im Gege
 - Optional: [Spule für 40m-Betrieb](https://de.aliexpress.com/w/wholesale-m10-induktion-spule-f%C3%BCr-Pac%25252d12-.html)
 
 
-*) Für den Erdspieß besser als die Gewindestange geeignet: 10 mm Alurundstab schräg absägen und auf den ersten 2 cm am geraden Ende ein M10-Gewinde schneiden. (Alurundstäbe kann man sehr günstig bei ebay kaufen)
-Es gibt auch fertig angespitzte Erdspieße mit passendem M10-Gewinde zu kaufen, z.B. bei [AliExpress](https://de.aliexpress.com/item/1005007055093702.html?channel=twinner )
+*) Für den Erdspieß besser als die Gewindestange geeignet: 10 mm Alurundstab schräg absägen und auf den ersten 2 cm am geraden Ende ein M10-Gewinde schneiden (Alurundstäbe kann man sehr günstig bei ebay kaufen). Es gibt auch fertig angespitzte Erdspieße mit passendem M10-Gewinde zu kaufen, z.B. bei [AliExpress](https://de.aliexpress.com/item/1005007055093702.html?channel=twinner)
 
 
 ::: warning Hinweis 
@@ -179,8 +178,9 @@ Tiny-Version: Winkel hinter dem Isolator gekürzt, Radial-Anschluss unter die PL
 ![Tiny Version der Halterung](/images/diy/teleskop-viertelwellen-vertical/qwvertical_tiny.jpg)
 
 
-Eine weitere Abwandlung kommt von DM5XT: Das Hauptaugenmerk liegt auf einer möglichst kompakten Bauform, so dass die Einzelteile problemlos in kleinen Taschen oder Rucksäcken verstaut werden können.
-Die PL-Buchse ist nicht an den Alu-Winkel verschraubt sondern mit Alu-Nieten befestigt (Übergangswiderstand ist vergleichbar zur verschraubten Variante). Zwei M6-Schrauben, die mit Flachmuttern gekontert sind, dienen als Aufnahme für den Radialsatz. Die Ringösen der Radialsätze werden lediglich mit normalen Muttern festgeschraubt; das klappt auch ohne Werkzeug wunderbar und ist absolut ausreichend, da die Schraubverbindung mechanisch nicht stark belastet ist.
+Eine weitere Abwandlung kommt von [DM5XT](https://www.qrz.com/db/DM5XT): Das Hauptaugenmerk liegt auf einer möglichst kompakten Bauform, so dass die Einzelteile problemlos in kleinen Taschen oder Rucksäcken verstaut werden können.
+Die PL-Buchse ist nicht an den Alu-Winkel verschraubt sondern mit Alu-Nieten befestigt (Übergangswiderstand ist vergleichbar zur verschraubten Variante). Zwei M6-Schrauben, die mit Flachmuttern gekontert sind, dienen als Aufnahme für den Radialsatz. Die Ringösen der Radialsätze werden lediglich mit normalen Muttern festgeschraubt, das klappt auch ohne Werkzeug wunderbar und ist absolut ausreichend, da die Schraubverbindung mechanisch nicht stark belastet ist.
+
 ![kompakte Variante der Halterung](/images/diy/teleskop-viertelwellen-vertical/qwvertical_tiny.jpg
 ![kompakte Variante der Halterung](/images/diy/teleskop-viertelwellen-vertical/qwvertical_tiny_2.jpg
 
