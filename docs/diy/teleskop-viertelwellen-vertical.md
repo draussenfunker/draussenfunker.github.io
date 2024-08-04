@@ -46,7 +46,8 @@ Die Herausforderung bei den günstigen Teleskopantennen ist, dass diese, im Gege
 - Optional: [Spule für 40m-Betrieb](https://de.aliexpress.com/w/wholesale-m10-induktion-spule-f%C3%BCr-Pac%25252d12-.html)
 
 
-*) Für den Erdspieß besser als die Gewindestange geeignet: 10 mm Alustab schräg absägen und auf den ersten 2 cm am geraden Ende ein M10-Gewinde schneiden.
+*) Für den Erdspieß besser als die Gewindestange geeignet: 10 mm Alurundstab schräg absägen und auf den ersten 2 cm am geraden Ende ein M10-Gewinde schneiden. (Alurundstäbe kann man sehr günstig bei ebay kaufen)
+Es gibt auch fertig angespitzte Erdspieße mit passendem M10-Gewinde zu kaufen, z.B. bei [AliExpress](https://de.aliexpress.com/item/1005007055093702.html?channel=twinner )
 
 
 ::: warning Hinweis 
@@ -108,7 +109,7 @@ M10 Langmutter auf den Gewindestift schrauben und gut festziehen. Fertig.
 Da es sich bei den Radials nicht um "Elevated Radials", sondern "Ground Radials" handelt, müssen diese nicht abgestimmt sein.
 16 bis 32 Radials in 2 - 3 m Länge sind ein guter Kompromiss in Hinblick auf Portabilität und Antennen-Fußabdruck beim Aufbau.
 
-In diesem Beispiel sind es vier Bündel mit jeweils acht Radials a 2,5 m Länge (4 x 8 x 2,5m = 80 m insgesamt). Jeweils acht Radials (8x 0,75 mm² = 6 mm²) enden in einem Ring-Kabelschuh mit 6 mm² Querschnitt und 6 mm Loch. 
+In diesem Beispiel sind es vier Bündel mit jeweils acht Radials à 2,5 m Länge (4 x 8 x 2,5m = 80 m insgesamt). Jeweils acht Radials (8x 0,75 mm² = 6 mm²) enden in einem Ring-Kabelschuh mit 6 mm² Querschnitt und 6 mm Loch. 
 
 Crimpen mit der entsprechenden Zange reicht zur Befestigung vollkommen aus. Um auf Nummer Sicher zu gehen, können die Kabelschuhe nach dem Crimpen auch noch verlötet und mit Schrumpfschlauch verschönert werden.
 
@@ -132,11 +133,19 @@ Der Aufbau und die Abstimmung sind denkbar einfach:
 - Antennenkabel verbinden
 - Radials auslegen und mit der Flügelmutter festschrauben
 - Teleskopantenne aufschrauben und grob auf die passende Länge des Bandes ausziehen
-- Mit VNA (z.B. Nano VNA) auf das gewünschte Band abstimmen
+- Mit VNA (z.B. Nano VNA) oder dem SWR-Meter des Funkgerät auf das gewünschte Band abstimmen
 
 ![Detailansicht von oben](/images/diy/teleskop-viertelwellen-vertical/qwvertical_topview.jpg)
 
-Noch schneller geht es, wenn man sich mit einem wasserfesten Stift kleine Markierungen an der Teleskopantenne macht, damit man die Bänder schneller grob wiederfindet. Bei ähnlicher Bodenbeschaffenheit ist diese Methode erstaunlich genau und die Antenne ist breitbandig genug, dass man ohne größere Abstimmarbeiten QRV sein kann. Das SWR auf dem Funkgerät ist zur Sicherheit aber zu beachten bzw. Feinabstimmung mit dem VNA macht trotzdem Sinn. 
+Noch schneller geht es, wenn man sich mit einem wasserfesten Stift kleine Markierungen an der Teleskopantenne macht oder die Werte folgender Tabelle berücksichtigt, damit man die Bänder schneller grob wiederfindet. Bei ähnlicher Bodenbeschaffenheit ist diese Methode erstaunlich genau und die Antenne ist breitbandig genug, dass man ohne größere Abstimmarbeiten QRV sein kann. Das SWR auf dem Funkgerät ist zur Sicherheit aber zu beachten bzw. Feinabstimmung mit dem VNA macht trotzdem Sinn.
+
+| Band | auszuziehende Elemente |
+| :--- |  :---:  |
+| 10 m | 6 | 
+| 12 m | 6,5 | 
+| 15 m | 7,6 | 
+| 17 m | 8,5 | 
+| 20 m | 11,5 | 
 
 ![Antenne im Winter](/images/diy/teleskop-viertelwellen-vertical/qwvertical_winter.jpg)
 
@@ -147,7 +156,7 @@ Mit einer kostengünstigen Verlängerunsspule (siehe Bauteile) von Aliexpress mi
 
 ### VSWR & Smith Diagram
 
-Die Antenne lässt sich durch Ausziehen problemlos für 10 - 20 Meter abstimmen. Hier ein paar Screenshots von den Abstimmwerten für das 15 Meter Band. Auf anderen Bändern sind die Ergebnisse ähnlich.
+Die Antenne lässt sich durch Ausziehen problemlos für 10 - 20 Meter abstimmen. Sie ist dabei so breitbandig, dass alle Bänder durchgängig mit sehr gutem SWR nutzbar sind, ohne nachstimmen zu müssen. Hier ein paar Screenshots von den Abstimmwerten für das 15 Meter Band. Auf anderen Bändern sind die Ergebnisse ähnlich.
 
 ![VSWR auf 15m](/images/diy/teleskop-viertelwellen-vertical/swr-15m-band-cropped.jpg)
 
@@ -168,6 +177,12 @@ Prototyp und finale Version:
 Tiny-Version: Winkel hinter dem Isolator gekürzt, Radial-Anschluss unter die PL-Buchse verlegt. Abstand beachten, damit sich die Flügelmutter noch drehen lässt! Die Idee stammt von [DG1JAN](https://www.qrz.com/db/dg1jan). Vielen Dank!
 
 ![Tiny Version der Halterung](/images/diy/teleskop-viertelwellen-vertical/qwvertical_tiny.jpg)
+
+
+Eine weitere Abwandlung kommt von DM5XT: Das Hauptaugenmerk liegt auf einer möglichst kompakten Bauform, so dass die Einzelteile problemlos in kleinen Taschen oder Rucksäcken verstaut werden können.
+Die PL-Buchse ist nicht an den Alu-Winkel verschraubt sondern mit Alu-Nieten befestigt (Übergangswiderstand ist vergleichbar zur verschraubten Variante). Zwei M6-Schrauben, die mit Flachmuttern gekontert sind, dienen als Aufnahme für den Radialsatz. Die Ringösen der Radialsätze werden lediglich mit normalen Muttern festgeschraubt; das klappt auch ohne Werkzeug wunderbar und ist absolut ausreichend, da die Schraubverbindung mechanisch nicht stark belastet ist.
+![kompakte Variante der Halterung](/images/diy/teleskop-viertelwellen-vertical/qwvertical_tiny.jpg
+![kompakte Variante der Halterung](/images/diy/teleskop-viertelwellen-vertical/qwvertical_tiny_2.jpg
 
 
 Eine Variante der Halterung aus vielen Teilen, die in jedem Baumarkt verfügbar sind, hat [DL9DX](https://www.qrz.com/db/dl9dx) gebaut. Der Erdspieß besteht aus einer M10-Schraube, 200mm lang. Der 6-Kant-Kopf wurde abgesägt und der Spieß angespitzt.
