@@ -1,5 +1,5 @@
 ---
-title: Ankündigung: Sommerfest 2024
+title: Ankündigung Sommerfest 2024
 description:
     Save the Date: Am 31.08.2024 findet das Sommerfest der Draußenfunker statt.
 type: activity
