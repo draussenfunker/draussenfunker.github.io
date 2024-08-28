@@ -22,6 +22,8 @@ In Hamburg treffen wir uns ab 11 Uhr im Jacobipark. S- und Regionalbahn-Station 
 
 **Sa, 31.8.24, 14 Uhr, [Tempelhofer Feld](https://w3w.co/packen.zwar.kennen). Bitte bringt euch Verpflegung und Getränke selbst mit! Wir freuen uns auf euch!**
 
+## Impressionen
+
 Impressionen vom letzen Jahr:
 
 ![Sommerfest 2023](/aktivitaeten/SOMMERFEST-2023/sommerfest_01.jpg)
