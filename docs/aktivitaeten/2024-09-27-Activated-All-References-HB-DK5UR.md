@@ -48,4 +48,4 @@ Was bleibt? Die Heimreise. Aber ein POTA Aktivist fährt nicht einfach geradeweg
 
 Alles in allem eine gelungene Operation. Die mir, und den Huntern hoffentlich auch, viel Spaß gemacht hat. Insgesamt hab ich in den zweieinhalb Tagen mit 462 QSOs 26 POTA Referenzen aktiviert. Danke an alle Hunter ohne die Alles nicht möglich gewesen wäre. Meine Top Hunter waren mit 22 QSOs Andrew 2E0HYX, gefolgt von Michael DG3NAB mit 11 QSOs, und Michael DK6MR mit 9 QSOs.
 
-![result](/aktivitaeten/Activated-All-References-HB-DK5UR-27-09-2024/5.png)
+![result](/aktivitaeten/Activated-All-References-HB-DK5UR-27-09-2024/5.jpg)
