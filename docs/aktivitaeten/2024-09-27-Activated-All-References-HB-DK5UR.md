@@ -1,7 +1,7 @@
 ---
 title: Activated all References Bremen von DK5UR
 description:
-    Am Montag, dem 23.09.2024, startete das Vorhaben: Aktiviere alle 10 Bremer POTA Referenzen in FT8/4
+    Am Montag, dem 23.09.2024, startete das Vorhaben, aktiviere alle 10 Bremer POTA Referenzen in FT8/4
 type: activity
 image: /aktivitaeten/Activated-All-References-HB-DK5UR-27-09-2024/1.jpg
 features:
@@ -10,7 +10,7 @@ features:
 
 # Activated all References Bremen von DK5UR
 
-Am Montag, dem 23.09.2024, startete das Vorhaben: Aktiviere alle 10 Bremer POTA Referenzen in FT8/4. Gestartet wurde am Vormittag mit dem Schlosspark in Sebaldsbrück ([DE-0242](https://pota.app/#/park/DE-0242)). Der einzige Park in Bremen, der nicht mit dem Auto aktivierbar ist. Zum Glück war mir das Wetter hold und nach 21 QSOs und 50 Minuten später war der Park erstmalig aktiviert.
+Am Montag, dem 23.09.2024, startete das Vorhaben, aktiviere alle 10 Bremer POTA Referenzen in FT8/4. Gestartet wurde am Vormittag mit dem Schlosspark in Sebaldsbrück ([DE-0242](https://pota.app/#/park/DE-0242)). Der einzige Park in Bremen, der nicht mit dem Auto aktivierbar ist. Zum Glück war mir das Wetter hold und nach 21 QSOs und 50 Minuten später war der Park erstmalig aktiviert.
 
 Weiter ging es in den Bürgerpark Bremen ([DE-0142](https://pota.app/#/park/DE-0142)) mit dem Jakobsweg Via Baltica & Birgittaweg National Historic Trail ([DE-0604@DE-HB](https://pota.app/#/park/DE-0604)) als 2fer. Da der Park eine gewisse Berühmtheit erlangt hat wegen seiner offensiven Ordnungsbehörde, habe ich mich sicherheitshalber entschlossen diesen mit dem Auto zu aktivieren. Im nordöstlichen Teil liegt die Waldbühne mit einem tollen Parkplatz, der günstig gelegen und unter der Woche ziemlich wenig frequentiert ist. Er ist somit hervorragend geeignet die Aktivierung durchzuführen. Knappe zwei Stunden und 49 QSOs später ist auch dieser Park im Sack. Keine Erstaktivierung, aber doch mit den meisten QSOs ins Buch eingeschrieben.
 
