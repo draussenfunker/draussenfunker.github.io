@@ -3,7 +3,7 @@ title: Bilder des Monats September 2024
 description:
     Bilder des Monats September aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2024-09/01_09-2024.jpg
+image: /aktivitaeten/BDM-2024-09/18_09-2024.jpg
 features:
     - FOTOS
 ---
