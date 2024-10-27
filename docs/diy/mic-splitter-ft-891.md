@@ -39,6 +39,9 @@ Mit Dioden wird noch eine Relais-Schutzschaltung gebaut.
 
 ![Mic-Splitter Schaltplan](/images/diy/mic-splitter-ft-891/mic-split-schematic.jpg)
 
+Von dem Schaltplan auf das Layout einer Punkt-Steifenraster-Platine übertragen:
+
+![Mic-Splitter Platinen-Layout](/images/diy/mic-splitter-ft-891/mic-split-lochraster-layout.jpg)
 
 ### Teile
 
