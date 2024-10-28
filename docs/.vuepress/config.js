@@ -50,6 +50,7 @@ module.exports = {
           "/diy/teleskop-viertelwellen-vertical",
           "/diy/efhw",
           "/diy/portabelrucksack",
+          "/diy/mic-splitter-ft-891",
         ],
       },
       {
