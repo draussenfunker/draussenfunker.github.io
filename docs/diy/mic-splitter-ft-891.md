@@ -22,7 +22,7 @@ Testimonial eines POTA-Hunters: "You all handed over very quickly, I was impress
 ### Schaltplan
 
 Das Yaesu FT-891 benutzt für den Mikrofonanschluss einen Handelsüblichen RJ45-Stecker den man bei Netzwerkkabeln wiederfindet.
-Die Stecker-Belegung beim FT-891 und MH-31 ist:
+Die Stecker-Belegung beim FT-891 und MH-31 ist nach [G4WPW](https://www.qsl.net/g4wpw/mh31a.html):
 
 - 1. Fast Scan Button
 - 2. Ground
@@ -56,7 +56,7 @@ Von dem Schaltplan auf das Layout einer Punkt-Steifenraster-Platine übertragen:
 - Schrauben um die RJ45 Adapter an Gehäuse zu schrauben.
 - Netzwerkkabel aus der Restekiste
 
-Für die Benutzung wird noch benötigt:
+Für die Nutzung wird zusätzlich benötigt:
 
 - RJ-45 Kabel für die Verbindung vom FT-891 zum Splitter
 - ein zweites MH-31 Mikrofon
