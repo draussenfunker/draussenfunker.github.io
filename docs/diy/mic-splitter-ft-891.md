@@ -76,7 +76,7 @@ Für die Nutzung wird zusätzlich benötigt:
 Die Baubeschreibung ist für die Yaesu MH-31 Mikofone für das Yaesu FT-891 gedacht, die Idee dahinter lässt sich aber sicher gut auch für andere Funkgeräte adaptieren.
 
 ::: warning Nachbau auf eigene Gefahr
-Die Beschreibung ist als Inspirationsquelle gedacht, für durch nachgebaute Mikrofon-Splitter entstehende Schäden wird durch den Author und draussenfunker.de keine Haftung übernommen.
+Die Beschreibung ist als Inspirationsquelle gedacht, für durch nachgebaute Mikrofon-Splitter entstehende Schäden wird durch den Autor und draussenfunker.de keine Haftung übernommen.
 :::
 
 
