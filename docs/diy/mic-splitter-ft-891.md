@@ -1,11 +1,12 @@
 ---
 sidebarDepth: 2
-description: Selbstbau Mic-Splitter für den FT-891: Die perfekte Ergänzung für Multi-OP-Aktivierungen
+description: Selbstbau Mic-Splitter für den FT-891, die perfekte Ergänzung für Multi-OP-Aktivierungen
 head:
   - - meta
     - property: og:image
       content: https://draussenfunker.github.io/images/diy/mic-splitter-ft-891/mic-split-action.jpeg
 ---
+
 
 # Selbstbau Mic-Splitter für den FT-891: Die perfekte Ergänzung für Multi-OP-Aktivierungen
 
