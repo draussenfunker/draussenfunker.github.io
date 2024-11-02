@@ -117,7 +117,6 @@ DL7DL - POTA Aktivierung am support your park weekend DL-0089 DL-0627 bei Plau a
 ![Bilder des Monats](/aktivitaeten/BDM-2024-10/51_10-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-10/52_10-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-10/53_10-2024.jpg)
-![Bilder des Monats](/aktivitaeten/BDM-2024-10/54_10-2024.jpg)
 
 Tolle Action! Ich kann jedem nur empfehlen die KW Station mit in den Urlaub zu nehmen! 73 de 9H/DK5FF/P
 
