@@ -411,4 +411,4 @@ Wenn vorhanden: Neon-Klebeband aufbringen. Danach das Seil durch die Muttern fä
 - 3:21 (oben abgebildet) wenn der Fokus auf den tieferen Bändern (40m, 20m) liegt. 
 - Beides funktioniert aber problemlos auf den anderen Bändern! Es geht dabei um die Optimierung/Effizienzsteigerung auf hohem Niveau.
 - Ebenfalls als Wurfgewicht geeignet: Tennisball und Angelsehne. Wer wirklich hoch hinaus will, findet im Bereich Baumpflege spezielle Wurfsäcke und glatte Leinen, mit denen problemlos Höhen von 20m und mehr erreicht werden können. ACHTUNG: immer auf die Umgebung achten und Gefahren von solchen Wurfgeschossen nicht unterschätzen!
-
+- Mit einer 110uH-Spule und weiteren 2.35m Antennendraht ist man auch auf 80m vergleichsweise kompakt QRV.
