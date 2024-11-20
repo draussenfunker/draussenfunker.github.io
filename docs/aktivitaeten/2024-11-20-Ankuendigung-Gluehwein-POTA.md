@@ -24,7 +24,7 @@ Noch in Planung oder es entstehen spontane Treffen.
 
 ## Kontakt
 
-Mehr Infos im Discord oder per Mail an cq@draussenfunker.de.
+Mehr findet ihr im [https://discord.gg/4RkRRwXtty](Discord).
 
 Wir freuen uns auf euch!
 
