@@ -10,7 +10,7 @@ features:
 
 # Ankündigung Glühwein-POTA der Draußenfunker
 
-## hamburg
+## Hamburg
 
 Am 7.12. treffen sich Funk-Interessierte der Draußenfunker ab 11 Uhr im Hammer Park zu einer gemeinsamen Parks-On-The-Air-Aktivierung bei heißen Getränken und knusprigem Weihnachtsgebäck.
 Wer Interesse am Fachsimpeln oder der gemeinsamen POTA-Aktivierung hat, ist herzlich eingeladen dazuzustoßen. Portabelgeräte und Antennen für Kurzwelle und UKW sind vorhanden und müssen nicht extra mitgebracht werden.
