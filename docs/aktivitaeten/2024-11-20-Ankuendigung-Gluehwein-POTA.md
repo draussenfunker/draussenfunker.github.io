@@ -1,7 +1,7 @@
 ---
 title: Ankündigung Glühwein - POTA der Draußenfunker
 description:
-    Ankündigung Glühwein POTA der Draußenfunker. Symbolbild.
+    Symbolbild.
 type: activity
 image: /aktivitaeten/GLUEHWEINPOTA-2023/Title.jpg
 features:
@@ -18,8 +18,6 @@ Für alle auf dem Weg zur Lizenz bieten wir Ausbildungsbetrieb auf UKW und Kurzw
 Während wir im Park sind könnt ihr uns auf 145.5 MHz und DB0HHH 2 m erreichen.
 Auch wenn es heiße Getränke gibt, denkt an warme Kleidung (Geheimtipp: lange Thermounterwäsche).
 
-Noch mal kurz: 7.12. ab 11 Uhr im Hammer Park in Hamburg.
-
 ## Deutschlandweit
 
 Noch in Planung oder es entstehen spontane Treffen.
@@ -32,6 +30,6 @@ Wir freuen uns auf euch!
 
 ## Impressionen
 
-So sah es letzes Jahr in Hamburg aus: [Glühwein-POTA & Jahresrückblick]](https://draussenfunker.de/aktivitaeten/2023-12-09-Jahresrueckblick.html)
+So sah es letzes Jahr in Hamburg aus: [Glühwein-POTA & Jahresrückblick](https://draussenfunker.de/aktivitaeten/2023-12-09-Jahresrueckblick.html)
 
 ![Impression](/aktivitaeten/GLUEHWEINPOTA-2023/Title.jpg)
