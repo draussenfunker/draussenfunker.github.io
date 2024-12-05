@@ -1,15 +1,13 @@
 ---
 title: Bilder des Monats Mai 2024
-description:
-    Bilder des Monats Mai aus unserer Community im Discord.
+description: Bilder des Monats Mai aus unserer Community im Discord.
 type: activity
 image: /aktivitaeten/BDM-2024-05/14_05-2024.jpg
 features:
-    - FOTOS
+  - FOTOS
 ---
 
 # Bilder des Monats Mai 2024
-
 
 Gemütliche Aktivierung von DE-0021, gemeinsam mit der Erstaktivierung von DL-03226 Schloss Amorbach im COTA-Programm durch DB4SCW. 100W mit PAC-12-Antenne brachten 54 QSOs auf 3 Bändern (40m, 20m, 2m) in 2 Stunden.
 
@@ -65,7 +63,7 @@ DK4HAA: bei bestem Draußenfunker-Wetter habe ich mich am 10.05. spontan in den 
 DM5WK: Ich habe am 9. Mai bei strahlendem Sonnenschein die Teleskopvertikalantenne am Dechsendorfer Weiher aufgebaut. Für die Segler neben der Funkstelle war in der Früh noch zu wenig Wind, so hatte ich eine ruhige Umgebung um 13 Verbindungen in grob 20 Minuten im 20-m-Band für die Erstaktivierung des Dechsendorfer Weihers (DE-0691) mit dem IC-705 und der Micro PA50+ zu schaffen. Beim Einpacken hatte ein Passant im Gespräch ungewöhnlich viel Ahnung von der Antenne und sich dann als Rufzeicheninhaber vorgestellt. Ein netter Zufall!
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-05/24_05-2024.jpg)
-![Bilder des Monats](/aktivitaeten/BDM-2024-05/25_05-2024.jpg)
+![Bilder des Monats](/aktivitaeten/BDM-2024-05/25_05-2024.png)
 
 Am 17.05. versuchte sich DL6PL trotz mäßiger Funkbedingungen an der Erstaktivierung von DE-0722 (Besenhorster Sandberge und Elbinsel Natura 2000). Das Draussenfunker-Motto "Einfach mal machen!" sollte sich auch hier als lohnend herausstellen. Nicht nur die Erstaktivierung gelang, wenn auch denkbar knapp mit nur 10 QSOs auf 20m und 40m, auch sonst stellte sich der Park als tolles Ausflugsziel heraus.
 
@@ -111,4 +109,3 @@ Gemeinsame POTA-Aktivierung des [Harburger Stadtparks, DE-0357](https://pota.app
 TK/DB3TRB @ FR-3101. Auch wenn die Erstaktivierung erfolglos war, der Platz war sehr schön. Kommt auf dem Bild nicht ganz raus, aber näher ans Meer ging nicht, da ich sonst außerhalb der Parkgrenzen gewesen wäre.
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-05/49_05-2024.jpg)
-

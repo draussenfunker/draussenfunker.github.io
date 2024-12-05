@@ -1,15 +1,13 @@
 ---
 title: Bilder des Monats Oktober 2024
-description:
-    Bilder des Monats Oktober aus unserer Community im Discord.
+description: Bilder des Monats Oktober aus unserer Community im Discord.
 type: activity
 image: /aktivitaeten/BDM-2024-10/08_10-2024.jpg
 features:
-    - FOTOS
+  - FOTOS
 ---
 
 # Bilder des Monats Oktober 2024
-
 
 Aktivierung von DE-0748 (Ernst-Thälmann-Park Berlin) DK4MJ
 
@@ -58,8 +56,8 @@ Am 13.10. hat sich Harm, DK4HAA, auf den Weg zu gleich 5 POTA-Referenzen gemacht
 ![Bilder des Monats](/aktivitaeten/BDM-2024-10/27_10-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-10/28_10-2024.jpg)
 
-Am 13.10.2024 haben sich Torsten (DA6TW) und Axel (DB6LX) auf den Weg gemacht um drei Parks zu aktivieren. Nach einem kurzen Marsch zu einem See wurde aufgebaut und erfolgreich aktiviert. 
-Gearbeitet wurde auf 15m und 40m in SSB. 
+Am 13.10.2024 haben sich Torsten (DA6TW) und Axel (DB6LX) auf den Weg gemacht um drei Parks zu aktivieren. Nach einem kurzen Marsch zu einem See wurde aufgebaut und erfolgreich aktiviert.
+Gearbeitet wurde auf 15m und 40m in SSB.
 Aktiviert wurden:
 DE-0192 Saar Regional Park
 DE-0193 Urwald vor den Toren der Stadt Natura 2000
@@ -87,7 +85,7 @@ Wir haben natürlich auch die Gelegenheit genutzt die Klubstation DL0MCM auf der
 
 Bei grauem, aber trockenen und windstillem Herbstwetter hat DM5XT das Ruhestetter Ried als Teil von DE-0860 aktiviert. Trotz WAG war das Interesse an POTA sehr groß und es kamen in kürzester Zeit ~30 QSO zu Stande. Obwohl die Draussenfunker-λ/4-Vertikalantenne nur mit ~30 Watt gespeist wurde, gab es kaum einen Rapport, der nicht 59 war. Die Ausbreitungsbedingungen waren also scheinbar sehr gut an diesem Sonntagnachmittag.
 
-![Bilder des Monats](/aktivitaeten/BDM-2024-10/38_10-2024.jpg)
+![Bilder des Monats](/aktivitaeten/BDM-2024-10/38_10-2024.png)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-10/39_10-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-10/40_10-2024.jpg)
 
@@ -97,7 +95,7 @@ DK1BOU: Zum Support Your Parks Weekend hab ich [DE-0645 Neukloster Forst](https:
 ![Bilder des Monats](/aktivitaeten/BDM-2024-10/42_10-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-10/43_10-2024.jpg)
 
-Am 19. Oktober 2024 haben Thorsten DK1PO und Tom DO7PX  sich zum Support your Parks Wochende, in der Nähe von Büsum getroffen um den dortigen Park DE-0406 zu aktivieren.
+Am 19. Oktober 2024 haben Thorsten DK1PO und Tom DO7PX sich zum Support your Parks Wochende, in der Nähe von Büsum getroffen um den dortigen Park DE-0406 zu aktivieren.
 Das Wetter war nicht optimal, Grau und leichter Regen begleitete die beiden fast die ganze Zeit über.
 Den Anfang machte Thorsten auf dem 20m Band.
 Viele Stationen tummelten sich auf dem Band und ständig kam QRM von der Seite rein, was das arbeiten der Stationen erschwerte.

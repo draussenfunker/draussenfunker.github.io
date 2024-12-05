@@ -1,11 +1,10 @@
 ---
 title: Bilder des Monats Juli 2023
-description:
-    Bilder des Monats Juli aus unserer Community im Discord.
+description: Bilder des Monats Juli aus unserer Community im Discord.
 type: activity
 image: /aktivitaeten/BDM-2023-07/05_07-2023.jpg
 features:
-    - FOTOS
+  - FOTOS
 ---
 
 # Bilder des Monats: Juli 2023
@@ -17,7 +16,7 @@ DO1MBN von dem Campingplatz QRV.
 ![Bilder des Monats](/aktivitaeten/BDM-2023-07/02_07-2023.jpg)
 
 DM4JK aktivierte DA-0138 mit 38 QSOs auf 20m in FT8 und erreichte NT2A in FN20.
-![Bilder des Monats](/aktivitaeten/BDM-2023-07/03_07-2023.jpg)
+![Bilder des Monats](/aktivitaeten/BDM-2023-07/03_07-2023.png)
 
 DO1HFS mit einer SOTA Aktivierung
 ![Bilder des Monats](/aktivitaeten/BDM-2023-07/04_07-2023.jpg)
@@ -38,4 +37,3 @@ DC1TC hatte zwei erfolglose Aktivierungen, aber schöne Locations in K-4447 und 
 ![Bilder des Monats](/aktivitaeten/BDM-2023-07/15_07-2023.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2023-07/16_07-2023.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2023-07/17_07-2023.jpg)
-

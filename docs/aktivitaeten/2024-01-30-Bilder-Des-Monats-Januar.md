@@ -1,11 +1,10 @@
 ---
 title: Bilder des Monats Januar 2024
-description:
-    Bilder des Monats Januar aus unserer Community im Discord.
+description: Bilder des Monats Januar aus unserer Community im Discord.
 type: activity
 image: /aktivitaeten/BDM-2024-01/24_01-2024.jpg
 features:
-    - FOTOS
+  - FOTOS
 ---
 
 # Bilder des Monats: Januar 2024
@@ -61,9 +60,9 @@ DO1HFS: Erfolgreicher Test, einen Notfallshelter als Kurzwellenantenne zu nutzen
 ![Bilder des Monats](/aktivitaeten/BDM-2024-01/31_01-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-01/32_01-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-01/33_01-2024.jpg)
-![Bilder des Monats](/aktivitaeten/BDM-2024-01/34_01-2024.jpg)
+![Bilder des Monats](/aktivitaeten/BDM-2024-01/34_01-2024.png)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-01/35_01-2024.jpg)
-![Bilder des Monats](/aktivitaeten/BDM-2024-01/36_01-2024.jpg)
+![Bilder des Monats](/aktivitaeten/BDM-2024-01/36_01-2024.png)
 
 Endlich mal wieder draußen funken. Erstaktivierung des neu eingetragenen DA-0550
 ![Bilder des Monats](/aktivitaeten/BDM-2024-01/37_01-2024.jpg)
@@ -85,4 +84,3 @@ DK1BOU im Buxterhuder Ostmoor. WWFF-Referenz DLFF-0625
 ![Bilder des Monats](/aktivitaeten/BDM-2024-01/47_01-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-01/48_01-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-01/49_01-2024.jpg)
-

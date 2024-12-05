@@ -1,15 +1,13 @@
 ---
 title: Bilder des Monats April 2024
-description:
-    Bilder des Monats April aus unserer Community im Discord.
+description: Bilder des Monats April aus unserer Community im Discord.
 type: activity
 image: /aktivitaeten/BDM-2024-04/42_04-2024.jpg
 features:
-    - FOTOS
+  - FOTOS
 ---
 
 # Bilder des Monats April 2024
-
 
 DK4HAA: Ein nebliger Ostermontag in der Holsteinischen Schweiz, DE-0107. Auf 20m ging es in den Morgenstunden gemächlich zu. Dank ein paar Kontakten mit DC1TC hat es mit der Aktivierung trotzdem problemlos geklappt.
 
@@ -53,7 +51,7 @@ Heute als LZ/DF9HC QRV von der Bärenwiese in BG-0023/0016 in 1800m Höhe. Danac
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/22_04-2024.jpg)
 
 DL2XU: als echter Draußenfunker braucht man natürlich auch die Draußenfunker® Vertical Antenne™ für 10m-20m. Ich habe diese heute mit meinem Bruder zusammengebaut und danach im Hamburger Stadtpark getestet. Sie ließ sich wunderbar mit Klasse SWR auf allen Bändern abstimmen. Von Georgien bis zu den USA waren einige QSOs im Logbuch.
-Bei Klasse Wetter haben uns dann noch DK4HAA und DO7JZ samt Nachwuchs besucht. Danke auch an  DF9HC für P2P Verbindungen auf mehreren Bändern aus dem Urlaub!
+Bei Klasse Wetter haben uns dann noch DK4HAA und DO7JZ samt Nachwuchs besucht. Danke auch an DF9HC für P2P Verbindungen auf mehreren Bändern aus dem Urlaub!
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/23_04-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/24_04-2024.jpg)
@@ -114,7 +112,7 @@ Nun warten auf das Funkgerät und dann geht es bald los.. 73 DO7EBG
 
 DF1ASH: Erstaktivierung vom Wildpark in Potsdam (DE-0679) von DF1ASH
 
-![Bilder des Monats](/aktivitaeten/BDM-2024-04/54_04-2024.jpg)
+![Bilder des Monats](/aktivitaeten/BDM-2024-04/54_04-2024.png)
 
 DB6NL aktiviert den Hohenstein (DE-0314) im Rahmen von support your parks bei 5 Grad und Schauern. 16 QSOs mit 3 P2P kommen auf 40m und 20m ins Log. Nach 2 Stunden wurde es dann doch zu kalt und musste abgebrochen werden…
 
@@ -165,4 +163,3 @@ DL2MBN das erste mal mobile unterwegs mit einem 3 fachen Magnetfuss und einem 5.
 DO3SSB POTA DE-0695 Erster Versuch einer POTA-Aktivierung. Leider ohne Erfolg.
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-04/79_04-2024.jpg)
-

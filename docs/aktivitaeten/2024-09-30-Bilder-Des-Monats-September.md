@@ -1,33 +1,31 @@
 ---
 title: Bilder des Monats September 2024
-description:
-    Bilder des Monats September aus unserer Community im Discord.
+description: Bilder des Monats September aus unserer Community im Discord.
 type: activity
 image: /aktivitaeten/BDM-2024-09/18_09-2024.jpg
 features:
-    - FOTOS
+  - FOTOS
 ---
 
 # Bilder des Monats September 2024
 
-
 POTA Aktivierung von DB4SNK in DE-0035.
 
-Am späten Nachmittag bei gut 32 Grad und super Wetter fand ich mit dem Radel eine Sitzbank am Waldrand von Beuerbach. 
-Der Hügel in der Nähe wird Eisenküppel genannt. Gemeinde Hünstetten. JO40CG 
-Die Ausrüstung war schnell aufgebaut, Yaesu FT817ND, Lipo Akku, Tablet und HF-P1 als Antenne. 
+Am späten Nachmittag bei gut 32 Grad und super Wetter fand ich mit dem Radel eine Sitzbank am Waldrand von Beuerbach.
+Der Hügel in der Nähe wird Eisenküppel genannt. Gemeinde Hünstetten. JO40CG
+Die Ausrüstung war schnell aufgebaut, Yaesu FT817ND, Lipo Akku, Tablet und HF-P1 als Antenne.
 Dies wurde meine 1. FT8 POTA Aktion
-Auf dem 20m Band hatte ich nach langem testen ein paar FT8 Verbindungen im Log. 
-ein Wechsel auf 40m brachte, trotz schlechterem Wirkungsgrad der Mini Antenne mehrere Verbindungen in FT8 und FT4. 
+Auf dem 20m Band hatte ich nach langem testen ein paar FT8 Verbindungen im Log.
+ein Wechsel auf 40m brachte, trotz schlechterem Wirkungsgrad der Mini Antenne mehrere Verbindungen in FT8 und FT4.
 Nachdem ich die mindest Anzahl an QSO´s erreicht hatte, wechselte ich noch auf SSB, wo ich aufgrund meiner QRP Ausrüstung doch zu oft überhört wurde.
-Fazit : Aktion gelungen mit ein paar Notizen was ich nächstes mal besser machen werde. 
+Fazit : Aktion gelungen mit ein paar Notizen was ich nächstes mal besser machen werde.
 -Sonnenschirm & Sonnencreme
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/00_09-2024.jpg)
 
 Zwischendurch ein Netz-Fund beim SWR (dem Südwestrundfunk, nicht dem Stehwellenverhältnis): [DF7TF beim SOTA im Schwarzwald](https://www.swr.de/swraktuell/baden-wuerttemberg/suedbaden/gipfel-funker-im-schwarzwald-102.html). Im Text wurden leider (wie so häufig) einige Begrifflichkeiten durcheinander gebracht. Das Video ist dafür um so schöner anzusehen. Unaufgeregter Funkbetrieb in der Natur. Liebe Grüße an den OP Wolf, DF7TF. Bild: SWR, Screenshot aus dem Video.
 
-![Bilder des Monats](/aktivitaeten/BDM-2024-09/01_09-2024.jpg)
+![Bilder des Monats](/aktivitaeten/BDM-2024-09/01_09-2024.png)
 
 Heute unterwegs in NL-0018 mit dem Fahrrad
 
@@ -53,18 +51,18 @@ Heute ging’s mal wieder mobil zu einer Pota Aktivierung für DL2MBN . Nach 56 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/16_09-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/17_09-2024.jpg)
 
-Eine spontane Aktivierung am 21.09.2024 von [Harm, DK4HAA](https://www.qrz.com/db/DK4HAA) vom [Thörls Park, DE-0261](https://pota.app/#/park/DE-0261) sowie den beiden Trails [Fernwanderweg E9, DE-0622](https://pota.app/#/park/DE-0622) und [Fernwanderweg E1, DE-0558](https://pota.app/#/park/DE-0558), um [Tobias, DC1TC](https://www.qrz.com/db/DC1TC) zu hunten, der zu dieser Zeit von [Neuwerk, DE-0133](https://pota.app/#/park/DE-0133) und [Hamburgisches Wattenmeer, DE-0104](https://pota.app/#/park/DE-0104) Funkbetrieb gemacht hat. Insgesamt kamen an diesem schönen Spätsommernachmittag 14 QSOs auf 20 m und 40 m ins Log. Viele davon Draußenfunker2Draußenfunker. 
+Eine spontane Aktivierung am 21.09.2024 von [Harm, DK4HAA](https://www.qrz.com/db/DK4HAA) vom [Thörls Park, DE-0261](https://pota.app/#/park/DE-0261) sowie den beiden Trails [Fernwanderweg E9, DE-0622](https://pota.app/#/park/DE-0622) und [Fernwanderweg E1, DE-0558](https://pota.app/#/park/DE-0558), um [Tobias, DC1TC](https://www.qrz.com/db/DC1TC) zu hunten, der zu dieser Zeit von [Neuwerk, DE-0133](https://pota.app/#/park/DE-0133) und [Hamburgisches Wattenmeer, DE-0104](https://pota.app/#/park/DE-0104) Funkbetrieb gemacht hat. Insgesamt kamen an diesem schönen Spätsommernachmittag 14 QSOs auf 20 m und 40 m ins Log. Viele davon Draußenfunker2Draußenfunker.
 TRX: Lab599 TX-500 mit DIY599 PA500 Endstufe/Tuner. ANT: [DF Teleskop Vertical](https://draussenfunker.de/diy/teleskop-viertelwellen-vertical.html)
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/18_09-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/19_09-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/20_09-2024.jpg)
 
-Was macht man im Urlaub im Erzgebirge? Natürlich POTA ! 
+Was macht man im Urlaub im Erzgebirge? Natürlich POTA !
 
-Gerade noch rechtzeitig vor dem Urlaub hat meine YL Christiane nach 4 Wochen warten endlich ihr Wunschrufzeichen DN9CH. 
+Gerade noch rechtzeitig vor dem Urlaub hat meine YL Christiane nach 4 Wochen warten endlich ihr Wunschrufzeichen DN9CH.
 
-Wir hatten schon einige Berge im Sächsischen Bergwettbewerb aktiviert. Da funkt man in FM auf 145.425 / 430.150 / 1.297.50 MHz. 
+Wir hatten schon einige Berge im Sächsischen Bergwettbewerb aktiviert. Da funkt man in FM auf 145.425 / 430.150 / 1.297.50 MHz.
 
 Samstag wollten wir uns dann auch mal an eine POTA Aktivierung im Urlaub wagen. Mit dabei ein ICOM IC T81 Handfunkgerät ( 6m / 2m / 70cm / 23 cm ) und ein ICOM 705.
 
@@ -97,7 +95,7 @@ Die ersten 10 Kontakte waren in weniger als einer halben Stunde zusammen, das wa
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/30_09-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/31_09-2024.jpg)
 
-DL4DP: Mit dem Fahrrad nach Belgien. Ich habe BE-0117 und BE-0118 aktiviert.   Einen mit FT8 und FT4,  den anderen in SSB.
+DL4DP: Mit dem Fahrrad nach Belgien. Ich habe BE-0117 und BE-0118 aktiviert. Einen mit FT8 und FT4, den anderen in SSB.
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/32_09-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/33_09-2024.jpg)
@@ -108,8 +106,8 @@ DL4DP: Mit dem Fahrrad nach Belgien. Ich habe BE-0117 und BE-0118 aktiviert.   E
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/38_09-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/39_09-2024.jpg)
 
-Meine 1. POTA-Aktivierung in DE-0192 im Saarland 
-Zusammen mit DK8YS, DM1FF und  DB6LX
+Meine 1. POTA-Aktivierung in DE-0192 im Saarland
+Zusammen mit DK8YS, DM1FF und DB6LX
 Danke für den Support Jungs.
 73 de DA6TW
 
@@ -125,11 +123,11 @@ Christiane‘s erstes QSO auf 10m. Gleich mit „Viele Elche“ ( Canada )
 
 Erst ein paar QSO vom König Albert Turm ( Spiegelwald - Berg ) wieder ein paar auf 23cm.
 
-Danach sind wir zum Bergwerk ( Museum ) am Sauberg. 705 mit MC-750 ist in ein paar Minuten aufgebaut. 
+Danach sind wir zum Bergwerk ( Museum ) am Sauberg. 705 mit MC-750 ist in ein paar Minuten aufgebaut.
 
-Meine > 10 QSO sind in  FT8/FT4 in gut 1 h im Log.
+Meine > 10 QSO sind in FT8/FT4 in gut 1 h im Log.
 
-Leider klappt nur 10m bei Christiane nicht so gut. Es bleibt bei 6 QSO. 
+Leider klappt nur 10m bei Christiane nicht so gut. Es bleibt bei 6 QSO.
 
 Schade aber bestimmt nicht der letzte 10m POTA Versuch.
 
@@ -181,7 +179,7 @@ POTA Aktivierung DE-0192 und DE-0744 von DK8YS und DA6TW. Trotz des einsetzenden
 
 DK9CA: Ich konnte endlich wieder eine Aktivierung machen. Es wurde weiter am "Kilo" gefeilt: Von DE-0121 aus kamen 57 QSO auf 15m, 20m und 40m ins Logbuch. Davon waren 7 P2P, etliche DF2DF & 3 Verbindungen auf 15m gingen nach Nordamerika.
 
-Mit dem FT-891 wieder Solo und dem Heil Sound BM-17 DS das erste mal per VOX aktiviert. Die Plexiglas-EFHW performte wieder wie ein Champ und ich hatte eine Menge Spaß wie lange nicht mehr. Ich habe in 2 1/4 Stunden den 18Ah Eremit-Akku komplett "leergefunkt".  
+Mit dem FT-891 wieder Solo und dem Heil Sound BM-17 DS das erste mal per VOX aktiviert. Die Plexiglas-EFHW performte wieder wie ein Champ und ich hatte eine Menge Spaß wie lange nicht mehr. Ich habe in 2 1/4 Stunden den 18Ah Eremit-Akku komplett "leergefunkt".
 
 Der 10Ah Akku wurde am Solarpanel währenddessen aufgeladen und bescherte mir dann als Backup die letzten 3 QSO nach denen ich dann glücklich wieder zu Frau & Kindern fuhr.
 
@@ -203,24 +201,24 @@ Auf 70cm/2m/15m/20m/40m kamen 103 QSOs (+n-fer P2Ps) zustande, mit einer großen
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/82_09-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/83_09-2024.jpg)
 
-3 Aktivierung in drei Ländern an einem Tag mit dem Fahrrad. 
+3 Aktivierung in drei Ländern an einem Tag mit dem Fahrrad.
 
 NL-0018
-BE-0117 
+BE-0117
 DE-0055
 
-Die Radtour war ca. 125 km lang. 
+Die Radtour war ca. 125 km lang.
 
-Es ging von Deutschland in die Niederlande wo die erste Aktivierung in SSB mit 5 Watt erfolgt und dann nach Belgien. Auch in Belgien wurde in SSB gearbeitet.  
+Es ging von Deutschland in die Niederlande wo die erste Aktivierung in SSB mit 5 Watt erfolgt und dann nach Belgien. Auch in Belgien wurde in SSB gearbeitet.
 
-Die Rückfahrt erfolgt von Belgien über die Niederlande nach Deutschland. 
+Die Rückfahrt erfolgt von Belgien über die Niederlande nach Deutschland.
 
 In Deutschland wurde die Aktivierung in FT8 und FT4 durchgeführt.
 
 Rufzeichen im Rahmen der 3 Aktivierungen.
 
 DL4DP/P
-PA/DL4DP/QRP 
+PA/DL4DP/QRP
 ON/DL4DP/QRP
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-09/84_09-2024.jpg)

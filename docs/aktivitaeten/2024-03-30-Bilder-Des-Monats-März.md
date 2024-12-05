@@ -1,15 +1,13 @@
 ---
 title: Bilder des Monats März 2024
-description:
-    Bilder des Monats März aus unserer Community im Discord.
+description: Bilder des Monats März aus unserer Community im Discord.
 type: activity
 image: /aktivitaeten/BDM-2024-03/26_03-2024.jpg
 features:
-    - FOTOS
+  - FOTOS
 ---
 
 # Bilder des Monats März 2024
-
 
 mein Garten Portabel ...
 
@@ -49,7 +47,7 @@ Gesten bei besten Wetterverhältnissen in Serfaus ein bisschen Betrieb über OE7
 
 Heinrich DO1HFS testet den ADX-S im Portabelbetrieb. Der ADX-S hat 3,5Watt Sendeleistung auf 40/20m und 1,5Watt auf 10/15m.
 
-![Bilder des Monats](/aktivitaeten/BDM-2024-03/18_03-2024.jpg)
+![Bilder des Monats](/aktivitaeten/BDM-2024-03/18_03-2024.png)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-03/19_03-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-03/20_03-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-03/21_03-2024.jpg)
@@ -89,4 +87,3 @@ DL2MBN qrv vom Campingplatz mit der Draussenfunker Vertical Antenne
 DO7JZ auf einem POTA-Rove. Insgesamt wurden 8 gültige Referenzen an einem Tag aktiviert.
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-03/37_03-2024.jpg)
-
