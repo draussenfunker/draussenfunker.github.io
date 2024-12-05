@@ -32,12 +32,12 @@ Gespeist mit 5m RG-316.
 Locator war JN57EK.
 30Watt waren es auf der Antenne.
 So kamen durch die Höhe und die Tropo Bedingungen 30 QSoO ins Log.
-Das weiteste QSO war heute in die Niederlande mit 723km 😀
+Das weiteste QSO war heute in die Niederlande mit 723km
 Viele Verbindungen waren über der 500km Marke.
 Bis nach Belgien ging es problemlos mit 5/9.
-Alles in allem eine Hammer Aktion😁💪
+Alles in allem eine Hammer Aktion
 Der Blick ging von der Zugspitze bis zum Säntis,und weiter bis zu den Schweizer Gletschern.
-Verbindungen gingen von hier in Oberstdorf bis zur Nordseeküste, Bremen, Hannover, Lüneburger Heide,Köln.....alles mit 5/9 und zum größten Teil über 9 💪
+Verbindungen gingen von hier in Oberstdorf bis zur Nordseeküste, Bremen, Hannover, Lüneburger Heide,Köln.....alles mit 5/9 und zum größten Teil über 9
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-11/04_11-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-11/05_11-2024.jpg)
@@ -179,7 +179,7 @@ Versuche ein paar P2P Verbindungen in SSB zu machen scheiterten leider, da ich d
 ![Bilder des Monats](/aktivitaeten/BDM-2024-11/80_11-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-11/81_11-2024.jpg)
 
-DB6NL hat heute mal wieder einen freien Tag im Sauerland verbracht. Zuerst wurde der Wilzenberg (DM/NW-207) aktiviert. Da es noch ganz schön regnete, mussten 4 Pflicht-QSOs auf 15m reichen. Danach ging es auf die Ziegenhelle (DM/NW-185). da es trocken blieb war in der Sonne Zeit für mehr Betrieb. Es kamen 5 P2P und ein DF2DF-QSO mit <@339453076547043329> ins Log und es war ebenfalls Zeit für einen Kaffee. Zum Abschluss wurde der Kahle Asten (DM/NW-026) aktiviert. Auf 20m gegen Nachmittag eine schnelle Nummer mit Kontakten in ganz Europa. Für den Park DE-0054 kamen bei auch insgesamt 47 gültige QSO ins Log, für Sota konnten 22 mountain goat  Punkte geholt werden.
+DB6NL hat heute mal wieder einen freien Tag im Sauerland verbracht. Zuerst wurde der Wilzenberg (DM/NW-207) aktiviert. Da es noch ganz schön regnete, mussten 4 Pflicht-QSOs auf 15m reichen. Danach ging es auf die Ziegenhelle (DM/NW-185). da es trocken blieb war in der Sonne Zeit für mehr Betrieb. Es kamen 5 P2P und ein DF2DF-QSO mit DO1EDK ins Log und es war ebenfalls Zeit für einen Kaffee. Zum Abschluss wurde der Kahle Asten (DM/NW-026) aktiviert. Auf 20m gegen Nachmittag eine schnelle Nummer mit Kontakten in ganz Europa. Für den Park DE-0054 kamen bei auch insgesamt 47 gültige QSO ins Log, für Sota konnten 22 mountain goat  Punkte geholt werden.
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-11/82_11-2024.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2024-11/83_11-2024.jpg)
