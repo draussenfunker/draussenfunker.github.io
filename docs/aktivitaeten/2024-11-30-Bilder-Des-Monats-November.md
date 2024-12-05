@@ -198,4 +198,3 @@ Es hat daher vor lauter Gesprächen abseits des Mikrofons für keine Aktivierung
 Am 9.11. aktivierte DM5WK zwei Parks: zuerst den Wasserpark Dove Elbe DE-0135, dann die Hamburger Seite Höltigbaum DE-0537. Die Temperaturen war schon recht frisch, so dass es nach 45 bzw. 30 Minuten zu kalt wurde. Trotzdem kamen rund 40 Kontakte zustande, davon neun P2P. Einer davon mit Nord-Mazedonien. Glücklicherweise gab es auch wieder einige Kontakte mit anderen Draußenfunkern. Bei den normalen Kontakten war Kanada und die Azoren dabei. Ein nettes Plätzchen ist der "POTA-Schreibtisch" im Höltigbaum, den bestimmt andere OPs auf die gleiche Art zum Funken verwendet haben.
 
 ![Bilder des Monats](/aktivitaeten/BDM-2024-11/90_11-2024.jpg)
-![Bilder des Monats](/aktivitaeten/BDM-2024-11/91_11-2024.jpg)
