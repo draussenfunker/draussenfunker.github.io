@@ -10,7 +10,7 @@ features:
 # Sommerfest 2024
 Am 31.8.24 um 10 Uhr ging es los. Harm, DK4HAA hatte sein Bollerwagen gepackt und machte sich auf den Weg zu dem [Jacobipark, DE-0260](https://pota.app/#/park/DE-0260). Das Draussenfunker Sommerfest ging los. Zuerst wurden eine 2m und zwei Kurzwellen Station aufgebaut.
 
-![Bollerwagen](/aktivitaeten/sommerfest-2024-08-31/Bollerwagen.jpg)
+![Bollerwagen](/aktivitaeten/sommerfest-2024-08-31/bollerwagen.jpg)
 ![UKW-1](/aktivitaeten/sommerfest-2024-08-31/UKW-1.jpg)
 ![UKW-2](/aktivitaeten/sommerfest-2024-08-31/UKW-2.jpg)
 ![Essen](/aktivitaeten/sommerfest-2024-08-31/KW-1.jpg)
