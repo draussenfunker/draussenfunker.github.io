@@ -41,15 +41,15 @@ Im Sommer fand dann wieder das schon traditionelle Sommerfest in Hamburg und auf
 ## Herbstfest
 Im Oktober veranstalteten wir unser Herbstfest als dezentrale Aktion. Diesmal war nicht Hamburg das Ziel reiselustiger Draußenfunker und Einheimischer, stattdessen wurden Funkamateure an anderen Orten besucht. Haiko, DF9HC konnte zum Beispiel HArm, DK4HAA und Tobias, DC1TC aus Hamburg in Rostock begrüßen.
 
-![Herbstfest](aktivitaeten/BDM-2024-10/35_10-2024.jpg)
+![Herbstfest](/aktivitaeten/BDM-2024-10/35_10-2024.jpg)
 
 ## Chaos Communication Congress
 Krönender Abschluss war dann der Chaos Communication Congress, 38C3, im CCH in Hamburg, an dem unzählige Draußenfunker am Stand der Chaoswelle oder allgemein am Congress und den dortigen Funkaktivitäten teilgenommen haben. Zu den Funkaktivitäten zählten unter anderem das Aktivitätsprogramm "Toilets On The Air (TOTA)", Ausbildungsfunkbetrieb und eine tägliche Einführung in POTA im angrenzenden Park "Planten un Blomen", an dem über alle vier Tage rund 50 interessierte Personen teilgenommen haben.
 
-![38C3)](aktivitaeten/Jahresrueckblick-2025-01-01/38C3-1.jpg)
-![38C3)](aktivitaeten/Jahresrueckblick-2025-01-01/38C3-2.jpg)
-![38C3)](aktivitaeten/Jahresrueckblick-2025-01-01/38C3-3.jpg)
-![38C3)](aktivitaeten/Jahresrueckblick-2025-01-01/38C3-4.jpg)
+![38C3)](/aktivitaeten/Jahresrueckblick-2025-01-01/38C3-1.jpg)
+![38C3)](/aktivitaeten/Jahresrueckblick-2025-01-01/38C3-2.jpg)
+![38C3)](/aktivitaeten/Jahresrueckblick-2025-01-01/38C3-3.jpg)
+![38C3)](/aktivitaeten/Jahresrueckblick-2025-01-01/38C3-4.jpg)
 
 ## Dank
 Wir wollen danke Sagen. Allen die die Draussenfunker das machen und gemacht haben was sie sind. Da sind einmal die Gründungsmitglieder DO7JZ, DG7PX, DO1DSH, DO7OO und DK4HAA und alle weiteren Leute bei Aktivitäten oder im Discord.
