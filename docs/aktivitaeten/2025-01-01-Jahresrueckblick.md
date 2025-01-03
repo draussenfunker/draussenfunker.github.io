@@ -24,7 +24,7 @@ Wie jedes Jahr nach dem Glühwein-POTA, blicken wir auf das vergangene Jahr zur�
 ## Titelthema in der CD-DL
 In der Maiausgabe der DARC Vereinszeitschrift CQ-DL waren wir Titelthema, mit Artikeln zu der Draussenfunkern, in dem unsere Gemeinschaft, unsere Aktivitäten und einige Draußenfunk-Programme wie POTA vorgestellt wurden. Diese waren ein großer Erfolg, wir erhielten zahlreich Feedback und gewannen viele neue Mitstreiter. [Die CQ-DL für DARC mitglieder](https://www.darc.de/cqdlonline/2024/05/)
 
-![CQ-DL](/aktivitaetenJahresrueckblick-2025-01-01/CQ-DL.jpg)
+![CQ-DL](/aktivitaeten/Jahresrueckblick-2025-01-01/CQ-DL.jpg)
 
 ## FUNK.TAG Kassel
 Später im Monat hatten wir einen Stand auf dem FUNK.TAG Kassel. Dort erlebten wir rege Aufmerksamkeit, unter anderem durch dem kürzlich erschienen Artikel in der CQ-DL. Wir haben unser Equipment, Draußenfunk-Programme und unsere Gemeinschaft vorgestellt. Zu guter Letzt hat Harm, DK4HAA ein Interview bei F74 gegeben, dass auf [Youtube](https://www.youtube.com/watch?v=EO-2gixB8G8&t=1148s) veröffentlicht wurde.
