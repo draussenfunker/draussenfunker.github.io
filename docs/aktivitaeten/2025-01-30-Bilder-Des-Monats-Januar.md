@@ -3,7 +3,7 @@ title: Bilder des Monats Januar 2025
 description:
     Bilder des Monats Januar aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2025-01/ 28_01-2025.jpg
+image: /aktivitaeten/BDM-2025-01/28_01-2025.jpg
 features:
     - FOTOS
 ---
