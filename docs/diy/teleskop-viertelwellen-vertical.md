@@ -136,7 +136,22 @@ Der Aufbau und die Abstimmung sind denkbar einfach:
 
 ![Detailansicht von oben](/images/diy/teleskop-viertelwellen-vertical/qwvertical_topview.jpg)
 
-Noch schneller geht es, wenn man sich mit einem wasserfesten Stift kleine Markierungen an der Teleskopantenne macht oder die Werte folgender Tabelle berücksichtigt, damit man die Bänder schneller grob wiederfindet. Bei ähnlicher Bodenbeschaffenheit ist diese Methode erstaunlich genau und die Antenne ist breitbandig genug, dass man ohne größere Abstimmarbeiten QRV sein kann. Das SWR auf dem Funkgerät ist zur Sicherheit aber zu beachten bzw. Feinabstimmung mit dem VNA macht trotzdem Sinn.
+::: tip Tipp: Betrieb auf 40 Meter
+Mit einer kostengünstigen Verlängerunsspule (siehe Bauteile) von Aliexpress mit M10-Gewinden, lässt sich die Antenne auch problemlos auf dem 40m-Band betreiben. Ggf. müssen die Radials stärker gebündelt werden, um ein gutes SWR zu erzielen.
+:::
+
+### Schnelleres Abstimmen mit dem Sticker
+
+Noch schneller geht es, wenn man unseren Sticker nutzt, auf dem die typischen Längen in Metern und ausgezogenen Segmenten aufgeführt sind (Bezug über DK4HAA per Mail oder über unseren Discord). Zusätzlich hat der Aufkleber auch die Stromaufnahmen gängiger Portabel-TRX abgedruckt. Praktisch!
+
+![Aufkleber für Vertical und gängige TRX](/images/diy/teleskop-viertelwellen-vertical/aufkleber_vertical_trx_2024_set.jpg)
+
+![Aufkleber für Vertical und gängige TRX](/images/diy/teleskop-viertelwellen-vertical/aufkleber_vertical_trx_2024.jpg)
+
+
+### Oder die Antenne markieren
+
+Alterntiv kann man sich mit einem wasserfesten Stift kleine Markierungen an der Teleskopantenne machen oder die Werte folgender Tabelle berücksichtigen, damit man die Bänder schneller grob wiederfindet. Bei ähnlicher Bodenbeschaffenheit ist diese Methode erstaunlich genau und die Antenne ist breitbandig genug, dass man ohne größere Abstimmarbeiten QRV sein kann. Das SWR auf dem Funkgerät ist zur Sicherheit aber zu beachten bzw. Feinabstimmung mit dem VNA macht trotzdem Sinn.
 
 | Band | auszuziehende Elemente |
 | :--- |  :---:  |
@@ -148,11 +163,6 @@ Noch schneller geht es, wenn man sich mit einem wasserfesten Stift kleine Markie
 
 ![Antenne im Winter](/images/diy/teleskop-viertelwellen-vertical/qwvertical_winter.jpg)
 
-
-::: tip Tipp: Betrieb auf 40 Meter
-Mit einer kostengünstigen Verlängerunsspule (siehe Bauteile) von Aliexpress mit M10-Gewinden, lässt sich die Antenne auch problemlos auf dem 40m-Band betreiben. Ggf. müssen die Radials stärker gebündelt werden, um ein gutes SWR zu erzielen.
-:::
-
 ### VSWR & Smith Diagram
 
 Die Antenne lässt sich durch Ausziehen problemlos für 10 - 20 Meter abstimmen. Sie ist dabei so breitbandig, dass alle Bänder durchgängig mit sehr gutem SWR nutzbar sind, ohne nachstimmen zu müssen. Hier ein paar Screenshots von den Abstimmwerten für das 15 Meter Band. Auf anderen Bändern sind die Ergebnisse ähnlich.
@@ -162,9 +172,10 @@ Die Antenne lässt sich durch Ausziehen problemlos für 10 - 20 Meter abstimmen.
 ![Smith auf 15m](/images/diy/teleskop-viertelwellen-vertical/smith-15m-band-cropped.jpg)
 
 
-## Bilder 
+## Bilder, Variationen und Inspirationen
 
-Evolution des Designs. Links die erste Version (siehe Seitenende), Mitte: Prototyp der Version 2. Rechts: Version 2.
+### Evolution des Designs
+Links die erste Version (siehe Seitenende), Mitte: Prototyp der Version 2. Rechts: Version 2.
 
 ![Evolution](/images/diy/teleskop-viertelwellen-vertical/qwvertical_evolution.jpg)
 
@@ -173,7 +184,8 @@ Prototyp und finale Version:
 ![Evolution](/images/diy/teleskop-viertelwellen-vertical/qwvertical_prototype_final.jpg)
 
 
-Tiny-Version: Winkel hinter dem Isolator gekürzt, Radial-Anschluss unter die PL-Buchse verlegt. Abstand beachten, damit sich die Flügelmutter noch drehen lässt! Die Idee stammt von [DG1JAN](https://www.qrz.com/db/dg1jan). Vielen Dank!
+### Tiny-Version
+Winkel hinter dem Isolator gekürzt, Radial-Anschluss unter die PL-Buchse verlegt. Abstand beachten, damit sich die Flügelmutter noch drehen lässt! Die Idee stammt von [DG1JAN](https://www.qrz.com/db/dg1jan). Vielen Dank!
 
 ![Tiny Version der Halterung](/images/diy/teleskop-viertelwellen-vertical/qwvertical_tiny.jpg)
 
@@ -184,9 +196,51 @@ Eine weitere Abwandlung kommt von [DM5XT](https://www.qrz.com/db/DM5XT): Das Hau
 ![kompakte Variante der Halterung](/images/diy/teleskop-viertelwellen-vertical/qwvertical_tiny_alt_2.jpg)
 
 
+### Baumarktteile nutzen!
 Eine Variante der Halterung aus vielen Teilen, die in jedem Baumarkt verfügbar sind, hat [DL9DX](https://www.qrz.com/db/dl9dx) gebaut. Der Erdspieß besteht aus einer M10-Schraube, 200mm lang. Der 6-Kant-Kopf wurde abgesägt und der Spieß angespitzt.
 
 ![Version aus Baumarktteilen](/images/diy/teleskop-viertelwellen-vertical/mount_by_dl9dx.jpg)
+
+
+### Alternative zur Bodenhalterung
+Heinz, [DL7HKL](https://www.qrz.com/db/DL7HKL), schickte uns seine Umsetzung einer Bodenhalterung:
+
+*Bodenhalterung (Vorschlag)*
+
+*Von einem Sonnenschirm habe eine Bodenhalterung mit Erdspießen zweckentfremdet. Google : "Rasendorn für Sonnenschirm"  (z.B. Amazon). Es gibt Rasendorne mit 3 und 4 Erdspießen.*
+
+*Schraubt man die Metallhülse in welche normalerweise der Sonnenschirm gesteckt wird ab, kommt ein M12 Gewinde zum Vorschein. Mittels einer Adapterhülse kann man den Rasendorn sehr gut für die Halterung der Verticalantenne verwenden.*
+
+*Hierzu bin ich wie folgt vorgegangen:*
+*Eine Distanzhülse habe etwa 15mm tief etwas aufgebohrt und ein M12 Innengewinde in die Hülse geschnitten. Damit kann man die Distanzhülse auf das M12 Gewinde vom Rasendorn aufschrauben.*
+*Auf der gegenüberliegenden Seite der Distanzhülse habe ich ein kurzes Stück Gewindestange M10 eingesetzt, um die Verbindung zum Haltewinkel /Langmutter herzustellen.*
+*Leider hatte die Gewindestange (M10) in der Distanzhülse etwas Spiel. Deshalb wurde in die Distanzhülse eine Querbohrung mit Gewinde und anschließend eine Schraube (M4) eingebracht. Nun hält alles bombenfest. Das ist wesentlich besser als mit nur einen Erdspiess.*
+
+*Eine weitere Möglichkeit wäre, die M10 Gewindestange mit 2 Schweißpunkten in der Distanzhülse zu fixieren.*
+
+*Schraubt man die Distanzhülse wieder ab,  kann man den Rasendorn wieder als Halterung für den Sonnenschirm verwenden.*
+
+
+![Sonnenschirmhalterung 1](/images/diy/teleskop-viertelwellen-vertical/DL7HKL_01.jpg)
+![Sonnenschirmhalterung 2](/images/diy/teleskop-viertelwellen-vertical/DL7HKL_02.jpg)
+![Sonnenschirmhalterung 3](/images/diy/teleskop-viertelwellen-vertical/DL7HKL_03.jpg)
+![Sonnenschirmhalterung 4](/images/diy/teleskop-viertelwellen-vertical/DL7HKL_04.jpg)
+![Sonnenschirmhalterung 5](/images/diy/teleskop-viertelwellen-vertical/DL7HKL_05.jpg)
+![Sonnenschirmhalterung 6](/images/diy/teleskop-viertelwellen-vertical/DL7HKL_06.jpg)
+
+
+### Übergangs-Widerstand am Alu reduzieren
+
+Ekki, DF4OR, hat den Übergangswiderstand an den Aluteilen durch Kupferdraht reduziert:
+
+![Widerstand reduziert 1](/images/diy/teleskop-viertelwellen-vertical/Ekki_DF4OR_01.jpg)
+![Widerstand reduziert 2](/images/diy/teleskop-viertelwellen-vertical/Ekki_DF4OR_02.jpg)
+![Widerstand reduziert 3](/images/diy/teleskop-viertelwellen-vertical/Ekki_DF4OR_03.jpg)
+
+### Spule überbrücken
+
+Eine Konstruktion zur Überbrückung der Spule, um das Ein- und Ausschrauben zu umgehen:
+![Spule überbrücken](/images/diy/teleskop-viertelwellen-vertical/qwgp_spule_ueberbruecken.jpg)
 
 
 ## Tipps & Tricks
