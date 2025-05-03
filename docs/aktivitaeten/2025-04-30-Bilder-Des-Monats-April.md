@@ -27,13 +27,7 @@ Tobias (DC1TC) und Harm (DK4HAA).
 ![Bilder des Monats](/aktivitaeten/BDM-2025-04/04_04-2025.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2025-04/05_04-2025.jpg)
 
-Text mit dem Bild ....
-
-Ihr wollt also das man erstmal das Bild hochläde und dann den Text über bearbeiten einfügt. 
-
-Der Text soll über dem Bild stehen und nicht darunter?
-
-Bild von DL4DP mit der QRP Ausrüstung am Fahrrad.
+DL4DP mit der QRP Ausrüstung am Fahrrad.
 
 ![Bilder des Monats](/aktivitaeten/BDM-2025-04/06_04-2025.jpg)
 
