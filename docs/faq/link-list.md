@@ -54,7 +54,7 @@ description: Hier findet ihr eine Sammlung von wichtigen / interessanten Links. 
 
 ## Notfunk
 
-- [Karte für Notfunk im Ortsverband DARC](https://www.darc.de/der-club/referate/notfunk/funkamateure/notfunk-im-ortsverband/notfunk-im-ortsverband-karte/): Die Übersichtskarte für den Notfunk im Ortsband des DARC
+- [Karte für Notfunk im Ortsverband DARC](https://www.darc.de/der-club/referate/notfunk/funkamateure/notfunk-im-ortsverband/notfunk-im-ortsverband-karte/): Die Übersichtskarte für den Notfunk in den Ortsverbänden des DARC
 
 ---
 
