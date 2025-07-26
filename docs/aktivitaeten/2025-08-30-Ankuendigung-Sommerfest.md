@@ -20,6 +20,6 @@ Während wir im Park sind könnt ihr uns auf 145.5 MHz und DB0HHH 2 m erreichen.
 
 Noch mal kurz: 30.8. ab 11 Uhr Draußenfunker im Jacobipark in Hamburg.
 
-Mehr Infos auf im Chat.
+Mehr Infos im Chat.
 
 73 Wolfgang - DM5WK für die Draußenfunker
