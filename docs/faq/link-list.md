@@ -40,6 +40,17 @@ description: Hier findet ihr eine Sammlung von wichtigen / interessanten Links. 
 - [POTA](https://pota.app/): Parks on the air
 - [SOTA](https://www.sota.org.uk/): Summits on the air
 
+## Nützliche Kartendienste
+
+- [POTA-Map](https://pota-map.info/): Übersichtliche POTA- und BOTA-Map für den deutschsprachigen Raum und darüber hinaus
+- [OSM-POTA Map](https://potamap.ea7klk.es/): Eine POTA-Map basierdend auf OpenStreetmap Daten
+- [POTA ATNO-Map](http://map.pota.ninja/): Karte mit noch nicht aktivierten / gehunteten Parks
+- [POTA-Map IT](https://pota.radioexperiences.net/map/mapbox_referenze.php): POTA-Map für Italien
+- [POTA-Map OK](https://mapy.cz/s/mevavotomu): POTA-Map für Tschechien
+- [POTA-Map SM](https://www.gnist.se/sm-pota/karta.html): POTA-Map für Schweden
+- [POTA-Map USA](https://potamap.us/): POTA-Map für die USA
+- [UKBOTA-Map](https://kwirk.github.io/pota-gb-map/): Map des UK Bunkers On The Air Programms
+
 ## Lernmaterialien / Ausbildung
 
 - [50 Ohm](https://www.50ohm.de/): Die neue Plattform des DARC zur Ausbildung von Funkamateuren
