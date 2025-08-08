@@ -27,7 +27,7 @@ Mehr Infos im Chat.
 
 ## Berlin
 
-Parallel zum Draussenfunker Sommerfest in Hamburg treffen sich Berliner Portabel-Freunde, POTA-Fans und die Freunde weiterer Outdoor-Funkaktivitäten  am **30.10. 25 ab 13 Uhr** auf dem Tempelhofer Feld ([DE-0169](https://pota.app/#/park/DE-0169)) zum Wiedersehen, Kennenlernen und Fachsimpeln. 
+Parallel zum Draussenfunker Sommerfest in Hamburg treffen sich Berliner Portabel-Freunde, POTA-Fans und die Freunde weiterer Outdoor-Funkaktivitäten  am **30.8. 25 ab 13 Uhr** auf dem Tempelhofer Feld ([DE-0169](https://pota.app/#/park/DE-0169)) zum Wiedersehen, Kennenlernen und Fachsimpeln. 
 
 Die Einladung geht an alle raus, die sich für Draussen-Funk interessieren. Auch neugierige Nicht-Funkamateure sind willkommen. Vor Ort sind wir auf 145.5 Mhz QRV.
 
