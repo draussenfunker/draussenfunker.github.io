@@ -43,7 +43,7 @@ description: Hier findet ihr eine Sammlung von wichtigen / interessanten Links. 
 ## Nützliche Kartendienste
 
 - [POTA-Map](https://pota-map.info/): Übersichtliche POTA- und BOTA-Map für den deutschsprachigen Raum und darüber hinaus
-- [OSM-POTA Map](https://potamap.ea7klk.es/): Eine POTA-Map basierdend auf OpenStreetmap Daten
+- [OSM-POTA Map](https://potamap.ea7klk.es/): Eine POTA-Map basierend auf OpenStreetmap Daten
 - [POTA ATNO-Map](http://map.pota.ninja/): Karte mit noch nicht aktivierten / gehunteten Parks
 - [POTA-Map FR](https://pota-map.fr): POTA-Map für Frankreich
 - [POTA-Map IT](https://pota.radioexperiences.net/map/mapbox_referenze.php): POTA-Map für Italien
