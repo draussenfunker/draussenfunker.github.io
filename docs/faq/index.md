@@ -27,7 +27,7 @@ Um diesen Punkt noch einmal besonders hervorzuheben: wenn es bei euch lokal noch
 
 Nochmal: Du willst draußen funken aber nicht ganz allein? Such dir _eine_ Mitstreiterin und geht einfach raus und habt Spaß am Gerät.
 
-Um Göthe zu zitieren:
+Um Goethe zu zitieren:
 >Der Worte sind genug gewechselt, <br>
 >Laßt mich auch endlich Taten sehn; <br>
 ><br>
@@ -35,10 +35,10 @@ Um Göthe zu zitieren:
 >Kann etwas Nützliches geschehn.
 
 ### Ich hatte eine tolle Aktion und möchte darüber berichten.
-Jeder ist dazu aufgerufen, sich mit neuen Ideen oder Berichten seiner Funk-Aktionen einzubringen, um die Diskussion zum Thema zu beflügeln und andere zu inspirieren. Meld dich am besten im [Discord](/mitmachen) und frage wie du beitragen kannst. Gerne nehmen wir auch immer Gast-Beiträge in unsere [Aktivitäten](/aktivitaeten) auf.
+Jeder ist dazu aufgerufen, sich mit neuen Ideen oder Berichten seiner Funk-Aktionen einzubringen, um die Diskussion zum Thema zu beflügeln und andere zu inspirieren. Melde dich am besten im [Discord](/mitmachen) und frage wie du beitragen kannst. Gerne nehmen wir auch immer Gast-Beiträge in unsere [Aktivitäten](/aktivitaeten) auf.
 
 ### Bei mir in der Nähe ist kein POTA-Park, wie bekomme ich einen hinzugefügt?
-Viele von uns nehmen an Aktivitätsprogrammen wie [POTA](https://pota.app), [WWFF](https://wwff.co), [SOTA](https://www.sota.org.uk),… teil. Aber wir sind nicht die Macher hinter diesen Programmen. Wie der Zufall es will, sind viele der Deutschland-Admins von POTA aber bei usn im Discord vertreten, lesen mit und gehen hervorragend auf die Interessen ein, wenn sie direkt angesprochen werden. Die offizielle Anlaufstelle für Fragen zu den Programmen sind aber die jeweiligen Programm-Webseiten wie z.B. [parksontheair.de](https://www.parksontheair.de).
+Viele von uns nehmen an Aktivitätsprogrammen wie [POTA](https://pota.app), [WWFF](https://wwff.co), [SOTA](https://www.sota.org.uk),… teil. Aber wir sind nicht die Macher hinter diesen Programmen. Wie der Zufall es will, sind viele der Deutschland-Admins von POTA aber bei uns im Discord vertreten, lesen mit und gehen hervorragend auf die Interessen ein, wenn sie direkt angesprochen werden. Die offizielle Anlaufstelle für Fragen zu den Programmen sind aber die jeweiligen Programm-Webseiten wie z.B. [parksontheair.de](https://www.parksontheair.de).
 
 ### Seid ihr ein Verein?
 Draußenfunker.de ist kein Verein und auch keine fest organisierte Gruppe. Wir sind eine Anlaufstelle für Funkamateure, die Interesse am Portabelbetrieb haben und sich hier über dieses Thema austauschen wollen.
