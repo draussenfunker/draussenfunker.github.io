@@ -27,7 +27,7 @@ description: Hier findet ihr eine Sammlung von wichtigen / interessanten Links. 
 - [WebSDR](http://websdr.org/): Liste mit frei im Internet verfügbaren SDR-Empfangsstationen
 - [Bakenliste](https://rsgb.org/main/technical/propagation/propagation-beacons/): Liste mit Verweisen zu Bakenlisten z. B. für die Kurzwelle
 - [APRS](https://aprs.fi/): Eine Live APRS Karte im Browser
-- [Meshtastic](https://meshtastic.org/): Open-Source Projekt für ein dezentralisiertes Kommunikationsnetzwerk aus günstigen geringverbrauchenden Geräten (lizenzfrei nutzbar)
+- [Meshtastic](https://meshtastic.org/): Open-Source Projekt für ein dezentralisiertes Kommunikationsnetzwerk aus günstigen Geräten mit geringem Stromverbrauch (lizenzfrei nutzbar)
 - [Meshmap](https://meshmap.net/): Eine "fast" Live-Karte der Meshtastic-Knoten, die vom offiziellen Meshtastic MQTT-Server gesehen werden
 
 ## DMR
