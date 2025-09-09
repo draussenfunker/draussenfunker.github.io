@@ -7,7 +7,7 @@ description: Antworten auf Fragen die immer mal wieder aufkommen.
 Ein paar Antworten auf Fragen, die wiederholt aufgekommen sind.
 
 ### Wann ist euere nächste Aktion?
-Spätestens dann, wenn du selbst etwas auf die Beine stellst! 
+Spätestens dann, wenn du selbst etwas auf die Beine stellst!
 
 Es entsteht manchmal den Eindruck, dass es regelmäßige und zentral organisierte Events gibt. Insbesondere da z.B. viele in der Draußenfunker-Community aus Hamburg kommen und sich so leichter und spontaner für eine Stunde im Park zum Funken treffen können. Das ist der [Entstehungsgeschichte](/#uber-uns-–-die-geschichte-hinter-draussenfunker-de) geschuldet. Die Gründer von draussenfunker.de kommen aus Hamburg und kennen sich persönlich oder über das Internet. Wir sind alle vom gleichen Schlag: Nicht lang schnacken, Funkgerät in den Rucksack, ab in den Park!
 
@@ -41,7 +41,7 @@ Jeder ist dazu aufgerufen, sich mit neuen Ideen oder Berichten seiner Funk-Aktio
 Viele von uns nehmen an Aktivitätsprogrammen wie [POTA](https://pota.app), [WWFF](https://wwff.co), [SOTA](https://www.sota.org.uk),… teil. Aber wir sind nicht die Macher hinter diesen Programmen. Wie der Zufall es will, sind viele der Deutschland-Admins von POTA aber bei uns im Discord vertreten, lesen mit und gehen hervorragend auf die Interessen ein, wenn sie direkt angesprochen werden. Die offizielle Anlaufstelle für Fragen zu den Programmen sind aber die jeweiligen Programm-Webseiten wie z.B. [parksontheair.de](https://www.parksontheair.de).
 
 ### Seid ihr ein Verein?
-Draußenfunker.de ist kein Verein und auch keine fest organisierte Gruppe. Wir sind eine Anlaufstelle für Funkamateure, die Interesse am Portabelbetrieb haben und sich hier über dieses Thema austauschen wollen.
+Draussenfunker.de ist kein Verein und auch keine fest organisierte Gruppe. Wir sind eine Anlaufstelle für Funkamateure, die Interesse am Portabelbetrieb haben und sich hier über dieses Thema austauschen wollen.
 
 ### Habt ihr eine Linkliste zum Thema Amateurfunk?
 Ja, ihr findet sie [hier](/faq/link-list)
