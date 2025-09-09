@@ -3,7 +3,7 @@ home: false
 ---
 ## Impressum
 
-Draussenfunker.de ist ein Informationsangebot einer losen Gruppe von Funkamateuren ohne Gewinnabzielungsabsicht oder wirtschaftlichen Interessen.
+Draussenfunker.de ist ein Informationsangebot einer losen Gruppe von Funkamateuren ohne Gewinnerzielungsabsicht oder wirtschaftliche Interessen.
 
 Wir verzichten daher auf ein reguläres Impressum.
 
