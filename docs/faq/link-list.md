@@ -63,6 +63,8 @@ description: Hier findet ihr eine Sammlung von wichtigen / interessanten Links. 
 - 50 Ohm Lernapp
   - [Apple (iOS)](https://apps.apple.com/de/app/50ohm/id6474642114)
   - [Android](https://play.google.com/store/apps/details?id=de.darc.fuenfizigohm)
+- Portable Logger für diverse Aktivitätsprogramme u.v.a.m.
+  - [PoLo (Android + iOS)](https://polo.ham2k.com/)
 
 ## Notfunk
 
