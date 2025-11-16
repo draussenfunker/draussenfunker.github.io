@@ -1,5 +1,5 @@
 ---
-title: Herbst: Zeit für Materialcheck und Wartungsarbeiten!
+title: Herbst ist Zeit für Materialcheck und Wartungsarbeiten!
 description:
     Die dunkle Jahreszeit beginnt - Zeit für Materialcheck und Wartungsarbeiten!
 type: activity
