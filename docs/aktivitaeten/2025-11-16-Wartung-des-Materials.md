@@ -3,7 +3,7 @@ title: Herbst ist Zeit für Materialcheck und Wartungsarbeiten!
 description:
     Die dunkle Jahreszeit beginnt - Zeit für Materialcheck und Wartungsarbeiten!
 type: activity
-image: /aktivitaeten/materialwartung/wartung_02.jpg
+image: /aktivitaeten/wartungsarbeiten/wartung_02.jpg
 features:
     - Herbst
     - Winter
@@ -20,21 +20,21 @@ Mein Zwischenfazit nach drei Jahren mit meinem Portabelrucksack:
 - die Klettkabelbinder für Koax und Radials waren durch. Bis letztes Jahr hatte ich welche, die nicht am Kabel befestigt waren. Das Klett war etwas gröber und die Kabelbinder haben ein paar Monate länger gehalten. Dafür musste ich immer drauf achten, dass ich die irgendwo befestige (meist um das Koax), damit sie nicht verloren gehen. Ich werde bei den festen Klettbändern bleiben und diese weiterhin jährlich erneuern.
 - Nach der ersten Nutzung der Vertical vor ein paar Jahren habe ich ein Werkzeug in die Antennentasche gepackt, das seitdem dafür gesorgt hat, dass es nie wieder Probleme mit dem gewollten oder ungewollten Lösen von Schraubverbindungen an der Vertical gab: die Knipex Cobra XS. Ich habe sie genau **nie** benutzen müssen. Das ist wie mit Regenschirmen: wenn man sie dabei hat, regnet es nicht. Ich denke, die Zange bleibt noch mal ein weiteres Jahr in der Tasche.
 
-![Koaxkabel und Radials mit frischen Kabelbindern](/aktivitaeten/materialwartung/wartung_02.jpg)
-![Knipex Cobra XS in der Antennentasche](/aktivitaeten/materialwartung/wartung_01.jpg)
+![Koaxkabel und Radials mit frischen Kabelbindern](/aktivitaeten/wartungsarbeiten/wartung_02.jpg)
+![Knipex Cobra XS in der Antennentasche](/aktivitaeten/wartungsarbeiten/wartung_01.jpg)
 
 Weil im Discord irgendwann einmal die Fragestellung aufkam, wie man die Enden der Radials wasserdicht bekommt: Ich habe mir den Aufwand nicht gemacht. Nach drei Jahren sehen die Radials an den Enden so aus wie auf dem Bild. Die Radials liegen bei mir regelmäßig in Salz- und Süßwasser, im Dreck, im Schnee oder auf welchem Untergrund auch immer. Sie sind dafür da, genutzt zu werden. Ich werde die Radials nutzen, bis sie auseinanderfallen oder nicht mehr funktionieren. 
 
-![Kabelenden der Radials](/aktivitaeten/materialwartung/wartung_03.jpg)
+![Kabelenden der Radials](/aktivitaeten/wartungsarbeiten/wartung_03.jpg)
 
 Die Kabelschuhe sehen auch noch gut aus.
 
-![Kabelschuhe an den Radials](/aktivitaeten/materialwartung/wartung_04.jpg)
+![Kabelschuhe an den Radials](/aktivitaeten/wartungsarbeiten/wartung_04.jpg)
 
 Normale Gebrauchsspuren an den PL-Steckern: Die goldene Beschichtung lasst sichtbar nach.
 Sonst aber kein Rost und keine Beschädigungen an den PL-Steckern. Auch die landen mal im Dreck. Einmal abwischen oder pusten und weiter geht's.
 
-![PL-Stecker am Koax](/aktivitaeten/materialwartung/wartung_05.jpg)
+![PL-Stecker am Koax](/aktivitaeten/wartungsarbeiten/wartung_05.jpg)
 
 Ansonsten habe ich jedes Teil vom Equipment bei verschiedenen Gelegenheiten mindestens einmal genutzt und gleichzeitig nie etwas vermisst. Daher bleibt meine Portabelrucksack unverändert. 
 
