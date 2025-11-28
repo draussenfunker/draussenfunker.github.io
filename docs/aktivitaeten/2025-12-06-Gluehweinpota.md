@@ -27,3 +27,7 @@ Der genaue Standort ergibt sich spontan. Der Park ist aber auch nicht so groß, 
 
 Auch wenn es heiße Getränke gibt, denkt an warme Kleidung (Geheimtipp: lange Thermounterwäsche).
 
+
+## Baden-Württemberg
+
+Rajko, DC0IT und Uz, DF5WC: Wir treffen uns am Samstag den 06.12. um 14 Uhr auf dem [Grillplatz Stadtreitereiche](https://www.openstreetmap.org/way/307470455) zum Glühtee-POTA. Konkrete Pläne haben wir nicht, außer etwas Betrieb zu machen und zu quatschen. Vielleicht kriegen wir auch eine SSB Verbindung zu den Hamburgern hin. Gäste und Mitfunker sind natürlich herzlich willkommen. Uz bringt Tee und etwas Schlicker für die Weihnachtsatmosphäre mit. Laut Rajko soll das Wetter trocken werden - mal schauen, was seine Voraussagen so taugen.
