@@ -31,3 +31,17 @@ Auch wenn es heiße Getränke gibt, denkt an warme Kleidung (Geheimtipp: lange T
 ## Baden-Württemberg
 
 Rajko, DC0IT und Uz, DF5WC: Wir treffen uns am Samstag den 06.12. um 14 Uhr auf dem [Grillplatz Stadtreitereiche](https://www.openstreetmap.org/way/307470455) zum Glühtee-POTA. Konkrete Pläne haben wir nicht, außer etwas Betrieb zu machen und zu quatschen. Vielleicht kriegen wir auch eine SSB Verbindung zu den Hamburgern hin. Gäste und Mitfunker sind natürlich herzlich willkommen. Uz bringt Tee und etwas Schlicker für die Weihnachtsatmosphäre mit. Laut Rajko soll das Wetter trocken werden - mal schauen, was seine Voraussagen so taugen.
+
+## Berlin
+
+🎄🎄🎄
+
+Eine Delegation Berliner Draussenfunker wird sich **ab 11 Uhr zu Glühwein und Knabbereien im Mauerpark** treffen. Der **genaue Ort** ist hier verzeichnet: [Link zum Treffpunkt](https://w3w.co/winzig.gestern.bahn).
+
+**Interessierte Funker und Neulinge sind herzlich eingeladen** dazuzustoßen. Es wird sicherlich einige Geräte für (U)KW geben, die benutzt werden können. Die Park-Referenzen im POTA-Programm dort lauten: [DE-0231](https://pota.app/#/park/DE-0231) (Mauerpark) und [DE-1093](https://pota.app/#/park/DE-1093) (Berliner Mauerweg).
+
+Auch Ausbildungsbetrieb bieten einige OMs und YLs sicher an, so dass man auch ohne Lizenz auf seine Kosten kommt. 
+
+**Mitzubringen:** Becher/Getränke und Knabbereien nach Gusto (ein ALDI ist in unmittelbarer Nähe). **Denkt dran:** Es wird sicherlich kalt sein, **zieht euch also warm an** und denkt an Handschuhe und Kopfbedeckung.
+
+Wir werden auch auf **145.5 MHz FM und [DB0SX](https://www.darc.de/der-club/distrikte/d/ortsverbaende/05/das-70cm-relais-dboesx/)** QRV sein.
