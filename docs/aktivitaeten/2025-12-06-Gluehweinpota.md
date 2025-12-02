@@ -45,3 +45,14 @@ Auch Ausbildungsbetrieb bieten einige OMs und YLs sicher an, so dass man auch oh
 **Mitzubringen:** Becher/Getränke und Knabbereien nach Gusto (ein ALDI ist in unmittelbarer Nähe). **Denkt dran:** Es wird sicherlich kalt sein, **zieht euch also warm an** und denkt an Handschuhe und Kopfbedeckung.
 
 Wir werden auch auf **145.5 MHz FM und [DB0SX](https://www.darc.de/der-club/distrikte/d/ortsverbaende/05/das-70cm-relais-dboesx/)** QRV sein.
+
+## Bayern (München)
+
+Eine Gruppe aus Bayern trifft sich vorraussichtlich **ab 13 Uhr** in [DE-0286 Königlicher Hirschgarten](https://pota.app/#/park/DE-0286) in München.
+Treffpunkt ist in der [südöstlichen Ecke](https://www.openstreetmap.org/?mlat=48.147559&mlon=11.516000#map=19/48.147559/11.516000).
+
+Verpflegung: wenn jeder etwas mitbringt eigentlich genug für alle da.
+Egal ob Glühwein Punsch, Tee oder Kaffee ein paar Kekse sollten reichen um eine schöne Zeit zu haben.
+
+Sollte das Wetter total kippen wird eventuell auf Pasing DE-0777 ausgewichen.
+
