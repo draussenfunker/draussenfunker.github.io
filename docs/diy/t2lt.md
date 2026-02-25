@@ -4,7 +4,7 @@ description: Eine portable 2m und 70cm T2LT Antenne für kleines Geld - selbstge
 head:
   - - meta
     - property: og:image
-      content: https://draussenfunker.github.io/images/diy/teleskop-viertelwellen-vertical/action-shot-stadpark.jpeg
+      content: https://draussenfunker.github.io/images/diy/t2lt/t2lt-fertig-gebaut.jpg
 ---
 
 # T2LT Antenne für 2m und 70cm
@@ -16,27 +16,27 @@ Sehr einfach zu bauen, perfekt für Einsteiger.
 
 ## Bauteile
 
-Die Antenne besteht im Wesentlichen aus einem einfachem RG-174 Kabel mit einer gewickelten Spule.
+Die Antenne besteht im Wesentlichen aus einem einfachem RG-174 Koax-Kabel mit einer gewickelten Spule.
 
-![Bauteile](/images/diy/t2lt/t2lt-bauteile.jpg)
+![Bauteile](/images/diy/t2lt/t2lt-bauteile.jpeg)
 
-- 6 m an RG-174 Kabel 
-- ca. 5 cm an PVC oder HDPE-Rohr mit einer Dicke von XY als Spulenkörper
+- 6 m an RG-174 Koax-Kabel
+- ca. 5 cm an PVC oder HDPE-Rohr mit einem Gesamtdurchmesser von 25 mm als Spulenkörper
 - ca. 7 cm an großem Schrumpfschlau, der das Rohr + die Wicklungen überdecken kann
 - 1 m dünne Schnur (hierbei empfehlen wir eine gut sichtbare Farbe zu wählen, Stichwort "high visibility")
 - ca. 90 cm an dünnen Schrumpfschlau der über das Kabel + Schnur passt
-- BNC-Stecker zum ancrimpen an das Kabel (oder anderer gewünschter Stecker)
+- BNC-Stecker passend zum Kabeldurchmesser zum ancrimpen (oder anderer gewünschter Stecker)
 - Klett-Kabelbinder
 
 ## Werkzeug
 
-![Werkzeuge](/images/diy/t2lt/t2lt-werkzeuge.jpg)
+![Werkzeuge](/images/diy/t2lt/t2lt-werkzeuge.jpeg)
 
 - Abisolierzange
 - BNC-Crimpzange
 - Bohrer 3 mm
 - Seitenschneider oder Kabelschere
-- Lineal, Maßband oder Zollstock
+- Maßband oder Zollstock
 - Heißluftgebläse oder Föhn
 - Stift
 - ggf. Sekundenkleber
@@ -52,12 +52,19 @@ Ziel ist es die folgende Konstruktion herzustellen:
 Wir fangen damit an den BNC-Stecker an einer Seite des Kabels anzubringen
 Dafür etwas vom Ende des Kabels abisolieren und dann den Stecker ancrimpen
 
-![Foto BNC-Stecker Anbringung](/images/diy/t2lt/t2lt-bnc-stecker.jpg)
+![Foto BNC-Stecker Anbringung](/images/diy/t2lt/t2lt-bnc-stecker.jpeg)
 
 ### Spule vorbereiten & wickeln
 
 Danach 5 m auf dem Kabel abmessen und markieren
 Drei Löcher in Spule bohren, zwei jeweils mittig auf der Spule jeweils links und rechts mit ca. 30mm Abstand voneinander
+
+::: tip Tipp
+Testweise vor den Bohrungen das Kabel aufzuwickeln und messen wie breit auseinander die Löcher bei euch sein müssen für die 9 Wicklungen.
+Je nachdem wie dick euer Koax-Kabel ist braucht ihr mehr als die 27 mm Abstand.
+Hier bei dem Beispiel waren z. B. 30 mm benötigt.
+:::
+
 Das dritte Loch kommt auf die rechte Seite etwas unter dem bereit gebohrten
 
 ![Foto Spule mit Bohrungen](/images/diy/t2lt/t2lt-spule-bohrungen.jpg)
