@@ -49,6 +49,7 @@ module.exports = {
         children: [
           "/diy/teleskop-viertelwellen-vertical",
           "/diy/efhw",
+          "/diy/t2lt",
           "/diy/portabelrucksack",
           "/diy/mic-splitter-ft-891",
         ],
