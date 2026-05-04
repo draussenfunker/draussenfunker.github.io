@@ -244,7 +244,6 @@ Wurde die richtige Länge des Drahtes ermittelt, wird der Karabiner am Antennen-
 
 ## Koax-Kabel mit eingebauter Mantelwellensperre
 
-
 ::: tip
 Der Aufbau ist einfacher, wenn man zunächst die Mantelwellensperre wickelt und dann die PL-Stecker crimpt. Der große Kern ermöglicht aber auch die hier gezeigte Aufbau-Variante mit bereits gecrimpten Steckern.
 :::
@@ -314,7 +313,7 @@ PL-Stecker crimpen.
 
 ### Aufbau Mantelwellensperre
 
-Zunächst ca. 2 m ablängen und markieren:
+Zunächst ca. 3 m ablängen und markieren:
 
 ![Choke buildprocess](/images/diy/efhw/efhw-kit_choke_01.jpg)
 
@@ -324,7 +323,7 @@ Das kurze Ende des Kabels wie gezeigt bis zur Markierung durch den Ringkern zieh
 ![Choke buildprocess](/images/diy/efhw/efhw-kit_choke_02.jpg)
 
 
-Das Kabel vier weitere Windungen um den Kern wickeln:
+Das kurze Ende des Kabels vier Windungen um den Kern wickeln:
 
 ![Choke buildprocess](/images/diy/efhw/efhw-kit_choke_03.jpg)
 
@@ -358,7 +357,7 @@ Fertige Mantelwellensperre mit Schrumpfschlauch zum zusätzlichen Schutz des Rin
 
 ![Choke buildprocess](/images/diy/efhw/efhw-kit_choke_09.jpg)
 
-
+Die im Koax-Kabel RG-58 integrierte Mantelwellensperre benötigt für die Wicklungen circa einen Meter der Gesamtlänge des Kabels. Die nutzbare Kabellänge reduziert sich deshalb um einen Meter und die Mantelwellensperre befindet sich circa zwei Meter vom kürzeren Kabelende entfernt.
 
 ## Montagekit und Wurfgewicht
 
