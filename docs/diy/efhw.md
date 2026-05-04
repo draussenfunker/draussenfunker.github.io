@@ -244,8 +244,6 @@ Wurde die richtige Länge des Drahtes ermittelt, wird der Karabiner am Antennen-
 
 ## Koax-Kabel mit eingebauter Mantelwellensperre
 
-Das Koax-Kabel
-
 ::: tip
 Der Aufbau ist einfacher, wenn man zunächst die Mantelwellensperre wickelt und dann die PL-Stecker crimpt. Der große Kern ermöglicht aber auch die hier gezeigte Aufbau-Variante mit bereits gecrimpten Steckern.
 :::
@@ -347,7 +345,7 @@ Alle Windungungen gleichmäßig verteilen und das Ende mit zwei Kabelbindern fix
 
 Den Schrumpfschlauch über Kabel und Kern ziehen. Den Kern mittig im Schrumpfschlauch platzieren und über einer hitzefesten Unterlage mit dem Heißluftfön schrumpfen. 
 
-Die im Koax-Kabel RG-58 integrierte Mantelwellensperre benötigt für die Wicklungen circa einen Meter der Gesamtlänge des Kabels. Das zwölf Meter lange Kabel hat dann eine verwendbare Länge von elf Meter. Wobei sich die Mantelwellensperre zwei Meter vom einen Kabelende und neun Meter vom anderen Kabelende entfernt befindet.
+Die im Koax-Kabel RG-58 integrierte Mantelwellensperre benötigt für die Wicklungen circa einen Meter der Gesamtlänge des Kabels. Die nutzbare Kabellänge reduziert sich deshalb um einen Meter und die Mantelwellensperre befindet sich circa zwei Meter vom kürzeren Kabelende entfernt.
 
 ::: tip Auch dem Koax wird warm
 Beim Einsatz des Heißluftföns darauf achten, dass der Mantel des Kabels nicht zu heiß wird und schmilzt. Das Kabel kann recht gut mit einem Stück Blech, einem Spachtel oder gefalteter Alufolie vor der Hitze abgeschirmt werden. Vorsicht: das eingesetzte Metall wird heiß!
