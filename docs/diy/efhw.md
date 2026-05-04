@@ -343,9 +343,7 @@ Alle Windungungen gleichmäßig verteilen und das Ende mit zwei Kabelbindern fix
 ![Choke buildprocess](/images/diy/efhw/efhw-kit_choke_06.jpg)
 
 
-Den Schrumpfschlauch über Kabel und Kern ziehen. Den Kern mittig im Schrumpfschlauch platzieren und über einer hitzefesten Unterlage mit dem Heißluftfön schrumpfen. 
-
-Die im Koax-Kabel RG-58 integrierte Mantelwellensperre benötigt für die Wicklungen circa einen Meter der Gesamtlänge des Kabels. Die nutzbare Kabellänge reduziert sich deshalb um einen Meter und die Mantelwellensperre befindet sich circa zwei Meter vom kürzeren Kabelende entfernt.
+Den Schrumpfschlauch über Kabel und Kern ziehen. Den Kern mittig im Schrumpfschlauch platzieren und über einer hitzefesten Unterlage mit dem Heißluftfön schrumpfen.
 
 ::: tip Auch dem Koax wird warm
 Beim Einsatz des Heißluftföns darauf achten, dass der Mantel des Kabels nicht zu heiß wird und schmilzt. Das Kabel kann recht gut mit einem Stück Blech, einem Spachtel oder gefalteter Alufolie vor der Hitze abgeschirmt werden. Vorsicht: das eingesetzte Metall wird heiß!
@@ -359,7 +357,7 @@ Fertige Mantelwellensperre mit Schrumpfschlauch zum zusätzlichen Schutz des Rin
 
 ![Choke buildprocess](/images/diy/efhw/efhw-kit_choke_09.jpg)
 
-
+Die im Koax-Kabel RG-58 integrierte Mantelwellensperre benötigt für die Wicklungen circa einen Meter der Gesamtlänge des Kabels. Die nutzbare Kabellänge reduziert sich deshalb um einen Meter und die Mantelwellensperre befindet sich circa zwei Meter vom kürzeren Kabelende entfernt.
 
 ## Montagekit und Wurfgewicht
 
