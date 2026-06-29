@@ -10,7 +10,7 @@ features:
 ---
 # Support Your Parks Weekend Sommer 2026
 
-Am dritten vollem Wochenende im Juli findet das Support Your Parks Weekend des Sommer 2026 statt! Wie immer sind alle aufgerufen, dezentral etwas auf die Beine zu stellen. Folgende Veranstaltungsorte wurden im Discord bestätigt.
+Am dritten vollem Wochenende im Juli findet das Support Your Parks Weekend des Sommer 2026 statt! Wie immer sind alle aufgerufen, dezentral etwas auf die Beine zu stellen.
 
 ## München
 
