@@ -1,7 +1,7 @@
 ---
 title: Support Your Parks Weekend Sommer 2026
 description: 
-    Am dritten vollem Wochenende im Juli findet das Support Your Parks Weekend statt.
+    Am dritten vollen Wochenende im Juli findet das Support Your Parks Weekend statt.
 type: activity
 image: /aktivitaeten/SYP-Spring-2024/DO3OI_4.jpg
 features:
