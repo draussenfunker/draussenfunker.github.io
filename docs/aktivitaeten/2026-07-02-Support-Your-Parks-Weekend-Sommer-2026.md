@@ -3,15 +3,14 @@ title: Support Your Parks Weekend Sommer 2026
 description: 
     Am dritten vollem Wochenende im Juli findet das Support Your Parks Weekend statt.
 type: activity
-image: /aktivitaeten/Fruehlingsfest-2024/H_1.jpg
+image: /aktivitaeten/SYP-Spring-2024/DO3OI_4.jpg
 features:
  - POTA
  - Draussenfunker
- - Frühlingsfest
 ---
 # Support Your Parks Weekend Sommer 2026
 
-Am dritten vollem Wochenende im Juli findet das Support Your Parks Weekend des Sommer 2026 statt! Wie immer sind alle aufgerufen, dezentral etwas auf die Beine zu stellen. Folgende Veranstaltungsorte wurde im Discord bestätigt.
+Am dritten vollem Wochenende im Juli findet das Support Your Parks Weekend des Sommer 2026 statt! Wie immer sind alle aufgerufen, dezentral etwas auf die Beine zu stellen. Folgende Veranstaltungsorte wurden im Discord bestätigt.
 
 ## München
 
