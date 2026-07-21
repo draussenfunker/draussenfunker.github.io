@@ -42,7 +42,6 @@ Und hier noch einige abschließende Impressionen zum Draussenfunkertreffen.
 ![](/aktivitaeten/2026-07-19-Munich-Support-Your-Parks/IMG-20260719-WA0018.jpg)
 ![](/aktivitaeten/2026-07-19-Munich-Support-Your-Parks/IMG-20260719-WA0019.jpg)
 ![](/aktivitaeten/2026-07-19-Munich-Support-Your-Parks/IMG-20260719-WA0020.jpg)
-![](/aktivitaeten/2026-07-19-Munich-Support-Your-Parks/IMG-20260719-WA0020.jpg)
 ![](/aktivitaeten/2026-07-19-Munich-Support-Your-Parks/IMG-20260719-WA0021.jpg)
 ![](/aktivitaeten/2026-07-19-Munich-Support-Your-Parks/IMG-20260719-WA0022.jpg)
 ![](/aktivitaeten/2026-07-19-Munich-Support-Your-Parks/IMG-20260719-WA0023.jpg)
