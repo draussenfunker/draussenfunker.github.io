@@ -27,7 +27,7 @@ Ein Gruppenfoto mit einem Teil der Teilnehmer (v.l.n.r Wolfgang DL1MIE, Frank DG
 
 ![](/aktivitaeten/2026-07-19-Munich-Support-Your-Parks/Gruppenfoto1.jpg)
 
-Ein weiteres Gruppenfoto mit leicht veränderter Personenkonstellation um auch den Fotografen des vorherigen Schnappschusses auf das Bild zu bekommen (v.l.n.r Max DH1MFS, Wolfgang DL1MIE, Frank DG0WOL, Rosi DG5YL, Markus DG6LP, Julian DD4JS, Reinhard DC1YY, Ingolf DL2HIR). Auch hier war wieder ein Teil der Funkamateure dem Funkfieber (tm) verfallen und haben das Fotoshooting nicht mitbekommen.
+Ein weiteres Gruppenfoto mit leicht veränderter Personenkonstellation um auch den Fotografen des vorherigen Schnappschusses auf das Bild zu bekommen (v.l.n.r Max DH1MFS, Wolfgang DL1MIE, Frank DG0WOL, Rosi DG5YL, Markus DG6LP, Julian DD4JS, Reinhard DC1YY, Ingolf DL2HIR). Auch hier war wieder ein Teil der Funkamateure dem Funkfieber (tm) verfallen und haben das Fotoshooting verpasst.
 
 ![](/aktivitaeten/2026-07-19-Munich-Support-Your-Parks/Gruppenfoto2.jpg)
 
