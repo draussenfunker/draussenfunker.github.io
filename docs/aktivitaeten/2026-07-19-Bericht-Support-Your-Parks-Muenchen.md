@@ -55,3 +55,4 @@ Und hier noch einige abschließende Impressionen zum Draussenfunkertreffen.
 ![](/aktivitaeten/2026-07-19-Munich-Support-Your-Parks/IMG-20260719-WA0031.jpg)
 ![](/aktivitaeten/2026-07-19-Munich-Support-Your-Parks/IMG-20260719-WA0032.jpg)
 ![](/aktivitaeten/2026-07-19-Munich-Support-Your-Parks/IMG-20260719-WA0036.jpg)
+![](/aktivitaeten/2026-07-19-Munich-Support-Your-Parks/Screenshot_potaapp.jpg)
