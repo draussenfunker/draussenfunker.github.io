@@ -1,23 +1,31 @@
 const { defaultTheme } = require("@vuepress/theme-default");
-const { socialSharePlugin } = require(`vuepress-plugin-social-share`);
+const { socialSharePlugin } = require("vuepress-plugin-social-share");
 const {
   registerComponentsPlugin,
 } = require("@vuepress/plugin-register-components");
 const { path } = require("@vuepress/utils");
 const { usePagesPlugin } = require("vuepress-plugin-use-pages");
 
+const socialShare = socialSharePlugin();
+
+if (typeof socialShare.clientConfigFile === "string") {
+  socialShare.clientConfigFile = socialShare.clientConfigFile.replace(/\\/g, "/");
+}
+
 module.exports = {
   lang: "de-DE",
   title: "Draussenfunker.de | QRV im Grünen",
   description:
     "Wir sind eine Gruppe von Funkamateuren, die sich mit dem Thema Funken im Freien beschäftigt.",
+
   plugins: [
     usePagesPlugin({ startsWith: "/aktivitaeten/" }),
-    socialSharePlugin(),
+    socialShare,
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, "./components"),
     }),
   ],
+
   theme: defaultTheme({
     sidebarDepth: 2,
     contributors: false,
@@ -26,8 +34,8 @@ module.exports = {
     notFound: ["Sorry, etwas ist schief gelaufen."],
     backToHome: "Zurück zur Startseite",
     lastUpdatedText: "Aktualisiert am",
+
     navbar: [
-      // NavbarItem
       {
         text: "Start",
         link: "/",
