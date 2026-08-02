@@ -104,11 +104,6 @@ Und immer wieder sagte ich mir:" Was für ein g....s Hobby "
 ![Bilder des Monats](/aktivitaeten/BDM-2026-07/28_07-2026.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2026-07/29_07-2026.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2026-07/30_07-2026.jpg)
-
----
-
-
-
 ![Bilder des Monats](/aktivitaeten/BDM-2026-07/31_07-2026.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2026-07/32_07-2026.jpg)
 
@@ -170,7 +165,15 @@ Die Highlights neben der schönen Location waren die Kontakte nach Luxemburg und
 
 ---
 
-DN9GU, Andreas und ich DA6MAX, Max sind heute in den Taunus, für einen 4fer. Als Spot hatten wir uns den Alteburger Markt ausgesucht, der mit einem großen Parkplatz und einer gemütlichen Bank-Tisch-Kombination mitten in einer Streuobstwiese ideal gelegen ist. Ein großes Dankeschön geht hier direkt an @DB4SNK – Tomas (Sp/db4snk)  für die hervorragende Empfehlung dieses Spots!
+DN9GU, Andreas und ich DA6MAX, Max sind heute in den Taunus, für einen 4fer. Als Spot hatten wir uns den Alteburger Markt ausgesucht, der mit einem großen Parkplatz und einer gemütlichen Bank-Tisch-Kombination mitten in einer Streuobstwiese ideal gelegen ist. Ein großes Dankeschön geht hier direkt an DB4SNK, Tomas für die hervorragende Empfehlung dieses Spots!
+
+Bei absolutem Kaiserwetter haben wir uns dort niedergelassen und unsere Stationen aufgebaut. Als Antennen kamen eine 1/4-Lambda-Vertical sowie ein vertikaler Dipol zum Einsatz. Andreas schlug mir dann vor, einfach mal auf 15 Meter anzufangen – und was dann passierte, habe ich so noch nicht erlebt: Ich hatte sofort einen konstanten Pileup in SSB! Wo man sonst manchmal zäh um jedes einzelne QSO kämpfen muss, durfte ich heute im „kalten Wasser“ lernen, wie man einen richtigen Pileup managt. Es war eine wirklich geniale Erfahrung! Neben Verbindungen quer durch ganz Europa wanderte sogar ein DX-QSO rüber in die USA nach Massachusetts ins Log.
+
+Andreas war ebenfalls super erfolgreich. Er ging auf 10 Meter aktiv und konnte dort sein allererstes POTA QSO außerhalb Deutschlands auf diesem Band feiern – herzlichen Glückwunsch an dieser Stelle für die Verbindung nach UK sowie den tollen Park-to-Park (P2P) nach Österreich! Auf FT8 lief es bei ihm danach auch richtig rund, während bei mir auf 15 Meter in Digimodes kaum was ging – immer wieder spannend zu sehen, wie unterschiedlich die Bänder und Betriebsarten reagieren.
+
+Insgesamt war das eine rundum gelungene Aktion an einer fantastischen Location, die wir wirklich jedem Draußenfunker nur wärmstens empfehlen können. Insgesamt konnte Max 34 QSOs mit 22 DXCC-Entities ins Log eintragen und damit die vier Referenzen DE-0035, DE-0558, DE-0941 und DE-1197 erfolgreich aktivieren.
+
+Ein dickes Dankeschön geht zum Schluss noch an unseren treuen Kai, DA6XJ, der uns immer wieder fleißig mit seinen QSOs bei den Aktivierungen unterstützt!
 
 ![Bilder des Monats](/aktivitaeten/BDM-2026-07/61_07-2026.jpg)
 ![Bilder des Monats](/aktivitaeten/BDM-2026-07/62_07-2026.jpg)
