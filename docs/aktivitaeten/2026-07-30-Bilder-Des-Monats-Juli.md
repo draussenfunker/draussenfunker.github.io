@@ -3,7 +3,7 @@ title: Bilder des Monats Juli 2026
 description:
     Bilder des Monats Juli aus unserer Community im Discord.
 type: activity
-image: /aktivitaeten/BDM-2026-07/_07-2026.jpg
+image: /aktivitaeten/BDM-2026-07/64_07-2026.jpg
 features:
     - FOTOS
 ---
