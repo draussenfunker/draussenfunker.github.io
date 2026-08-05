@@ -29,7 +29,7 @@ description: Hier findet ihr eine Sammlung von wichtigen / interessanten Links. 
 - [APRS](https://aprs.fi/): Eine Live APRS Karte im Browser
 - [Meshtastic](https://meshtastic.org/): Open-Source Projekt für ein dezentralisiertes Kommunikationsnetzwerk aus günstigen Geräten mit geringem Stromverbrauch (lizenzfrei nutzbar)
 - [Meshmap](https://meshmap.net/): Eine "fast" Live-Karte der Meshtastic-Knoten, die vom offiziellen Meshtastic MQTT-Server gesehen werden
-- [portable-antennas.com](https://portable-antennas.com/): Ein einfach zu benutzendes Tool für die Simulation von verschiedenen Antennen
+- [portable-antennas.com](https://portable-antennas.com/): Eine einfach zu benutzende Internetseite zur Simulation von verschiedenen Antennen
 
 ## DMR
 
