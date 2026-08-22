@@ -22,7 +22,7 @@ Tomas (DB4SNK) hatte die Location empfohlen – und er hatte nicht zu viel versp
 
 ## Die Crew ist da – von Dreieich bis in den Taunus
 
-Insgesamt **9 OPs** aus ganz Hessen hatten sich auf den Weg gemacht – von Miltenberg (lassen wir noch als Hessen gelten) über die Wetterau, Mittelhessen bis in den Taunus. Wer sagt, Funkamateure kämen nicht aus dem Haus?
+Insgesamt **8 OPs** aus ganz Hessen hatten sich auf den Weg gemacht – von Miltenberg (lassen wir noch als Hessen gelten) über die Wetterau, Mittelhessen bis in den Taunus. Wer sagt, Funkamateure kämen nicht aus dem Haus?
 
 **Anwesende OPs:**
 - **DA6XJ** – Kai
