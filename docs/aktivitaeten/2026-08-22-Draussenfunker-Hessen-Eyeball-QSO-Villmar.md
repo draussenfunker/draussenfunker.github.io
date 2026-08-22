@@ -1,7 +1,7 @@
 ---
 title: Erbarme – zu spät! Die Draussenfunker Hessen kommen!
 date: 2026-08-22
-description: Neun OPs aus ganz Hessen trafen sich zum ersten Draussenfunker Eyeball QSO in Villmar – mit offenem 10m-Band, spontanem Regen-Drama und Würstchen vom Grill. Ein Rückblick voller Antennen, Anekdoten und guter Laune.
+description: Acht OPs aus ganz Hessen trafen sich zum ersten Draussenfunker Eyeball QSO in Villmar – mit offenem 10m-Band, spontanem Regen-Drama und Würstchen vom Grill. Ein Rückblick voller Antennen, Anekdoten und guter Laune.
 image: /aktivitaeten/Eyeball-QSO-Villmar-2026-08-22/07-gruppenfoto.jpg
 type: activity
 features:
