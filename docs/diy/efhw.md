@@ -26,7 +26,7 @@ Bei fast allen Komponenten kann auf andere Bauteile ausgewichen werden. Diese An
 ![UnUn Parts](/images/diy/efhw/efhw-kit-2023_parts.jpg)
 
 - FT 140-43 Ringkern
-- 100 pF Kondensator (TDK CC45SL3FD101JYGNA)
+- 100 pF Kondensator mit Güte Q 1000 und Nennspannung 3kV (TDK CC45SL3FD101JYGNA; Alternativ TDK CC45SL3FD101JYNNA mit kürzeren Beinchen oder TDK CC45SL3FD101JYVNA auf Papierband)
 - 1,5 m Kuperlackdraht 0,75 mm
 - 3x Kabelschuhe M4 1,5 mm²
 - Gehäuse
