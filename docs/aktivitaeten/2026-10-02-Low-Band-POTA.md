@@ -1,8 +1,23 @@
+---
+title: Low-Band-POTA in München am 02.10.2026
+description:
+    Einige Münchner Funkamateure sind dem Aufruf zur spätabendlichen Low-Band-POTA-Aktivierung im Draußenfunker-Discord gefolgt und haben sich im POTA-Park Hachinger Tal getroffen.
+type: activity
+image: /aktivitaeten/BDM-2024-10/15_10-2024.jpg
+features:
+ - POTA
+ - Draussenfunker
+ - 160 Meter
+ - 80 Meter
+---
+
+# Low-Band-POTA in München am 02.10.2026
+
 Am 02.10.2026 haben sich um 18:30 Uhr Ortszeit im POTA-Park [DE-0546](https://pota.app/#/park/DE-0546) Hachinger Tal DG5YL, DG6LP, DL1MIE, DG0WOL, DH1MFS und DB7GKA zur spätabendlichen Low-Band-POTA-Aktivierung eingefunden.
 
 ![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Gaestebuch_LBP.jpg)
 
-Zuerst wurde der Dipol mit jeweils 40 Meter Draht vom Typ "DX Wire UL" aufgebaut und an einem 12 Meter langen Spiderbeam-GFK-Mast als Inverted-V abgespannt. 
+Zuerst wurde der Dipol mit zweimal 40 Meter Draht vom Typ "DX Wire UL" aufgebaut und an einem 12 Meter langen Spiderbeam-GFK-Mast als Inverted-V abgespannt. 
 Dieser leichtgewichtige Draht war dringend erforderlich, da sich der GFK-Mast auch mit diesem Draht bereits ordentlich gebogen hat. 
 Die effektive Aufbauhöhe des Dipolspeisepunktes befand dann ungefähr 11 Meter über Grund. 
 Da für die Speisung des Dipols nur ein 1:1-Spannungsbalun und keine dedizierte Mantelwellensperre zur Verfügung stand, wurde zum Erreichen einer zumindest minimalen Sperrwirkung das Koaxkabel vor dem TRX bzw. vor dem Tuner frei aufgewickelt. 
@@ -18,10 +33,10 @@ Auf dem 80-Meter-Band war ein eher moderates QRM von S3 bis S4 vorhanden.
 Als es nach dem einstündigen Aufbau bereits dunkel wurde, haben DG5YL und DG6LP sogleich mit den ersten CQ-Rufen auf 160 Meter angefangen. 
 Wegen der sehr geringen Resonanz auf die CQ-POTA-Rufe und dem sehr hohen QRM-Level wurde dann auf das 80-Meter-Band gewechselt. 
 Hier hat sich das QRM in Grenzen gehalten und durch die höhere Anzahl an POTA-Chaser ist die Aktivierung auch gleich geschmeidiger über die Bühne gegangen. 
-Ein besonderes Highlight waren die Park-To-Park-QSOs mit anderen Draussenfunkern, die ebenfalls eine zeitgleiche Low-Band-POTA-Aktivierung veranstaltet haben. 
+Ein besonderes Highlight waren die Park-To-Park-QSOs mit anderen Draußenfunkern, die ebenfalls eine zeitgleiche Low-Band-POTA-Aktivierung veranstaltet haben. 
 Hier wurde dann zwischen allen anwesenden YLs und OMs das Mikrofon durchgereicht, um der Gegenseite gleich mehrere Park-To-Park-QSOs mit unterschiedlichen Operatoren zu bescheren. 
 Die ersten Multi-OP-Park-To-Park-QSOs wurden mit DA2PK geführt, der die Referenz [DE-0830](https://pota.app/#/park/DE-0830) "Ruhrtal-Radweg National Historic Trail" ebenfalls auf 80 Meter aktiviert hat. 
-Die zweite Runde an Multi-OP-Park-To-Park-QSOs hat dann mit DO1EDK, DK5CH, DD1KC, DO6MKG sowie DO1CS in [DE-0314](https://pota.app/#/park/DE-0314) "Hohenstein Recreation Park" stattgefunden. 
+Die zweite Runde an Multi-OP-Park-To-Park-QSOs hat dann mit DO1EDK, DK5CH, DD1KC sowie DO6MKG in [DE-0314](https://pota.app/#/park/DE-0314) "Hohenstein Recreation Park" stattgefunden. 
 Hier hat dann jeder Operator des einen Parks alle Operatoren des anderen Parks gearbeitet, was dann zur entsprechenden Anzahl an Park-To-Park-QSOs geführt hat.
 
 ![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Aktivtaet_1.jpg)
