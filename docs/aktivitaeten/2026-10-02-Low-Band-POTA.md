@@ -1,6 +1,6 @@
 Am 02.10.2026 haben sich um 18:30 Uhr Ortszeit im POTA-Park [DE-0546](https://pota.app/#/park/DE-0546) Hachinger Tal DG5YL, DG6LP, DL1MIE, DG0WOL, DH1MFS und DB7GKA zur spätabendlichen Low-Band-POTA-Aktivierung eingefunden.
 
-> Hier Bilder des Gästebuchs.
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Gaestebuch_LBP.jpg)
 
 Zuerst wurde der Dipol mit jeweils 40 Meter Draht vom Typ "DX Wire UL" aufgebaut und an einem 12 Meter langen Spiderbeam-GFK-Mast als Inverted-V abgespannt. 
 Dieser leichtgewichtige Draht war dringend erforderlich, da sich der GFK-Mast auch mit diesem Draht bereits ordentlich gebogen hat. 
@@ -24,13 +24,25 @@ Die ersten Multi-OP-Park-To-Park-QSOs wurden mit DA2PK geführt, der die Referen
 Die zweite Runde an Multi-OP-Park-To-Park-QSOs hat dann mit DO1EDK, DK5CH, DD1KC, DO6MKG sowie DO1CS in [DE-0314](https://pota.app/#/park/DE-0314) "Hohenstein Recreation Park" stattgefunden. 
 Hier hat dann jeder Operator des einen Parks alle Operatoren des anderen Parks gearbeitet, was dann zur entsprechenden Anzahl an Park-To-Park-QSOs geführt hat.
 
-> Hier Bilder der Aktivierung
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Aktivtaet_1.jpg)
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Aktivtaet_2.jpg)
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Aktivtaet_3.jpg)
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Aktivtaet_4.jpg)
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Aktivtaet_5.jpg)
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Aktivtaet_6.jpg)
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Aktivtaet_7.jpg)
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Aktivtaet_8.jpg)
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Aktivtaet_9.jpg)
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Aktivtaet_10.jpg)
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Aktivtaet_11.jpg)
 
 Am Nachmittag vor der abendlichen Low-Band-Aktivität wurde der als Inverted-V aufzubauende Dipol über die Webseite [portable-antennas.com](https://portable-antennas.com/linkd.php) simuliert, um einen Eindruck über die Strahlungscharakteristik der Antenne zu erhalten. 
 Die durch die Simulation entstandenen Strahlungsdiagramme zeigten sehr schön, dass die Antenne aufgrund der geringen Aufbauhöhe eine ziemlich ausgeprägte Steilstrahlung für NVIS-Ausbreitung erzeugen wird. 
 Dies hat sich dann bei der Aktivierung auch bestätigt, da nahezu ausschließlich mitteleuropäische Funkamateure auf die CQ-Rufe geantwortet haben. 
 
-> Hier bilder der Antennensimulation.
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Settings_Dipol_160m.jpg)
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Strahlungsdiagramm_Dipol_160m.jpg)
+![](/aktivitaeten/Low_Band_POTA_Munich_20261002/Strahlungsdiagramm_3D_Dipol_160m.jpg)
 
 Die gemeinschaftliche Low-Band-POTA-Aktivität mitsamt dem dazugehörigen Aufbau, Abbau und dem obligatorischen Fachsimpeln hat sehr viel Spaß gemacht. 
 Es hat sich auch gezeigt, dass der Aufbau eines Full-Size-Dipols für das 160-Meter-Band doch eine andere Hausnummer darstellt, als der Aufbau einer Antenne für die meistgenutzten POTA-Bänder von 10 bis 40 Meter.
