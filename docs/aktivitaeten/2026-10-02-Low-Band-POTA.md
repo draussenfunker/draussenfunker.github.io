@@ -1,4 +1,4 @@
-Am 02.10.2026 haben sich um 18:30 Uhr Ortszeit im POTA-Park DE-0546 Hachinger Tal DG5YL, DG6LP, DL1MIE, DG0WOL, DH1MFS und DB7GKA zur spätabendlichen Low-Band-POTA-Aktivierung eingefunden.
+Am 02.10.2026 haben sich um 18:30 Uhr Ortszeit im POTA-Park [DE-0546](https://pota.app/#/park/DE-0546) Hachinger Tal DG5YL, DG6LP, DL1MIE, DG0WOL, DH1MFS und DB7GKA zur spätabendlichen Low-Band-POTA-Aktivierung eingefunden.
 
 > Hier Bilder des Gästebuchs.
 
@@ -20,8 +20,8 @@ Wegen der sehr geringen Resonanz auf die CQ-POTA-Rufe und dem sehr hohen QRM-Lev
 Hier hat sich das QRM in Grenzen gehalten und durch die höhere Anzahl an POTA-Chaser ist die Aktivierung auch gleich geschmeidiger über die Bühne gegangen. 
 Ein besonderes Highlight waren die Park-To-Park-QSOs mit anderen Draussenfunkern, die ebenfalls eine zeitgleiche Low-Band-POTA-Aktivierung veranstaltet haben. 
 Hier wurde dann zwischen allen anwesenden YLs und OMs das Mikrofon durchgereicht, um der Gegenseite gleich mehrere Park-To-Park-QSOs mit unterschiedlichen Operatoren zu bescheren. 
-Die ersten Multi-OP-Park-To-Park-QSOs wurden mit DA2PK geführt, der die Referenz DE-0830 "Ruhrtal-Radweg National Historic Trail" ebenfalls auf 80 Meter aktiviert hat. 
-Die zweite Runde an Multi-OP-Park-To-Park-QSOs hat dann mit DO1EDK, DK5CH, DD1KC, DO6MKG sowie DO1CS in DE-0314 "Hohenstein Recreation Park" stattgefunden. 
+Die ersten Multi-OP-Park-To-Park-QSOs wurden mit DA2PK geführt, der die Referenz [DE-0830](https://pota.app/#/park/DE-0830) "Ruhrtal-Radweg National Historic Trail" ebenfalls auf 80 Meter aktiviert hat. 
+Die zweite Runde an Multi-OP-Park-To-Park-QSOs hat dann mit DO1EDK, DK5CH, DD1KC, DO6MKG sowie DO1CS in [DE-0314](https://pota.app/#/park/DE-0314) "Hohenstein Recreation Park" stattgefunden. 
 Hier hat dann jeder Operator des einen Parks alle Operatoren des anderen Parks gearbeitet, was dann zur entsprechenden Anzahl an Park-To-Park-QSOs geführt hat.
 
 > Hier Bilder der Aktivierung
