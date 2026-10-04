@@ -19,7 +19,7 @@ Am 02.10.2026 haben sich um 18:30 Uhr Ortszeit im POTA-Park [DE-0546](https://po
 
 Zuerst wurde der Dipol mit zweimal 40 Meter Draht vom Typ "DX Wire UL" aufgebaut und an einem 12 Meter langen Spiderbeam-GFK-Mast als Inverted-V abgespannt. 
 Dieser leichtgewichtige Draht war dringend erforderlich, da sich der GFK-Mast auch mit diesem Draht bereits ordentlich gebogen hat. 
-Die effektive Aufbauhöhe des Dipolspeisepunktes befand dann ungefähr 11 Meter über Grund. 
+Die effektive Aufbauhöhe des Dipolspeisepunktes befand sich dann ungefähr 11 Meter über Grund. 
 Da für die Speisung des Dipols nur ein 1:1-Spannungsbalun und keine dedizierte Mantelwellensperre zur Verfügung stand, wurde zum Erreichen einer zumindest minimalen Sperrwirkung das Koaxkabel vor dem TRX bzw. vor dem Tuner frei aufgewickelt. 
 Eine provisorische Mantelwellensperre als Koaxkabelwicklung direkt beim Spannungsbalun an der Spitze des GFK-Mastes war leider nicht möglich, da das zusätzliche Gewicht den Mast noch weiter belastet hätte.
 
