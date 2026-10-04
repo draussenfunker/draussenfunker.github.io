@@ -3,7 +3,7 @@ title: Low-Band-POTA in München am 02.10.2026
 description:
     Einige Münchner Funkamateure sind dem Aufruf zur spätabendlichen Low-Band-POTA-Aktivierung im Draußenfunker-Discord gefolgt und haben sich im POTA-Park Hachinger Tal getroffen.
 type: activity
-image: /aktivitaeten/BDM-2024-10/15_10-2024.jpg
+image: /aktivitaeten/Low_Band_POTA_Munich_20261002/Aktivtaet_3.jpg
 features:
  - POTA
  - Draussenfunker
