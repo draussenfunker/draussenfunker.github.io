@@ -34,7 +34,7 @@ Quarz! Das Mineral, ohne das in unseren Funkgeräten kaum etwas schwingt. Wir ha
 
 ## Das Empfangskomitee
 
-Am Wegesrand hielten zwei geschnitzte Waldgeister die Stellung, genau das richtige Empfangskomitee für Halloween. Der Troll sah aus, als hätte er gerade ein Pile-Up verpasst. Der Zauberer sah aus, als hätte er es verursacht. 🧙
+Am Wegesrand hielten zwei geschnitzte Waldgeister die Stellung, genau das richtige Empfangskomitee für Halloween. Der Troll sah aus, als hätte er gerade ein Pile-Up verpasst. Der Zauberer sah aus, als hätte er es verursacht. 
 
 ![Geschnitzter Troll im Herbstwald](/aktivitaeten/Eyeball-QSO-Eschbacher-Klippen-2026-10-31/03-waldgeist-troll.jpg)
 ![Geschnitzter Zauberer mit spitzem Hut](/aktivitaeten/Eyeball-QSO-Eschbacher-Klippen-2026-10-31/04-waldgeist-zauberer.jpg)
@@ -102,13 +102,13 @@ Süßes gab es reichlich: **Muffins** und **Halloween-Gummibärchen**. Dazu gab 
 
 ## Fazit: Ein Herbstnachmittag, der in Erinnerung bleibt
 
-Ein ganz toller Halloween-Nachmittag liegt hinter uns. Ein riesiges **Danke** an alle, die dabei waren, ob Draussenfunker aus dem Discord, Neuling, Veteran oder Wanderer, der stehen geblieben ist. Und ein ganz besonderes Dankeschön an **Martin (DH3FR)**: Er hat die Initiative gestartet, die Eschbacher Klippen als Location vorgeschlagen und sich heute auch noch um die heißen Würstchen gekümmert. Martin, du bist der Held des Tages! 🙌
+Ein ganz toller Halloween-Nachmittag liegt hinter uns. Ein riesiges **Danke** an alle, die dabei waren, ob Draussenfunker aus dem Discord, Neuling, Veteran oder Wanderer, der stehen geblieben ist. Und ein ganz besonderes Dankeschön an **Martin (DH3FR)**: Er hat die Initiative gestartet, die Eschbacher Klippen als Location vorgeschlagen und sich heute auch noch um die heißen Würstchen gekümmert. Martin, du bist der Held des Tages! 
 
 ![Gruppenbild der Draussenfunker Hessen an den Eschbacher Klippen](/aktivitaeten/Eyeball-QSO-Eschbacher-Klippen-2026-10-31/15-gruppenbild.jpg)
 
 Nach dem ersten Hessen-Treffen in Villmar war das nicht das letzte: **Im Frühjahr finden wir bestimmt schon die nächste Location**, um hier anzuknüpfen. Ortstipps nehmen wir gern im Discord entgegen.
 
-Süßes, Saures oder QSO? Wir nehmen alles, und zwar bald wieder. 🎃📻
+Süßes, Saures oder QSO? Wir nehmen alles, und zwar bald wieder. 
 
 ---
 
