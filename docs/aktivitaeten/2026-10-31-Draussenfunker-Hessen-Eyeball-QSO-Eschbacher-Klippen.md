@@ -94,7 +94,7 @@ Ab sofort gilt daher offiziell: Ein Draussenfunker-Pile-Up heißt **Draussenfunk
 
 ## Süßes, Saures oder QSO?
 
-Süßes gab es reichlich: **Muffins** und **Halloween-Gummibärchen**. Dazu gab es **heiße Würstchen**, um die sich **Martin (DH3FR)** gekümmert hat, serviert im Topf mit Windschutz auf dem Campingtisch, wie es sich für Draussenfunker gehört. Saures gab es nur, wenn jemand auf eine besetzte Frequenz gerufen hat.
+Süßes gab es reichlich: **Muffins** und **Halloween-Gummibärchen**. Dazu gab es **heiße Würstchen**, um die sich **Martin (DH3FR)** gekümmert hat, serviert im Topf mit Windschutz auf dem Campingtisch, wie es sich für Draussenfunker gehört. Saures gab es nur, wenn jemand auf einer besetzten Frequenz gerufen hat.
 
 ![Heiße Würstchen im Topf mit Windschutz](/aktivitaeten/Eyeball-QSO-Eschbacher-Klippen-2026-10-31/11-heisse-wuerstchen.jpg)
 
