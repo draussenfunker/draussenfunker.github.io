@@ -1,13 +1,13 @@
- --- 
- title: Süßes, Saures oder QSO? Halloween an den Eschbacher Klippen
- description: 
-     Mindestens 15 OPs, Antennen vom Magloop bis zum Draht, ein Draussenfunkerstau auf 40 m und heiße Würstchen vor Felskulisse – das 2. Draussenfunker Hessen Eyeball QSO an Halloween. 
- type: activity 
- image: /aktivitaeten/Eyeball-QSO-Eschbacher-Klippen-2026-10-31/15-gruppenbild.jpg
- features: 
-  - POTA 
-  - Draussenfunker
-  - Hessen
+--- 
+title: Süßes, Saures oder QSO? Halloween an den Eschbacher Klippen
+description: 
+    Mindestens 15 OPs, Antennen vom Magloop bis zum Draht, ein Draussenfunkerstau auf 40 m und heiße Würstchen vor Felskulisse – das 2. Draussenfunker Hessen Eyeball QSO an Halloween. 
+type: activity 
+image: /aktivitaeten/Eyeball-QSO-Eschbacher-Klippen-2026-10-31/15-gruppenbild.jpg
+features: 
+    - POTA 
+    - Draussenfunker
+    - Hessen
  --- 
 
 # Süßes, Saures oder QSO? Halloween an den Eschbacher Klippen
