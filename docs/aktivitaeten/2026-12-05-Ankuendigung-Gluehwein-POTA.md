@@ -1,7 +1,7 @@
 ---
 title: Glühwein-POTA am 05.12.2025
 description:
-    Am Ende des Jahres fand das traditionelle Glühwein-POTA statt.
+    Am Ende des Jahres findet wieder das traditionelle Glühwein-POTA statt.
 type: activity
 image: /aktivitaeten/Jahresrueckblick-2025-01-01/03.jpg
 features:
