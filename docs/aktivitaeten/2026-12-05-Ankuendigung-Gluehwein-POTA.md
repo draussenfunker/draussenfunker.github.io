@@ -28,3 +28,11 @@ Auch wenn es heiße Getränke gibt, denkt an warme Kleidung (Geheimtipp: lange T
 Mehr Infos auf unter "Aktivitäten" oder im Discord.
 
 73 Harm - DK4HAA und Ove - DK1BOU für die Draußenfunker
+
+## München
+
+Auch in München findet am 05.12.2026 um 11 Uhr eine gemeinsame Parks-On-The-Air-Aktivierung im Landschaftspark Hachinger Tal (POTA-Referenz [DE-0546](https://pota.app/park/DE-0546)) statt. Der Park liegt zwischen Neubiberg und Unterhaching auf dem Gelände des ehemaligen Militärflugplatzes, unmittelbar neben der Bundeswehruniversität. Als Treffpunkt dient der am westlichen Ende der Landebahn gelegene [Pavillon](https://umap.openstreetmap.de/de/map/anonymous-edit/169124:6vH9fpc70zv6X5VLGPPZceaTTZXxKVj9atbPjGC7lZA) beim Beachvolleyballplatz.
+
+Alle Interessierten am Portabelfunk, Amateurfunk und an POTA-Aktivierungen sind herzlich eingeladen, dabei zu sein. Gerne kann eigenes Funkequipment mitgebracht und vor Ort aufgebaut werden. Die weitläufigen Grünflächen und Hügel des Parks bieten ausreichend Platz für Antennen unterschiedlichster Bauart.
+
+Parkmöglichkeiten befinden sich unter anderem entlang der Straße „An der Hachinger Haid“. Auch mit öffentlichen Verkehrsmitteln ist der Treffpunkt gut erreichbar: Von der S-Bahn-Haltestelle „Unterhaching“ ist er bequem zu Fuß zu erreichen.
