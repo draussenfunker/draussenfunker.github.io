@@ -35,4 +35,6 @@ Auch in München findet am 05.12.2026 um 11 Uhr eine gemeinsame Parks-On-The-Air
 
 Alle Interessierten am Portabelfunk, Amateurfunk und an POTA-Aktivierungen sind herzlich eingeladen, dabei zu sein. Gerne kann eigenes Funkequipment mitgebracht und vor Ort aufgebaut werden. Die weitläufigen Grünflächen und Hügel des Parks bieten ausreichend Platz für Antennen unterschiedlichster Bauart.
 
+Damit auch von innen gewärmt wird und echtes Winterfeeling aufkommt, können eigene Heißgetränke sowie etwas Gebäck gerne selbst mitgebracht werden.
+
 Parkmöglichkeiten befinden sich unter anderem entlang der Straße „An der Hachinger Haid“. Auch mit öffentlichen Verkehrsmitteln ist der Treffpunkt gut erreichbar: Von der S-Bahn-Haltestelle „Unterhaching“ ist er bequem zu Fuß zu erreichen.
