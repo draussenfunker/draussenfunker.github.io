@@ -19,6 +19,10 @@ In Duisburg treffen wir uns ebenfalls am 05.12.2026 um 11 Uhr, und zwar an der S
 
 Alle, die Interesse an Portabelfunk oder POTA haben, sind herzlich willkommen. Gäste und Neugierige können gerne auch ohne eigenes Funkgerät vorbeikommen.
 
+Wer mag, bringt sich etwas zu essen und zu trinken mit. Es wird warme Kleidung empfohlen.
+
+Parken könnt ihr am Kalkweg, dort gibt es genug Plätze. Von da sind es knapp 10 Minuten zu Fuß. Mit dem Fahrrad kommt ihr direkt bis zur Hütte.
+
 ## Hamburg
 
 In Hamburg treffen wir uns ab 11 Uhr im Hammer Park zu einer gemeinsamen Parks-On-The-Air-Aktivierung bei heißen Getränken und knusprigem Weihnachtsgebäck.
@@ -44,8 +48,3 @@ Alle Interessierten am Portabelfunk, Amateurfunk und an POTA-Aktivierungen sind 
 Damit auch von innen gewärmt wird und echtes Winterfeeling aufkommt, können eigene Heißgetränke sowie etwas Gebäck gerne selbst mitgebracht werden.
 
 Parkmöglichkeiten befinden sich unter anderem entlang der Straße „An der Hachinger Haid“. Auch mit öffentlichen Verkehrsmitteln ist der Treffpunkt gut erreichbar: Von der S-Bahn-Haltestelle „Unterhaching“ ist er bequem zu Fuß zu erreichen.
-
-
-Wer mag, bringt sich etwas zu essen und zu trinken mit. Es wird warme Kleidung empfohlen.
-
-Parken könnt ihr am Kalkweg, dort gibt es genug Plätze. Von da sind es knapp 10 Minuten zu Fuß. Mit dem Fahrrad kommt ihr direkt bis zur Hütte.
