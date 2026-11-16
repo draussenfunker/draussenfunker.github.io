@@ -38,3 +38,13 @@ Alle Interessierten am Portabelfunk, Amateurfunk und an POTA-Aktivierungen sind 
 Damit auch von innen gewärmt wird und echtes Winterfeeling aufkommt, können eigene Heißgetränke sowie etwas Gebäck gerne selbst mitgebracht werden.
 
 Parkmöglichkeiten befinden sich unter anderem entlang der Straße „An der Hachinger Haid“. Auch mit öffentlichen Verkehrsmitteln ist der Treffpunkt gut erreichbar: Von der S-Bahn-Haltestelle „Unterhaching“ ist er bequem zu Fuß zu erreichen.
+
+## Duisburg
+
+In Duisburg treffen wir uns ebenfalls am 05.12.2026 um 11 Uhr, und zwar an der Sechs-Seen-Platte (POTA-Referenz [DE-0425](https://pota.app/park/DE-0425)). Treffpunkt ist die [Schutzhütte](https://www.openstreetmap.org/?mlat=51.3844418&mlon=6.7929982#map=17/51.3844418/6.7929982) zwischen Wambach- und Wildförstersee.
+
+Alle, die Interesse an Portabelfunk oder POTA haben, sind herzlich willkommen. Gäste und Neugierige können gerne auch ohne eigenes Funkgerät vorbeikommen.
+
+Wer mag, bringt sich etwas zu essen und zu trinken mit. Es wird warme Kleidung empfohlen.
+
+Parken könnt ihr am Kalkweg, dort gibt es genug Plätze. Von da sind es knapp 10 Minuten zu Fuß. Mit dem Fahrrad kommt ihr direkt bis zur Hütte.
