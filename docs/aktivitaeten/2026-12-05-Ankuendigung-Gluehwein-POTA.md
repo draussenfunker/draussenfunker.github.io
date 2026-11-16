@@ -15,7 +15,7 @@ Am 05.12. findet deutschlandweit das traditionelle Winterfest der Draußenfunker
 
 ## Duisburg
 
-In Duisburg treffen wir uns ebenfalls am 05.12.2026 um 11 Uhr, und zwar an der Sechs-Seen-Platte (POTA-Referenz [DE-0425](https://pota.app/park/DE-0425)). Treffpunkt ist die [Schutzhütte](https://www.openstreetmap.org/?mlat=51.3844418&mlon=6.7929982#map=17/51.3844418/6.7929982) zwischen Wambach- und Wildförstersee.
+In Duisburg treffen wir uns am 05.12.2026 um 11 Uhr, und zwar an der Sechs-Seen-Platte (POTA-Referenz [DE-0425](https://pota.app/park/DE-0425)). Treffpunkt ist die [Schutzhütte](https://www.openstreetmap.org/?mlat=51.3844418&mlon=6.7929982#map=17/51.3844418/6.7929982) zwischen Wambach- und Wildförstersee.
 
 Alle, die Interesse an Portabelfunk oder POTA haben, sind herzlich willkommen. Gäste und Neugierige können gerne auch ohne eigenes Funkgerät vorbeikommen.
 
