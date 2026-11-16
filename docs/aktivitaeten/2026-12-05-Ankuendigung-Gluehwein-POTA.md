@@ -1,7 +1,7 @@
 ---
 title: Glühwein-POTA am 05.12.2026
 description:
-    Am Ende des Jahres findet wieder ddeutschlandweit das traditionelle Winterfest der Draußenfunker statt.
+    Am Ende des Jahres findet wieder deutschlandweit das traditionelle Winterfest der Draußenfunker statt.
 type: activity
 image: /aktivitaeten/Jahresrueckblick-2025-01-01/03.jpg
 features:
