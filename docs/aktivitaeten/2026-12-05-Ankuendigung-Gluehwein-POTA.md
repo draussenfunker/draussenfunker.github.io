@@ -39,6 +39,22 @@ Mehr Infos auf unter "Aktivitäten" oder im Discord.
 
 73 Harm - DK4HAA und Ove - DK1BOU für die Draußenfunker
 
+## Leipzig
+
+In Leipzig treffen wir uns gegen 11 Uhr zu einer gemeinsamen Parks-On-The-Air-Aktivierung im Wilhelm-Külz-Park (POTA-Referenz [DE-0723](https://pota.app/park/DE-0723)). Der Treffpunkt ist gegenüber vom Völkerschlachtenkmal in der Nähe der S-Bahn Brücke zur alten Messe und direkt am Parkplatz: [Link zu OSM](https://www.openstreetmap.org/#map=19/51.316193/12.405619). 
+
+Parken könnt Ihr direkt am Treffpunkt. Mit Bus, Bahn und S-Bahn sind wir auch gut erreichbar, einfach über den S-Bahnhof Völkerschlachtdenkmal oder die Haltestelle "Naunhofer Straße" und dann noch ein paar Meter zu Fuß.
+
+Alle, die Interesse an Portabelfunk oder POTA haben sind herzlich willkommen. 
+
+Wir werden verschiedene portable Antennen für KW aufbauen, das eine oder andere Funkgerät vor Ort haben und fröhlich den Park aktivieren. Gerne darf eigenes Equipment mitgebracht und aufgebaut werden. Gäste und Neugierige können gerne auch ohne eigenes Material vorbeikommen.
+
+Erreichbar sind wir vor Ort dann über 2m auf 145,775 MHz - DB0LEI und über Tetra auf der Leipziger TG 26302.
+
+Denkt bitte je nach Wetter an entsprechende Kleidung. Wir freuen uns!
+
+73 Thomas DG9TL, Daniel DM7PL und Felix DL7LW
+
 ## München
 
 Auch in München findet am 05.12.2026 um 11 Uhr eine gemeinsame Parks-On-The-Air-Aktivierung im Landschaftspark Hachinger Tal (POTA-Referenz [DE-0546](https://pota.app/park/DE-0546)) statt. Der Park liegt zwischen Neubiberg und Unterhaching auf dem Gelände des ehemaligen Militärflugplatzes, unmittelbar neben der Bundeswehruniversität. Als Treffpunkt dient der am westlichen Ende der Landebahn gelegene [Pavillon](https://umap.openstreetmap.de/de/map/anonymous-edit/169124:6vH9fpc70zv6X5VLGPPZceaTTZXxKVj9atbPjGC7lZA) beim Beachvolleyballplatz.
