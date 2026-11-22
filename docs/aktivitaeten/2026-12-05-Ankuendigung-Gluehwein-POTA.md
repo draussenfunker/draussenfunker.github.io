@@ -23,6 +23,22 @@ Wer mag, bringt sich etwas zu essen und zu trinken mit. Es wird warme Kleidung e
 
 Parken könnt ihr am Kalkweg, dort gibt es genug Plätze. Von da sind es knapp 10 Minuten zu Fuß. Mit dem Fahrrad kommt ihr direkt bis zur Hütte.
 
+## Frankfurt am Main (Butzbach)
+
+Auch in Butzbach (Hessen) sind wir beim Winterfest der Draußenfunker am 05.12.2026 ab 11 Uhr am Start. Wir treffen uns zu einer gemeinsamen Parks-On-The-Air-Aktivierung im Naturpark Taunus (POTA-Referenz [DE-0034](https://pota.app/park/DE-0034)), direkt oben am [Hausbergturm](https://osm.org/go/0D1NBDLQU?way=361432624).
+
+Alle, die Lust auf Portabelfunk, Amateurfunk oder POTA haben, sind herzlich willkommen – egal ob mit eigenem Funkgerät und Antenne im Gepäck oder einfach als neugieriger Gast zum Reinschnuppern und Fachsimpeln.
+
+Für die nötige Energie beim Funken ist gesorgt: Es gibt natürlich wie immer Muffins, und ein bis drei Flaschen alkoholfreier Glühwein stehen ebenfalls vor Ort bereit. Wer darüber hinaus noch etwas für sich oder die Runde mitbringen möchte, darf das sehr gerne tun.
+
+Denkt auf jeden Fall an wetterfeste, warme Kleidung, denn oben am Turm pfeift im Dezember oft ein frischer Wind.
+
+Für die Anreise mit dem Auto stehen euch am Fuß des Hausbergs zwei Parkplätze ([P1](https://osm.org/go/0D1Hu5tQk) und [P2](https://www.openstreetmap.org/#map=19/50.403432/8.610985)) zur Verfügung. Von dort aus führt jeweils ein etwa 15- bis 20-minütiger Fußmarsch hinauf zum Turm – ideal, um schon mal auf Betriebstemperatur zu kommen.
+
+Für die Anreise oder einen kurzen Funkkontakt zwischendurch sind wir auf der Einweisefrequenz 145,525 MHz QRV. Natürlich sind wir auch über das Relais DB0FT zu erreichen.
+
+73 Andreas - DA6GU und Max - DM6AX ... bis bald auf dem [Hausberg](https://de.wikipedia.org/wiki/Hausberg_%28Taunus%29)!
+
 ## Hamburg
 
 In Hamburg treffen wir uns ab 11 Uhr im Hammer Park zu einer gemeinsamen Parks-On-The-Air-Aktivierung bei heißen Getränken und knusprigem Weihnachtsgebäck.
