@@ -13,6 +13,22 @@ features:
 
 Am 05.12. findet deutschlandweit das traditionelle Winterfest der Draußenfunker statt.
 
+## Bodensee-Region
+
+Erstmalig werden wir uns auch im Dreiländereck am Bodensee zum Glühwein-POTA treffen und hoffen auf zahlreiche Teilnehmer. Wer Spaß am Draußenfunken hat, ist auf jeden Fall herzlich willkommen.
+
+QTH ist das [Wetterkreuz bei Meersburg](https://www.openstreetmap.org/?mlat=47.689944&mlon=9.285647#map=17/47.689944/9.285647&layers=N), wo man hohe Bäume und viel Platz für Antennenaufbauten hat. Bei schönem Wetter wird man zudem mit einem tollen Ausblick auf den See und die Alpen belohnt.
+
+Die Anfahrt mit dem Auto ist problemlos über die B31 oder per Fähre möglich; [Parkmöglichkeiten](https://www.echt-bodensee.de/attraktion/parkplatz-toebele-2bddd51414) stehen in ausreichender Anzahl zur Verfügung (von dort aus sind es nur ein paar Schritte zum Wetterkreuz). Radfahrer nehmen den Bodenseeradweg und biegen dann auf den Höhenweg zwischen Meersburg und Stetten ab. Auch mit dem Bus der Seelinie 7395 erreicht man die Location gut (Haltestelle „Meersburg Sabaheim“).
+
+Wir planen, die beiden POTA-Referenzen [DE-0598](https://pota.app/park/DE-0598) und [DE-0954](https://pota.app/park/DE-0954) zu aktivieren. Mindestens eine Station wird aufgebaut sein und kann mitbenutzt werden – theoretisch ist auch Ausbildungsbetrieb möglich. Natürlich ist jeder herzlich willkommen, sein eigenes Equipment mitzubringen – das ist immer auch eine gute Grundlage für Gespräche und Fachsimpeleien ;-)
+
+In begrenztem Umfang werden wir auch Punsch (und vielleicht auch Glühwein) sowie ein paar Knabbereien dabei haben. Wenn jeder noch eine Kleinigkeit mitbringt, wird es sicher eine schöne Aktion.
+
+Vor Ort sind wir auf 145,500 MHz erreichbar.
+
+73 Falko DM5XT & Olaf DL3BOB
+
 ## Duisburg
 
 In Duisburg treffen wir uns am 05.12.2026 um 11 Uhr, und zwar an der Sechs-Seen-Platte (POTA-Referenz [DE-0425](https://pota.app/park/DE-0425)). Treffpunkt ist die [Schutzhütte](https://www.openstreetmap.org/?mlat=51.3844418&mlon=6.7929982#map=17/51.3844418/6.7929982) zwischen Wambach- und Wildförstersee.
