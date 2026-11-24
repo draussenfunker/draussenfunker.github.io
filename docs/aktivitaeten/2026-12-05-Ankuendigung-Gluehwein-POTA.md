@@ -15,11 +15,11 @@ Am 05.12. findet deutschlandweit das traditionelle Winterfest der Draußenfunker
 
 ## Berlin 
 
-Auch in Berlin treffen wir uns am 05.12.2026 gegen 11:00 Uhr (zum deutschlandweiten Winterfest der Draußenfunker). Wir wollen gemeinsam den Treptower Park aktivieren und einige gemütliche Stunden unter Funkfreunden verbringen.
+In Berlin treffen wir uns am 05.12.2026 gegen 11:00 Uhr zum deutschlandweiten Winterfest der Draußenfunker. Wir wollen gemeinsam den Treptower Park aktivieren und einige gemütliche Stunden unter Funkfreunden verbringen.
 Unser Treffpunkt befindet sich südlich der Anlegestelle „Hafen Treptow“, im Bereich der POTA-Referenzen DE-0217 und DE-0628. Der genaue Treffpunkt ist über die 3-Wort-Adresse zu finden: https://w3w.co/erloschen.kurzfilme.deutlich Bringt gerne mit, was ihr anderen Draußenfunkern zeigen möchtet oder schaut einfach, was die anderen dabei haben.
 
 Geplant ist außerdem:
-* Ein P2P-Sked auf 40m mit den anderen Orten, evtl. live auf twitch (DL9PK)
+* Ein P2P-Sked auf 40m mit den anderen Orten, evtl. live auf twitch ([DL9PK](https://twitch.tv/dl9pk/home))
 * Die Möglichkeit die Parks auf 10 verschiedenen Bändern zu aktivieren, N1CC (DL7EDU, DL7DL)
 * Mit einem 2m CW QSO, Mitglied im bkg.club zu werden (DL8ROB)
 
