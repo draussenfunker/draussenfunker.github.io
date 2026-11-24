@@ -13,6 +13,21 @@ features:
 
 Am 05.12. findet deutschlandweit das traditionelle Winterfest der Draußenfunker statt.
 
+## Berlin 
+
+In Berlin treffen wir uns am 05.12.2026 gegen 11:00 Uhr zum deutschlandweiten Winterfest der Draußenfunker. Wir wollen gemeinsam den Treptower Park aktivieren und einige gemütliche Stunden unter Funkfreunden verbringen.
+Unser Treffpunkt befindet sich südlich der Anlegestelle „Hafen Treptow“, im Bereich der POTA-Referenzen [DE-0217](https://pota.app/park/DE-0217) und [DE-0628](https://pota.app/park/DE-0628). Der genaue Treffpunkt ist über die 3-Wort-Adresse zu finden: https://w3w.co/erloschen.kurzfilme.deutlich Bringt gerne mit, was ihr anderen Draußenfunkern zeigen möchtet oder schaut einfach, was die anderen dabei haben.
+
+Geplant ist außerdem:
+* Ein P2P-Sked auf 40m mit den anderen Orten, evtl. live auf twitch ([DL9PK](https://twitch.tv/dl9pk/home))
+* Die Möglichkeit die Parks auf 10 verschiedenen Bändern zu aktivieren, N1CC (DL7EDU, DL7DL)
+* Mit einem 2m CW QSO, Mitglied im [bkg.club](https://www.bkg.club) zu werden (DL8ROB)
+
+In erster Linie geht es aber darum, sich persönlich kennenzulernen und sich über die vielen Fragen rund um das Funken in der Natur auszutauschen. Wir freuen uns über jeden, der sich für das draußen Funken interessiert.
+
+73 René - DL7DL
+
+
 ## Bodensee-Region
 
 Erstmalig werden wir uns auch im Dreiländereck am Bodensee zum Glühwein-POTA treffen und hoffen auf zahlreiche Teilnehmer. Wer Spaß am Draußenfunken hat, ist auf jeden Fall herzlich willkommen.
