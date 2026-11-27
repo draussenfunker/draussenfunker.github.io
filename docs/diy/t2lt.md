@@ -20,16 +20,16 @@ Die Antenne besteht im Wesentlichen aus einem einfachem RG-174 Koaxialkabel mit 
 
 ![Bauteile](/images/diy/t2lt/t2lt-bauteile.jpeg)
 
-- ca. 6,5 m an RG-174 Koax-Kabel (ca. 90 cm für den Dipol-Teil und 75 cm für die Mantelwellensperre. Zzgl. der gewünschten Länge an Zuleitung, hier ca. 5 m)
-- ca. 5 cm PVC oder HDPE-Rohr mit einem Durchmesser von 25 mm als Spulenkörper
-- ca. 5 cm Schrumpfschlauch mit ca. 50 mm Durchmesser vor dem Schrumpfen, um die Spule/Mantelwellensperre zu fixieren.
-- 1 m Schnur, Durchmesser ca. 2 mm
-- ca. 90 cm Schrumpfschlau mit ca. 6 mm Durchmesser vor dem Schrumpfen, der den Dipol-Teil und Schnur zusammenhält
-- BNC-Stecker passend zum Kabeldurchmesser zum Ancrimpen (oder anderer gewünschter Stecker)
-- Klett-Kabelbinder
+- Ca. 6,5 m an RG-174 Koax-Kabel (ca. 90 cm für den Dipol-Teil und 75 cm für die Mantelwellensperre. Zzgl. der gewünschten Länge an Zuleitung, hier ca. 5 m).
+- Ca. 5 cm PVC oder HDPE-Rohr mit einem Durchmesser von 25 mm als Spulenkörper.
+- Ca. 5 cm Schrumpfschlauch mit ca. 50 mm Durchmesser vor dem Schrumpfen, um die Spule/Mantelwellensperre zu fixieren.
+- 1 m Schnur, Durchmesser ca. 2 mm.
+- Ca. 90 cm Schrumpfschlauch mit ca. 6 mm Durchmesser vor dem Schrumpfen, der den Dipol-Teil und Schnur zusammenhält.
+- BNC-Stecker passend zum Kabeldurchmesser zum Ancrimpen (oder anderer gewünschter Stecker).
+- Klett-Kabelbinder.
 
 :::tip Tipp
-Wie bei allen Draußenfunker-Antennen könnt ihr auf dem Discord-Server mal nachfragen, ob euch jemand ein Bastel-Kit für diese Antenne zusammenstellen und zuschicken kann. Meistens hat noch genug Teile über und gibt diese gerne zum Selbstkostenpreis weiter.
+Wie bei allen Draußenfunker-Antennen könnt ihr auf dem Discord-Server mal nachfragen, ob euch jemand ein Bastel-Kit für diese Antenne zusammenstellen und zuschicken kann. Meistens hat noch jemand genug Teile über und gibt diese gerne zum Selbstkostenpreis weiter.
 :::
 
 ## Werkzeug
@@ -48,7 +48,7 @@ Wie bei allen Draußenfunker-Antennen könnt ihr auf dem Discord-Server mal nach
 ## Zusammenbau
 
 Das Ziel besteht darin, die die unten abgebildete Konstruktion herzustellen. Die Maße für den Dipol-Teil rechts und die Mantelwellensperre sind kritisch, die Länge der Zuleitung (links) kann frei gewählt werden bzw. ergibt sich aus dem Koax-Rest nach dem Herstellen des rechten Teils.
- 
+
 ![Zeichnung Antennenaufbau](/images/diy/t2lt/t2lt-zeichnung-antennenaufbau.jpg)
 
 
@@ -58,7 +58,7 @@ Hinweis: Die Bilder dieses Artikels sind beim Aufbau in einer anderen Reihenfolg
 
 ### Antennenleiter
 
-Wir beginnen mit dem Dipol-Teil der Antenne und messen hierfür 43,5 cm vom Kabelende aus gesehen ab und entfernen vorsichtig den Mantel und das Schirm-Geflecht vom Kabel. 
+Wir beginnen mit dem Dipol-Teil der Antenne und messen hierfür 43,5 cm vom Kabelende aus gesehen ab und entfernen vorsichtig den Mantel und das Schirm-Geflecht vom Kabel.
 **Wichtig**: der weiße bzw. durchsichtige Innenleiter bleibt dabei dran! Es bleibt nur der Innenleiter vom Kabel übrig. Dies ist der eine Schenkel des Dipols.
 
 Danach messen wir 45 cm ab der aufgetrennten Stelle bzw. 88,5 cm von der Spitze der Antenne ab und markieren uns diese Stelle. Dieses Stück Koaxkabel ist der zweite Dipolschenkel.
@@ -72,7 +72,7 @@ Später sieht dies dann so aus: 43,5 cm reiner Innenleiter, 45 cm Koax mit Schir
 
 Gleich bohren wir drei Löcher mit einem Durchmesser von 3 mm in den Spulenkörper:
 
-- 2 Löcher gleichmäßig auf der Längs-Achse des Rohrs mit einem Abstand von 27 mm zueinander. Diese dienen als Anfangs- und End-Punkt der Spule und das Koaxkabel wird durch diese geführt. **Wichtig: Hinweis unten beachten**
+- 2 Löcher gleichmäßig auf der Längs-Achse des Rohrs mit einem Abstand von 27 mm zueinander. Diese dienen als Anfangs- und End-Punkt der Spule und das Koaxkabel wird durch diese geführt. **Wichtig: Hinweis unten beachten.**
 - 1 Loch etwas weiter nach außen und in der Nähe des Koax-Lochs. Hier wird später die Schnur zum Aufhängen der Antenne befestigt.
 
 ![Foto gewickelte Spule](/images/diy/t2lt/t2lt-spule-gewickelt.jpeg)
@@ -80,8 +80,8 @@ Gleich bohren wir drei Löcher mit einem Durchmesser von 3 mm in den Spulenkörp
 ::: tip Hinweis
 Je nach Toleranzen des Koax kann der Außendurchmesser abweichen. Dies hat zwei Folgen:
 
-1. Ggf. müssen die Lochdurchmesser etwas vergrößert werden. Hierzu reicht es in der Regel, den Bohrer beim Bohren schräg in einer Kreisbewegung zu bewegen und damit den Lochdurchmesser zu weiten.
-2. Die Abstände der beiden Löcher können von den Angaben oben abweichen. Hier hat sich bewährt, erst das "obere" Loch (zur Antennenspitze) zu bohren, das Koax testweise als Spule zu wickeln und dann passgenau das zweite Loch zu bohren. Das Verfahren ist unten genauer beschrieben.
+1. Ggf. müssen die Lochdurchmesser etwas vergrößert werden. Hierzu reicht es in der Regel, den Bohrer beim Bohren schräg im Kreis zu bewegen und damit den Lochdurchmesser zu weiten.
+2. Die Abstände der beiden Löcher können von den Angaben oben abweichen. Hier hat sich bewährt, erst das "obere" Loch (zur Antennenspitze) zu bohren, das Koax testweise als Spule zu wickeln, und dann passgenau das zweite Loch zu bohren. Das Verfahren ist unten genauer beschrieben.
 :::
 
 
@@ -89,13 +89,13 @@ Los geht's!
 
 Zunächst markieren wir uns für das "obere" Ende der Spule (in Richtung Antennenspitze) das Loch für das Koax (ca. 1 cm vom Rand des Spulenkörpers entfernt) und das Loch für die Schnur in der Nähe aber etwas weiter zum Rand. Mit dem Bohrer bohren wir beide Löcher.
 
-Als nächstes führen wir das Koaxkabel durch das entsprechende Loch und zwar so, dass unsere gesetzte Markierung bei 88,5 cm von der Antennenspitze **innen** im Spulenkörper genau beim Loch anliegt. Das Koax sollte mit minimaler Reibung durch das Loch passen. Wenn man stark schieben oder ziehen muss, muss das Loch leicht vergrößert werden. Das Kabel kann entweder von außen mit der Antennenspitze durch das Loch geführt werden. Oder von innen mit dem Ende das später den BNC-Stecker bekommt. Wichtig ist, darauf zu achten, dass man an der Stelle, wo nur noch der Innenleiter übrig ist, nicht zu stark schiebt oder zieht und damit den Innenleiter dehnt oder abreißt.
+Als nächstes führen wir das Koaxkabel durch das entsprechende Loch und zwar so, dass unsere gesetzte Markierung bei 88,5 cm von der Antennenspitze **innen** im Spulenkörper genau beim Loch anliegt. Das Koax sollte mit minimaler Reibung durch das Loch passen. Wenn man stark schieben oder ziehen muss, muss das Loch leicht vergrößert werden. Das Kabel kann entweder von außen mit der Antennenspitze durch das Loch geführt werden. Oder von innen mit dem Ende, das später den BNC-Stecker bekommt. Wichtig ist, darauf zu achten, dass man an der Stelle, wo nur noch der Innenleiter übrig ist, nicht zu stark schiebt oder zieht und damit den Innenleiter dehnt oder abreißt.
 
 Nun wickeln wir mit dem langen Stück Koax 9 Windungen über den Spulenkörper. Die Windungen sollten eng am Spulenkörper und an den benachbarten Koax-Windungen anliegen.
 
 Nach 9 Windungen bestimmen wir die Postion des zweiten Lochs und markieren uns diese.
 
-Wir wickeln einige Windungungen ab oder lockern diese, um Platz zum Bohren zu haben und bohren das Loch. 
+Wir wickeln einige Windungungen ab oder lockern diese, um Platz zum Bohren zu haben und bohren das Loch.
 
 Als nächstes stellen wir die 9 Windungen der Mantelwellensperre wieder her und führen das Ende des langen Koax-Stücks von außen durch das Loch. Mit etwas Geduld und Geschick schieben wir das Koax noch so zurecht, dass alle Windungen stramm und einheitlich sitzen.
 
@@ -110,12 +110,12 @@ Als nächstes werden Spule und Kabel mit Schrumpfschlauch versehen.
 
 ![Foto Schrumpfschlauch vor dem Schrumpfen](/images/diy/t2lt/t2lt-schrumpfschlauch-pre.jpeg)
 
-Als erstes wird der große Schrumpfschlauch über die Spule geschoben und mit Heißluft verschrumpft. 
+Als erstes wird der große Schrumpfschlauch über die Spule geschoben und mit Heißluft verschrumpft.
 
 **Wichtig: Das Bild oben zeigt schon beide Schrumpfschläuche über Spule und Kabel. Zunächst nur die Spule zu bearbeiten hat sich in der Praxis bewährt, weil man dann nicht aus Versehen den anderen Schrumpfschlauch schrumpft.**
 
 
-Als nächstes den dünnen Schrumpfschlauch über die Schnur **und** das Ende mit dem abisolierten Kabel ziehen. Dies ist etwas fummelig und kann auch etwas dauern, vor allem mit der Schnur. Am Ende noch einmal darauf achten, dass die Schnur stramm zum Aufhängen dient und das Kabel ohne mechanische Spannung entlang der Schnur im Schrumpfschlauch liegt. Dies geht am einfachsten, wenn man die Mantelwellensperre festhält und am oberen Ende der Schnur zieht und dabei Schrumpfschlauch und Kabel noch einmal zurechtrückt. 
+Als nächstes den dünnen Schrumpfschlauch über die Schnur **und** das Ende mit dem abisolierten Kabel ziehen. Dies ist etwas fummelig und kann auch etwas dauern, vor allem mit der Schnur. Am Ende noch einmal darauf achten, dass die Schnur stramm zum Aufhängen dient und das Kabel ohne mechanische Spannung entlang der Schnur im Schrumpfschlauch liegt. Dies geht am einfachsten, wenn man die Mantelwellensperre festhält und am oberen Ende der Schnur zieht und dabei Schrumpfschlauch und Kabel noch einmal zurechtrückt.
 
 Zum Abschluss dann auch diesen Schrumpfschlauch schrumpfen.
 
@@ -123,7 +123,7 @@ Zum Abschluss dann auch diesen Schrumpfschlauch schrumpfen.
 
 ### Schlaufe
 
-Damit die Antenne aufgehängt werden kann, müssen wir mit der überschüssigen Schnur noch eine Schleife binden. 
+Damit die Antenne aufgehängt werden kann, müssen wir mit der überschüssigen Schnur noch eine Schleife binden.
 Dafür wurde bei diesem Foto der „Perfection Loop“-Knoten genutzt (auf YouTube gibt es Videos dazu) und anschließend die restliche Schnur abgeschnitten.
 
 ![Foto der angebundene Schnur mit Schleife](/images/diy/t2lt/t2lt-schnur-schleife.jpeg)
@@ -131,7 +131,7 @@ Dafür wurde bei diesem Foto der „Perfection Loop“-Knoten genutzt (auf YouTu
 
 ### BNC-Stecker anbringen
 
-Als nächstes bringen wir den BNC-Stecker am Ende des Kabels an. 
+Als nächstes bringen wir den BNC-Stecker am Ende des Kabels an.
 
 **Wichtig: Bei Crimp-Steckern wird JETZT die Ferrule (Hülse) richtig herum über das Kabel geschoben. Nicht vergessen! ;-)**
 
